@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+pandas
+geopandas
+shapely
+unidecode
+fastapi
+uvicorn
+python-dotenv
