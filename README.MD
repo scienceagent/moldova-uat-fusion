@@ -1,23 +1,30 @@
-# Moldova UAT Fusion
+## Live Demo
 
-Aplicație pentru analiza și vizualizarea comasării unităților administrativ-teritoriale din Republica Moldova.
+Try the application here:  
+🔗 **https://scienceagent.github.io/moldova-uat-fusion/**
 
-## Obiective
+## Local Development
 
-- Colectarea datelor demografice, bugetare și geospațiale
-- Algoritm de comasare bazat pe populație, distanță și criterii financiare
-- Hartă interactivă cu scenarii de amalgamare
-
-## Tehnologii
-
-- Python (scraping, procesare date)
-- FastAPI (backend)
-- React + MapLibre (frontend)
-- PostgreSQL + PostGIS (stocare)
-
-## Instalare
-
+### Backend
 ```bash
 python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
+# Windows
+venv\Scripts\Activate.ps1
+# Linux/macOS
+# source venv/bin/activate
+
+python -m pip install -r requirements.txt
+python scripts/run_pipeline.py
+python -m uvicorn src.api.main:app --reload --port 8000
+```
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Open:
+- Frontend: http://localhost:5173
+- API: http://127.0.0.1:8000/uat/master
