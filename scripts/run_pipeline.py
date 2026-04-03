@@ -1,9 +1,16 @@
 from pathlib import Path
+import sys
 import json
+
+# add repo root to PYTHONPATH
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
 from src.scrapers.primariiputernice_scraper import scrape_pages
 
-RAW = Path("data/raw")
-PROC = Path("data/processed")
+RAW = ROOT / "data" / "raw"
+PROC = ROOT / "data" / "processed"
 RAW.mkdir(parents=True, exist_ok=True)
 PROC.mkdir(parents=True, exist_ok=True)
 
