@@ -1,4 +1,3 @@
-@"
 # Moldova UAT Fusion
 
 Aplicație pentru analiza și vizualizarea comasării unităților administrativ-teritoriale din Republica Moldova.
