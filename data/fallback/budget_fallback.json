@@ -1,0 +1,6267 @@
+{
+  "or. Briceni|Briceni": {
+    "total_revenues": 31548411,
+    "own_revenues": 6191699,
+    "total_expenditures": 31027282,
+    "personnel_costs": 15020860,
+    "functioning_costs": 21719098
+  },
+  "sat. Caracușenii Vechi|Briceni": {
+    "total_revenues": 11678767,
+    "own_revenues": 2892511,
+    "total_expenditures": 11147028,
+    "personnel_costs": 3953399,
+    "functioning_costs": 7802920
+  },
+  "or. Lipcani|Briceni": {
+    "total_revenues": 144120515,
+    "own_revenues": 42722476,
+    "total_expenditures": 152393457,
+    "personnel_costs": 72437371,
+    "functioning_costs": 106675420
+  },
+  "sat. Balasinești|Briceni": {
+    "total_revenues": 10806466,
+    "own_revenues": 3309405,
+    "total_expenditures": 11578205,
+    "personnel_costs": 3492273,
+    "functioning_costs": 8104744
+  },
+  "sat. Beleavinți|Briceni": {
+    "total_revenues": 7891449,
+    "own_revenues": 1728919,
+    "total_expenditures": 7680921,
+    "personnel_costs": 4142346,
+    "functioning_costs": 5376644
+  },
+  "com. Bălcăuți|Briceni": {
+    "total_revenues": 8022905,
+    "own_revenues": 1869133,
+    "total_expenditures": 8053768,
+    "personnel_costs": 3108665,
+    "functioning_costs": 5637638
+  },
+  "com. Berlinți|Briceni": {
+    "total_revenues": 11916856,
+    "own_revenues": 4235324,
+    "total_expenditures": 12279536,
+    "personnel_costs": 6671213,
+    "functioning_costs": 8595675
+  },
+  "com. Bogdănești|Briceni": {
+    "total_revenues": 8568302,
+    "own_revenues": 1736044,
+    "total_expenditures": 8947843,
+    "personnel_costs": 4665074,
+    "functioning_costs": 6263490
+  },
+  "sat. Bulboaca|Briceni": {
+    "total_revenues": 12953997,
+    "own_revenues": 4489857,
+    "total_expenditures": 12395338,
+    "personnel_costs": 4424821,
+    "functioning_costs": 8676737
+  },
+  "com. Colicăuți|Briceni": {
+    "total_revenues": 14147881,
+    "own_revenues": 5650115,
+    "total_expenditures": 15279323,
+    "personnel_costs": 6035815,
+    "functioning_costs": 10695526
+  },
+  "com. Halahora de Sus|Briceni": {
+    "total_revenues": 16201699,
+    "own_revenues": 3688985,
+    "total_expenditures": 16291248,
+    "personnel_costs": 5740657,
+    "functioning_costs": 11403874
+  },
+  "sat. Corjeuți|Briceni": {
+    "total_revenues": 11214843,
+    "own_revenues": 3804542,
+    "total_expenditures": 10774216,
+    "personnel_costs": 4942613,
+    "functioning_costs": 7541951
+  },
+  "sat. Coteala|Briceni": {
+    "total_revenues": 19783078,
+    "own_revenues": 3109719,
+    "total_expenditures": 19919944,
+    "personnel_costs": 10903795,
+    "functioning_costs": 13943960
+  },
+  "sat. Cotiujeni|Briceni": {
+    "total_revenues": 13667941,
+    "own_revenues": 2918091,
+    "total_expenditures": 14559734,
+    "personnel_costs": 4571531,
+    "functioning_costs": 10191814
+  },
+  "com. Medveja|Briceni": {
+    "total_revenues": 4261397,
+    "own_revenues": 1024472,
+    "total_expenditures": 4090635,
+    "personnel_costs": 2161017,
+    "functioning_costs": 2863445
+  },
+  "sat. Criva|Briceni": {
+    "total_revenues": 22823745,
+    "own_revenues": 4796119,
+    "total_expenditures": 23926493,
+    "personnel_costs": 9544469,
+    "functioning_costs": 16748545
+  },
+  "sat. Drepcăuți|Briceni": {
+    "total_revenues": 10744022,
+    "own_revenues": 1599469,
+    "total_expenditures": 11407447,
+    "personnel_costs": 4959323,
+    "functioning_costs": 7985213
+  },
+  "sat. Grimăncăuți|Briceni": {
+    "total_revenues": 17161221,
+    "own_revenues": 5221070,
+    "total_expenditures": 17235005,
+    "personnel_costs": 9467730,
+    "functioning_costs": 12064503
+  },
+  "sat. Tîrgul Vertiujeni|Florești": {
+    "total_revenues": 6328286,
+    "own_revenues": 834184,
+    "total_expenditures": 6056596,
+    "personnel_costs": 1983004,
+    "functioning_costs": 4239617
+  },
+  "sat. Hlina|Briceni": {
+    "total_revenues": 14255733,
+    "own_revenues": 4820839,
+    "total_expenditures": 14818283,
+    "personnel_costs": 5870883,
+    "functioning_costs": 10372798
+  },
+  "com. Larga|Briceni": {
+    "total_revenues": 25509414,
+    "own_revenues": 7275030,
+    "total_expenditures": 27949689,
+    "personnel_costs": 14399538,
+    "functioning_costs": 19564782
+  },
+  "com. Mărcăuți|Briceni": {
+    "total_revenues": 3308433,
+    "own_revenues": 463489,
+    "total_expenditures": 3582101,
+    "personnel_costs": 1747060,
+    "functioning_costs": 2507471
+  },
+  "com. Mihăileni|Briceni": {
+    "total_revenues": 8172065,
+    "own_revenues": 2060732,
+    "total_expenditures": 8319641,
+    "personnel_costs": 4479744,
+    "functioning_costs": 5823749
+  },
+  "sat. Pererîta|Briceni": {
+    "total_revenues": 13098683,
+    "own_revenues": 4803114,
+    "total_expenditures": 13441243,
+    "personnel_costs": 4389946,
+    "functioning_costs": 9408870
+  },
+  "sat. Șirăuți|Briceni": {
+    "total_revenues": 16262475,
+    "own_revenues": 5263063,
+    "total_expenditures": 16934856,
+    "personnel_costs": 5727534,
+    "functioning_costs": 11854399
+  },
+  "sat. Trebisăuți|Briceni": {
+    "total_revenues": 7108754,
+    "own_revenues": 2648148,
+    "total_expenditures": 7318840,
+    "personnel_costs": 2196698,
+    "functioning_costs": 5123188
+  },
+  "sat. Slobozia-Șirăuți|Briceni": {
+    "total_revenues": 11130332,
+    "own_revenues": 1548827,
+    "total_expenditures": 11179830,
+    "personnel_costs": 6107880,
+    "functioning_costs": 7825881
+  },
+  "sat. Tabani|Briceni": {
+    "total_revenues": 8624856,
+    "own_revenues": 1589604,
+    "total_expenditures": 8927619,
+    "personnel_costs": 2854064,
+    "functioning_costs": 6249333
+  },
+  "sat. Tețcani|Briceni": {
+    "total_revenues": 19315518,
+    "own_revenues": 8543149,
+    "total_expenditures": 19893166,
+    "personnel_costs": 6593394,
+    "functioning_costs": 13925216
+  },
+  "mun. Cahul|Cahul": {
+    "total_revenues": 170964080,
+    "own_revenues": 26977181,
+    "total_expenditures": 175947866,
+    "personnel_costs": 79466586,
+    "functioning_costs": 123163506
+  },
+  "sat. Alexandru Ioan Cuza|Cahul": {
+    "total_revenues": 10956989,
+    "own_revenues": 3992100,
+    "total_expenditures": 11542971,
+    "personnel_costs": 5520278,
+    "functioning_costs": 8080079
+  },
+  "com. Burlacu|Cahul": {
+    "total_revenues": 18256669,
+    "own_revenues": 5978280,
+    "total_expenditures": 18543573,
+    "personnel_costs": 7962498,
+    "functioning_costs": 12980501
+  },
+  "sat. Alexanderfeld|Cahul": {
+    "total_revenues": 4691997,
+    "own_revenues": 574343,
+    "total_expenditures": 4472201,
+    "personnel_costs": 1960973,
+    "functioning_costs": 3130541
+  },
+  "sat. Baurci-Moldoveni|Cahul": {
+    "total_revenues": 14334054,
+    "own_revenues": 1789572,
+    "total_expenditures": 14974291,
+    "personnel_costs": 5349348,
+    "functioning_costs": 10482004
+  },
+  "sat. Andrușul de Jos|Cahul": {
+    "total_revenues": 4385587,
+    "own_revenues": 547322,
+    "total_expenditures": 4322876,
+    "personnel_costs": 2019840,
+    "functioning_costs": 3026013
+  },
+  "sat. Borceag|Cahul": {
+    "total_revenues": 8554357,
+    "own_revenues": 3021171,
+    "total_expenditures": 9258872,
+    "personnel_costs": 4111429,
+    "functioning_costs": 6481210
+  },
+  "sat. Andrușul de Sus|Cahul": {
+    "total_revenues": 11052720,
+    "own_revenues": 4229036,
+    "total_expenditures": 10815767,
+    "personnel_costs": 3506825,
+    "functioning_costs": 7571037
+  },
+  "sat. Bucuria|Cahul": {
+    "total_revenues": 12498157,
+    "own_revenues": 3048123,
+    "total_expenditures": 13492704,
+    "personnel_costs": 4230540,
+    "functioning_costs": 9444893
+  },
+  "sat. Badicul Moldovenesc|Cahul": {
+    "total_revenues": 3455360,
+    "own_revenues": 1226220,
+    "total_expenditures": 3697542,
+    "personnel_costs": 1210269,
+    "functioning_costs": 2588280
+  },
+  "com. Greblești|Strășeni": {
+    "total_revenues": 5864512,
+    "own_revenues": 1507266,
+    "total_expenditures": 5942406,
+    "personnel_costs": 2196529,
+    "functioning_costs": 4159684
+  },
+  "com. Burlăceni|Cahul": {
+    "total_revenues": 11913968,
+    "own_revenues": 1505743,
+    "total_expenditures": 12762282,
+    "personnel_costs": 6559707,
+    "functioning_costs": 8933597
+  },
+  "com. Chioselia Mare|Cahul": {
+    "total_revenues": 3406606,
+    "own_revenues": 1532117,
+    "total_expenditures": 3663478,
+    "personnel_costs": 1986518,
+    "functioning_costs": 2564435
+  },
+  "com. Lozova|Strășeni": {
+    "total_revenues": 6609568,
+    "own_revenues": 1784414,
+    "total_expenditures": 6491006,
+    "personnel_costs": 2598091,
+    "functioning_costs": 4543704
+  },
+  "sat. Brînza|Cahul": {
+    "total_revenues": 3086839,
+    "own_revenues": 311013,
+    "total_expenditures": 3113272,
+    "personnel_costs": 1655107,
+    "functioning_costs": 2179291
+  },
+  "sat. Colibași|Cahul": {
+    "total_revenues": 12282308,
+    "own_revenues": 4222744,
+    "total_expenditures": 13014036,
+    "personnel_costs": 6452885,
+    "functioning_costs": 9109826
+  },
+  "sat. Crihana Veche|Cahul": {
+    "total_revenues": 11424144,
+    "own_revenues": 2328786,
+    "total_expenditures": 12512938,
+    "personnel_costs": 5565693,
+    "functioning_costs": 8759057
+  },
+  "com. Cucoara|Cahul": {
+    "total_revenues": 11280697,
+    "own_revenues": 2366258,
+    "total_expenditures": 10801508,
+    "personnel_costs": 4527961,
+    "functioning_costs": 7561055
+  },
+  "com. Micăuți|Strășeni": {
+    "total_revenues": 12326946,
+    "own_revenues": 5377909,
+    "total_expenditures": 11858729,
+    "personnel_costs": 4108530,
+    "functioning_costs": 8301110
+  },
+  "sat. Cîșlița-Prut|Cahul": {
+    "total_revenues": 12312025,
+    "own_revenues": 4944961,
+    "total_expenditures": 12442118,
+    "personnel_costs": 6661498,
+    "functioning_costs": 8709482
+  },
+  "sat. Huluboaia|Cahul": {
+    "total_revenues": 14296533,
+    "own_revenues": 4404500,
+    "total_expenditures": 14909957,
+    "personnel_costs": 6035644,
+    "functioning_costs": 10436970
+  },
+  "com. Micleușeni|Strășeni": {
+    "total_revenues": 19048329,
+    "own_revenues": 4014044,
+    "total_expenditures": 18840985,
+    "personnel_costs": 8806870,
+    "functioning_costs": 13188689
+  },
+  "com. Doina|Cahul": {
+    "total_revenues": 8758719,
+    "own_revenues": 2089174,
+    "total_expenditures": 9203255,
+    "personnel_costs": 3451214,
+    "functioning_costs": 6442279
+  },
+  "sat. Iujnoe|Cahul": {
+    "total_revenues": 14653430,
+    "own_revenues": 6264444,
+    "total_expenditures": 13941234,
+    "personnel_costs": 6347302,
+    "functioning_costs": 9758864
+  },
+  "com. Găvănoasa|Cahul": {
+    "total_revenues": 24301185,
+    "own_revenues": 3053231,
+    "total_expenditures": 23863111,
+    "personnel_costs": 8741060,
+    "functioning_costs": 16704178
+  },
+  "sat. Giurgiulești|Cahul": {
+    "total_revenues": 15375705,
+    "own_revenues": 6269360,
+    "total_expenditures": 15459181,
+    "personnel_costs": 5247413,
+    "functioning_costs": 10821426
+  },
+  "com. Larga Nouă|Cahul": {
+    "total_revenues": 19733962,
+    "own_revenues": 6198185,
+    "total_expenditures": 21669566,
+    "personnel_costs": 10043716,
+    "functioning_costs": 15168696
+  },
+  "sat. Lopățica|Cahul": {
+    "total_revenues": 3170585,
+    "own_revenues": 932503,
+    "total_expenditures": 3455187,
+    "personnel_costs": 1126034,
+    "functioning_costs": 2418631
+  },
+  "com. Lebedenco|Cahul": {
+    "total_revenues": 5056213,
+    "own_revenues": 2080123,
+    "total_expenditures": 5366475,
+    "personnel_costs": 1818494,
+    "functioning_costs": 3756533
+  },
+  "sat. Negrești|Strășeni": {
+    "total_revenues": 10915528,
+    "own_revenues": 3833143,
+    "total_expenditures": 10703107,
+    "personnel_costs": 4908011,
+    "functioning_costs": 7492175
+  },
+  "sat. Onești|Strășeni": {
+    "total_revenues": 9666554,
+    "own_revenues": 1816272,
+    "total_expenditures": 10500042,
+    "personnel_costs": 3283360,
+    "functioning_costs": 7350029
+  },
+  "sat. Lucești|Cahul": {
+    "total_revenues": 18341401,
+    "own_revenues": 3610286,
+    "total_expenditures": 17434086,
+    "personnel_costs": 8591165,
+    "functioning_costs": 12203860
+  },
+  "com. Tartaul de Salcie|Cahul": {
+    "total_revenues": 7079647,
+    "own_revenues": 1802779,
+    "total_expenditures": 7475046,
+    "personnel_costs": 3290715,
+    "functioning_costs": 5232533
+  },
+  "com. Manta|Cahul": {
+    "total_revenues": 3754796,
+    "own_revenues": 1536039,
+    "total_expenditures": 4076166,
+    "personnel_costs": 1778829,
+    "functioning_costs": 2853317
+  },
+  "sat. Romănești|Strășeni": {
+    "total_revenues": 13216791,
+    "own_revenues": 2006743,
+    "total_expenditures": 12808615,
+    "personnel_costs": 4829675,
+    "functioning_costs": 8966031
+  },
+  "com. Moscovei|Cahul": {
+    "total_revenues": 4782473,
+    "own_revenues": 829887,
+    "total_expenditures": 4722355,
+    "personnel_costs": 1538063,
+    "functioning_costs": 3305648
+  },
+  "sat. Sireți|Strășeni": {
+    "total_revenues": 22676874,
+    "own_revenues": 5493066,
+    "total_expenditures": 23654229,
+    "personnel_costs": 8010229,
+    "functioning_costs": 16557961
+  },
+  "com. Pelinei|Cahul": {
+    "total_revenues": 11398388,
+    "own_revenues": 5034350,
+    "total_expenditures": 12214692,
+    "personnel_costs": 6355964,
+    "functioning_costs": 8550284
+  },
+  "sat. Roșu|Cahul": {
+    "total_revenues": 2455747,
+    "own_revenues": 1040182,
+    "total_expenditures": 2621161,
+    "personnel_costs": 1056140,
+    "functioning_costs": 1834813
+  },
+  "sat. Slobozia Mare|Cahul": {
+    "total_revenues": 7552984,
+    "own_revenues": 2836758,
+    "total_expenditures": 7297802,
+    "personnel_costs": 3780566,
+    "functioning_costs": 5108461
+  },
+  "sat. Taraclia de Salcie|Cahul": {
+    "total_revenues": 11898572,
+    "own_revenues": 4590532,
+    "total_expenditures": 12125186,
+    "personnel_costs": 4562680,
+    "functioning_costs": 8487631
+  },
+  "sat. Tătărești|Cahul": {
+    "total_revenues": 6812671,
+    "own_revenues": 2255073,
+    "total_expenditures": 6879230,
+    "personnel_costs": 2542913,
+    "functioning_costs": 4815461
+  },
+  "sat. Gura Galbenei|Cimișlia": {
+    "total_revenues": 6042761,
+    "own_revenues": 1194616,
+    "total_expenditures": 6322071,
+    "personnel_costs": 2528320,
+    "functioning_costs": 4425450
+  },
+  "sat. Vadul lui Isac|Cahul": {
+    "total_revenues": 14682325,
+    "own_revenues": 1610067,
+    "total_expenditures": 15879754,
+    "personnel_costs": 5800934,
+    "functioning_costs": 11115827
+  },
+  "sat. Văleni|Cahul": {
+    "total_revenues": 24481602,
+    "own_revenues": 4722825,
+    "total_expenditures": 23655602,
+    "personnel_costs": 9666647,
+    "functioning_costs": 16558921
+  },
+  "sat. Viișoara|Edineț": {
+    "total_revenues": 10413527,
+    "own_revenues": 4628631,
+    "total_expenditures": 10073493,
+    "personnel_costs": 5287337,
+    "functioning_costs": 7051445
+  },
+  "com. Zîrnești|Cahul": {
+    "total_revenues": 6214952,
+    "own_revenues": 2163269,
+    "total_expenditures": 5905781,
+    "personnel_costs": 3138296,
+    "functioning_costs": 4134047
+  },
+  "or. Cimișlia|Cimișlia": {
+    "total_revenues": 160903963,
+    "own_revenues": 69042618,
+    "total_expenditures": 170647608,
+    "personnel_costs": 59600176,
+    "functioning_costs": 119453326
+  },
+  "com. Albina|Cimișlia": {
+    "total_revenues": 9423991,
+    "own_revenues": 3133319,
+    "total_expenditures": 9419562,
+    "personnel_costs": 3565106,
+    "functioning_costs": 6593693
+  },
+  "sat. Batîr|Cimișlia": {
+    "total_revenues": 6914882,
+    "own_revenues": 1418331,
+    "total_expenditures": 6889938,
+    "personnel_costs": 2770432,
+    "functioning_costs": 4822956
+  },
+  "sat. Cenac|Cimișlia": {
+    "total_revenues": 15331414,
+    "own_revenues": 4508116,
+    "total_expenditures": 15006020,
+    "personnel_costs": 6996292,
+    "functioning_costs": 10504214
+  },
+  "sat. Ciucur-Mingir|Cimișlia": {
+    "total_revenues": 14422316,
+    "own_revenues": 5999423,
+    "total_expenditures": 15032773,
+    "personnel_costs": 5640860,
+    "functioning_costs": 10522941
+  },
+  "com. Codreni|Cimișlia": {
+    "total_revenues": 21597847,
+    "own_revenues": 4456850,
+    "total_expenditures": 21198878,
+    "personnel_costs": 10523965,
+    "functioning_costs": 14839215
+  },
+  "com. Ecaterinovca|Cimișlia": {
+    "total_revenues": 20980492,
+    "own_revenues": 5512538,
+    "total_expenditures": 21322977,
+    "personnel_costs": 7536081,
+    "functioning_costs": 14926084
+  },
+  "com. Gradiște|Cimișlia": {
+    "total_revenues": 18630767,
+    "own_revenues": 8121919,
+    "total_expenditures": 19755957,
+    "personnel_costs": 9180844,
+    "functioning_costs": 13829170
+  },
+  "com. Hîrtop|Cimișlia": {
+    "total_revenues": 10273680,
+    "own_revenues": 3303289,
+    "total_expenditures": 10276539,
+    "personnel_costs": 5185602,
+    "functioning_costs": 7193577
+  },
+  "com. Ialpujeni|Cimișlia": {
+    "total_revenues": 10029739,
+    "own_revenues": 1791554,
+    "total_expenditures": 9827835,
+    "personnel_costs": 3008363,
+    "functioning_costs": 6879484
+  },
+  "sat. Ivanovca Nouă|Cimișlia": {
+    "total_revenues": 12509851,
+    "own_revenues": 3927416,
+    "total_expenditures": 13326412,
+    "personnel_costs": 5515189,
+    "functioning_costs": 9328488
+  },
+  "com. Javgur|Cimișlia": {
+    "total_revenues": 20494057,
+    "own_revenues": 7202044,
+    "total_expenditures": 20649746,
+    "personnel_costs": 8258106,
+    "functioning_costs": 14454822
+  },
+  "com. Lipoveni|Cimișlia": {
+    "total_revenues": 7309411,
+    "own_revenues": 745126,
+    "total_expenditures": 7767307,
+    "personnel_costs": 3825488,
+    "functioning_costs": 5437115
+  },
+  "sat. Sagaidac|Cimișlia": {
+    "total_revenues": 6601743,
+    "own_revenues": 1165831,
+    "total_expenditures": 7067935,
+    "personnel_costs": 3350045,
+    "functioning_costs": 4947555
+  },
+  "sat. Mihailovca|Cimișlia": {
+    "total_revenues": 9788139,
+    "own_revenues": 1832530,
+    "total_expenditures": 10544277,
+    "personnel_costs": 4366548,
+    "functioning_costs": 7380994
+  },
+  "sat. Valea Perjei|Cimișlia": {
+    "total_revenues": 16899158,
+    "own_revenues": 7533008,
+    "total_expenditures": 17563596,
+    "personnel_costs": 9440607,
+    "functioning_costs": 12294517
+  },
+  "com. Porumbrei|Cimișlia": {
+    "total_revenues": 15627466,
+    "own_revenues": 5496897,
+    "total_expenditures": 16029354,
+    "personnel_costs": 8137178,
+    "functioning_costs": 11220547
+  },
+  "sat. Carabetovca|Basarabeasca": {
+    "total_revenues": 16470978,
+    "own_revenues": 2564618,
+    "total_expenditures": 17775879,
+    "personnel_costs": 7332860,
+    "functioning_costs": 12443115
+  },
+  "sat. Satul Nou|Cimișlia": {
+    "total_revenues": 11581532,
+    "own_revenues": 2282245,
+    "total_expenditures": 12353455,
+    "personnel_costs": 5202648,
+    "functioning_costs": 8647418
+  },
+  "sat. Rădulenii Vechi|Florești": {
+    "total_revenues": 7412036,
+    "own_revenues": 942212,
+    "total_expenditures": 7359108,
+    "personnel_costs": 2707628,
+    "functioning_costs": 5151376
+  },
+  "sat. Selemet|Cimișlia": {
+    "total_revenues": 14471147,
+    "own_revenues": 1855233,
+    "total_expenditures": 14074993,
+    "personnel_costs": 5570303,
+    "functioning_costs": 9852495
+  },
+  "sat. Suric|Cimișlia": {
+    "total_revenues": 7724164,
+    "own_revenues": 946056,
+    "total_expenditures": 7810211,
+    "personnel_costs": 3402540,
+    "functioning_costs": 5467147
+  },
+  "sat. Topala|Cimișlia": {
+    "total_revenues": 9066724,
+    "own_revenues": 3549730,
+    "total_expenditures": 9143080,
+    "personnel_costs": 4502500,
+    "functioning_costs": 6400156
+  },
+  "sat. Bădragii Vechi|Edineț": {
+    "total_revenues": 3976157,
+    "own_revenues": 1463059,
+    "total_expenditures": 4004217,
+    "personnel_costs": 1207167,
+    "functioning_costs": 2802952
+  },
+  "sat. Troițcoe|Cimișlia": {
+    "total_revenues": 10109983,
+    "own_revenues": 2390964,
+    "total_expenditures": 10956656,
+    "personnel_costs": 5576195,
+    "functioning_costs": 7669659
+  },
+  "or. Basarabeasca|Basarabeasca": {
+    "total_revenues": 167410245,
+    "own_revenues": 48740875,
+    "total_expenditures": 174188332,
+    "personnel_costs": 61860317,
+    "functioning_costs": 121931833
+  },
+  "sat. Iordanovca|Basarabeasca": {
+    "total_revenues": 6966033,
+    "own_revenues": 1880653,
+    "total_expenditures": 7024050,
+    "personnel_costs": 3281765,
+    "functioning_costs": 4916835
+  },
+  "sat. Visoca|Soroca": {
+    "total_revenues": 15668585,
+    "own_revenues": 6176195,
+    "total_expenditures": 17046343,
+    "personnel_costs": 9293334,
+    "functioning_costs": 11932440
+  },
+  "sat. Abaclia|Basarabeasca": {
+    "total_revenues": 10698878,
+    "own_revenues": 2545339,
+    "total_expenditures": 11069689,
+    "personnel_costs": 3395909,
+    "functioning_costs": 7748782
+  },
+  "sat. Bașcalia|Basarabeasca": {
+    "total_revenues": 10084501,
+    "own_revenues": 2638050,
+    "total_expenditures": 9656340,
+    "personnel_costs": 3812091,
+    "functioning_costs": 6759438
+  },
+  "com. Iserlia|Basarabeasca": {
+    "total_revenues": 7945383,
+    "own_revenues": 1733088,
+    "total_expenditures": 8596476,
+    "personnel_costs": 3176949,
+    "functioning_costs": 6017533
+  },
+  "sat. Chirianca|Strășeni": {
+    "total_revenues": 11188277,
+    "own_revenues": 1439564,
+    "total_expenditures": 10661393,
+    "personnel_costs": 4636158,
+    "functioning_costs": 7462975
+  },
+  "com. Codreanca|Strășeni": {
+    "total_revenues": 9386996,
+    "own_revenues": 1164142,
+    "total_expenditures": 10265552,
+    "personnel_costs": 3182984,
+    "functioning_costs": 7185886
+  },
+  "sat. Sadaclia|Basarabeasca": {
+    "total_revenues": 4610227,
+    "own_revenues": 782707,
+    "total_expenditures": 4393809,
+    "personnel_costs": 1485527,
+    "functioning_costs": 3075666
+  },
+  "mun. Strășeni|Strășeni": {
+    "total_revenues": 51808464,
+    "own_revenues": 7255066,
+    "total_expenditures": 56583316,
+    "personnel_costs": 23553286,
+    "functioning_costs": 39608321
+  },
+  "or. Bucovăț|Strășeni": {
+    "total_revenues": 97120261,
+    "own_revenues": 15415530,
+    "total_expenditures": 101110654,
+    "personnel_costs": 49239009,
+    "functioning_costs": 70777458
+  },
+  "sat. Cojușna|Strășeni": {
+    "total_revenues": 6855506,
+    "own_revenues": 1078495,
+    "total_expenditures": 6832580,
+    "personnel_costs": 3038251,
+    "functioning_costs": 4782806
+  },
+  "sat. Căpriana|Strășeni": {
+    "total_revenues": 11539495,
+    "own_revenues": 4821307,
+    "total_expenditures": 11612148,
+    "personnel_costs": 6216769,
+    "functioning_costs": 8128504
+  },
+  "sat. Chetroșica Nouă|Edineț": {
+    "total_revenues": 5308539,
+    "own_revenues": 1814008,
+    "total_expenditures": 5542573,
+    "personnel_costs": 1803971,
+    "functioning_costs": 3879801
+  },
+  "sat. Dolna|Strășeni": {
+    "total_revenues": 13491147,
+    "own_revenues": 4184199,
+    "total_expenditures": 13061566,
+    "personnel_costs": 7131107,
+    "functioning_costs": 9143096
+  },
+  "com. Gălești|Strășeni": {
+    "total_revenues": 3258059,
+    "own_revenues": 814294,
+    "total_expenditures": 3276257,
+    "personnel_costs": 1397291,
+    "functioning_costs": 2293380
+  },
+  "com. Ghelăuza|Strășeni": {
+    "total_revenues": 7303711,
+    "own_revenues": 1804167,
+    "total_expenditures": 7475569,
+    "personnel_costs": 3052879,
+    "functioning_costs": 5232899
+  },
+  "com. Pănășești|Strășeni": {
+    "total_revenues": 13519623,
+    "own_revenues": 5273296,
+    "total_expenditures": 14278024,
+    "personnel_costs": 5837881,
+    "functioning_costs": 9994616
+  },
+  "com. Rădeni|Strășeni": {
+    "total_revenues": 22395034,
+    "own_revenues": 4356480,
+    "total_expenditures": 23990230,
+    "personnel_costs": 10424792,
+    "functioning_costs": 16793161
+  },
+  "sat. Recea|Strășeni": {
+    "total_revenues": 15051998,
+    "own_revenues": 5855334,
+    "total_expenditures": 15637087,
+    "personnel_costs": 5951102,
+    "functioning_costs": 10945961
+  },
+  "sat. Roșcani|Strășeni": {
+    "total_revenues": 11459962,
+    "own_revenues": 1493600,
+    "total_expenditures": 12402483,
+    "personnel_costs": 4476873,
+    "functioning_costs": 8681738
+  },
+  "sat. Scoreni|Strășeni": {
+    "total_revenues": 15773819,
+    "own_revenues": 5266341,
+    "total_expenditures": 15781067,
+    "personnel_costs": 6684491,
+    "functioning_costs": 11046747
+  },
+  "sat. Tătărești|Strășeni": {
+    "total_revenues": 8497824,
+    "own_revenues": 1480677,
+    "total_expenditures": 9089909,
+    "personnel_costs": 3500385,
+    "functioning_costs": 6362936
+  },
+  "sat. Țigănești|Strășeni": {
+    "total_revenues": 21328068,
+    "own_revenues": 4195103,
+    "total_expenditures": 20294140,
+    "personnel_costs": 10898271,
+    "functioning_costs": 14205898
+  },
+  "sat. Corpaci|Edineț": {
+    "total_revenues": 3907689,
+    "own_revenues": 946637,
+    "total_expenditures": 4037723,
+    "personnel_costs": 1453907,
+    "functioning_costs": 2826406
+  },
+  "sat. Voinova|Strășeni": {
+    "total_revenues": 16989359,
+    "own_revenues": 4617495,
+    "total_expenditures": 18160604,
+    "personnel_costs": 5870658,
+    "functioning_costs": 12712423
+  },
+  "sat. Zubrești|Strășeni": {
+    "total_revenues": 7873772,
+    "own_revenues": 1457883,
+    "total_expenditures": 8264264,
+    "personnel_costs": 3241700,
+    "functioning_costs": 5784985
+  },
+  "or. Șoldănești|Șoldănești": {
+    "total_revenues": 147306439,
+    "own_revenues": 36668452,
+    "total_expenditures": 156423281,
+    "personnel_costs": 59862849,
+    "functioning_costs": 109496297
+  },
+  "com. Alcedar|Șoldănești": {
+    "total_revenues": 12093324,
+    "own_revenues": 2273439,
+    "total_expenditures": 11707527,
+    "personnel_costs": 4075930,
+    "functioning_costs": 8195269
+  },
+  "sat. Chipeșca|Șoldănești": {
+    "total_revenues": 6861964,
+    "own_revenues": 2969907,
+    "total_expenditures": 7229247,
+    "personnel_costs": 2514948,
+    "functioning_costs": 5060473
+  },
+  "sat. Vorniceni|Strășeni": {
+    "total_revenues": 12826493,
+    "own_revenues": 3929466,
+    "total_expenditures": 13647789,
+    "personnel_costs": 6130555,
+    "functioning_costs": 9553452
+  },
+  "sat. Mihuleni|Șoldănești": {
+    "total_revenues": 6624390,
+    "own_revenues": 1349297,
+    "total_expenditures": 6651763,
+    "personnel_costs": 2498182,
+    "functioning_costs": 4656234
+  },
+  "com. Climăuții de Jos|Șoldănești": {
+    "total_revenues": 11987667,
+    "own_revenues": 1389736,
+    "total_expenditures": 11486330,
+    "personnel_costs": 4284793,
+    "functioning_costs": 8040431
+  },
+  "sat. Răspopeni|Șoldănești": {
+    "total_revenues": 6592632,
+    "own_revenues": 2396272,
+    "total_expenditures": 6364449,
+    "personnel_costs": 1928850,
+    "functioning_costs": 4455114
+  },
+  "sat. Cobîlea|Șoldănești": {
+    "total_revenues": 9929858,
+    "own_revenues": 2523813,
+    "total_expenditures": 9707970,
+    "personnel_costs": 3037082,
+    "functioning_costs": 6795579
+  },
+  "com. Cotiujenii Mari|Șoldănești": {
+    "total_revenues": 10770232,
+    "own_revenues": 1323341,
+    "total_expenditures": 11026154,
+    "personnel_costs": 4898427,
+    "functioning_costs": 7718308
+  },
+  "com. Botnărești|Anenii Noi": {
+    "total_revenues": 2947974,
+    "own_revenues": 1131727,
+    "total_expenditures": 3220275,
+    "personnel_costs": 1034659,
+    "functioning_costs": 2254193
+  },
+  "sat. Bulboaca|Anenii Noi": {
+    "total_revenues": 6504933,
+    "own_revenues": 2390922,
+    "total_expenditures": 6771295,
+    "personnel_costs": 3369973,
+    "functioning_costs": 4739906
+  },
+  "sat. Cușmirca|Șoldănești": {
+    "total_revenues": 10431091,
+    "own_revenues": 2431824,
+    "total_expenditures": 11331040,
+    "personnel_costs": 4241642,
+    "functioning_costs": 7931728
+  },
+  "com. Dobrușa|Șoldănești": {
+    "total_revenues": 25154414,
+    "own_revenues": 5204023,
+    "total_expenditures": 26239930,
+    "personnel_costs": 11871147,
+    "functioning_costs": 18367951
+  },
+  "sat. Fuzăuca|Șoldănești": {
+    "total_revenues": 7042789,
+    "own_revenues": 1216471,
+    "total_expenditures": 6913580,
+    "personnel_costs": 3215555,
+    "functioning_costs": 4839506
+  },
+  "sat. Găuzeni|Șoldănești": {
+    "total_revenues": 5422897,
+    "own_revenues": 1589979,
+    "total_expenditures": 5279081,
+    "personnel_costs": 2122874,
+    "functioning_costs": 3695357
+  },
+  "com. Cuconeștii Noi|Edineț": {
+    "total_revenues": 17981961,
+    "own_revenues": 2003621,
+    "total_expenditures": 17859966,
+    "personnel_costs": 6620325,
+    "functioning_costs": 12501976
+  },
+  "sat. Glinjeni|Șoldănești": {
+    "total_revenues": 9842153,
+    "own_revenues": 1788303,
+    "total_expenditures": 9740614,
+    "personnel_costs": 4848994,
+    "functioning_costs": 6818430
+  },
+  "sat. Olișcani|Șoldănești": {
+    "total_revenues": 20569804,
+    "own_revenues": 8778863,
+    "total_expenditures": 20853068,
+    "personnel_costs": 9094869,
+    "functioning_costs": 14597148
+  },
+  "sat. Parcani|Șoldănești": {
+    "total_revenues": 8627478,
+    "own_revenues": 3358857,
+    "total_expenditures": 8288517,
+    "personnel_costs": 2830369,
+    "functioning_costs": 5801962
+  },
+  "sat. Pohoarna|Șoldănești": {
+    "total_revenues": 11575378,
+    "own_revenues": 4496850,
+    "total_expenditures": 12596082,
+    "personnel_costs": 5161728,
+    "functioning_costs": 8817257
+  },
+  "sat. Poiana|Șoldănești": {
+    "total_revenues": 17264943,
+    "own_revenues": 5954796,
+    "total_expenditures": 18842984,
+    "personnel_costs": 8010492,
+    "functioning_costs": 13190089
+  },
+  "com. Rogojeni|Șoldănești": {
+    "total_revenues": 14992354,
+    "own_revenues": 4637328,
+    "total_expenditures": 16242918,
+    "personnel_costs": 7855619,
+    "functioning_costs": 11370043
+  },
+  "com. Calfa|Anenii Noi": {
+    "total_revenues": 15085909,
+    "own_revenues": 1990803,
+    "total_expenditures": 16508309,
+    "personnel_costs": 8402559,
+    "functioning_costs": 11555816
+  },
+  "com. Chetrosu|Anenii Noi": {
+    "total_revenues": 19114554,
+    "own_revenues": 2050244,
+    "total_expenditures": 20351534,
+    "personnel_costs": 10284756,
+    "functioning_costs": 14246074
+  },
+  "com. Salcia|Șoldănești": {
+    "total_revenues": 11595197,
+    "own_revenues": 4228700,
+    "total_expenditures": 11833770,
+    "personnel_costs": 5477584,
+    "functioning_costs": 8283639
+  },
+  "sat. Sămășcani|Șoldănești": {
+    "total_revenues": 7552559,
+    "own_revenues": 2302514,
+    "total_expenditures": 7894068,
+    "personnel_costs": 3338650,
+    "functioning_costs": 5525848
+  },
+  "sat. Delacău|Anenii Noi": {
+    "total_revenues": 4911765,
+    "own_revenues": 1193175,
+    "total_expenditures": 4902721,
+    "personnel_costs": 1599022,
+    "functioning_costs": 3431905
+  },
+  "sat. Șestaci|Șoldănești": {
+    "total_revenues": 5979486,
+    "own_revenues": 2049683,
+    "total_expenditures": 5939021,
+    "personnel_costs": 3185087,
+    "functioning_costs": 4157315
+  },
+  "sat. Șipca|Șoldănești": {
+    "total_revenues": 11098787,
+    "own_revenues": 1451954,
+    "total_expenditures": 10964046,
+    "personnel_costs": 3606956,
+    "functioning_costs": 7674832
+  },
+  "com. Vadul-Rașcov|Șoldănești": {
+    "total_revenues": 17111119,
+    "own_revenues": 6651511,
+    "total_expenditures": 16258517,
+    "personnel_costs": 8411212,
+    "functioning_costs": 11380962
+  },
+  "sat. Floreni|Anenii Noi": {
+    "total_revenues": 13903817,
+    "own_revenues": 2303221,
+    "total_expenditures": 13963143,
+    "personnel_costs": 6829524,
+    "functioning_costs": 9774200
+  },
+  "com. Geamăna|Anenii Noi": {
+    "total_revenues": 18391521,
+    "own_revenues": 2171379,
+    "total_expenditures": 18208681,
+    "personnel_costs": 6058999,
+    "functioning_costs": 12746077
+  },
+  "or. Anenii Noi|Anenii Noi": {
+    "total_revenues": 83189020,
+    "own_revenues": 28649260,
+    "total_expenditures": 80544767,
+    "personnel_costs": 43758901,
+    "functioning_costs": 56381337
+  },
+  "mun. Edineț|Edineț": {
+    "total_revenues": 89386692,
+    "own_revenues": 18660594,
+    "total_expenditures": 85100705,
+    "personnel_costs": 34210285,
+    "functioning_costs": 59570493
+  },
+  "com. Chirca|Anenii Noi": {
+    "total_revenues": 11828897,
+    "own_revenues": 4962523,
+    "total_expenditures": 12056215,
+    "personnel_costs": 3970914,
+    "functioning_costs": 8439351
+  },
+  "or. Cupcini|Edineț": {
+    "total_revenues": 58719032,
+    "own_revenues": 20599292,
+    "total_expenditures": 60265151,
+    "personnel_costs": 22199044,
+    "functioning_costs": 42185606
+  },
+  "sat. Alexeevca|Edineț": {
+    "total_revenues": 21149306,
+    "own_revenues": 3919089,
+    "total_expenditures": 21840672,
+    "personnel_costs": 8646646,
+    "functioning_costs": 15288470
+  },
+  "com. Ciobanovca|Anenii Noi": {
+    "total_revenues": 18675139,
+    "own_revenues": 7615053,
+    "total_expenditures": 20161755,
+    "personnel_costs": 7440935,
+    "functioning_costs": 14113229
+  },
+  "sat. Cobusca Nouă|Anenii Noi": {
+    "total_revenues": 11965840,
+    "own_revenues": 4495579,
+    "total_expenditures": 11847090,
+    "personnel_costs": 3561725,
+    "functioning_costs": 8292963
+  },
+  "com. Cobusca Veche|Anenii Noi": {
+    "total_revenues": 13284023,
+    "own_revenues": 4024703,
+    "total_expenditures": 13934823,
+    "personnel_costs": 7194760,
+    "functioning_costs": 9754376
+  },
+  "com. Bleșteni|Edineț": {
+    "total_revenues": 14918481,
+    "own_revenues": 3293902,
+    "total_expenditures": 15407622,
+    "personnel_costs": 6715528,
+    "functioning_costs": 10785335
+  },
+  "com. Brătușeni|Edineț": {
+    "total_revenues": 19624552,
+    "own_revenues": 7935395,
+    "total_expenditures": 21530414,
+    "personnel_costs": 7744520,
+    "functioning_costs": 15071290
+  },
+  "sat. Bădragii Noi|Edineț": {
+    "total_revenues": 10172838,
+    "own_revenues": 3778605,
+    "total_expenditures": 9730799,
+    "personnel_costs": 4730884,
+    "functioning_costs": 6811559
+  },
+  "sat. Brînzeni|Edineț": {
+    "total_revenues": 11632467,
+    "own_revenues": 3865365,
+    "total_expenditures": 12482942,
+    "personnel_costs": 6805757,
+    "functioning_costs": 8738059
+  },
+  "com. Burlănești|Edineț": {
+    "total_revenues": 21429381,
+    "own_revenues": 3089821,
+    "total_expenditures": 23460951,
+    "personnel_costs": 8985513,
+    "functioning_costs": 16422666
+  },
+  "com. Cepeleuți|Edineț": {
+    "total_revenues": 6788842,
+    "own_revenues": 1725093,
+    "total_expenditures": 6984990,
+    "personnel_costs": 2893406,
+    "functioning_costs": 4889493
+  },
+  "sat. Fetești|Edineț": {
+    "total_revenues": 5989394,
+    "own_revenues": 1971550,
+    "total_expenditures": 5828604,
+    "personnel_costs": 2432700,
+    "functioning_costs": 4080023
+  },
+  "sat. Gașpar|Edineț": {
+    "total_revenues": 8456664,
+    "own_revenues": 2895956,
+    "total_expenditures": 8858148,
+    "personnel_costs": 4543710,
+    "functioning_costs": 6200704
+  },
+  "sat. Goleni|Edineț": {
+    "total_revenues": 15254571,
+    "own_revenues": 3216143,
+    "total_expenditures": 16136402,
+    "personnel_costs": 7904424,
+    "functioning_costs": 11295481
+  },
+  "com. Hincăuți|Edineț": {
+    "total_revenues": 10933560,
+    "own_revenues": 1355185,
+    "total_expenditures": 11422008,
+    "personnel_costs": 6056317,
+    "functioning_costs": 7995405
+  },
+  "sat. Gordinești|Edineț": {
+    "total_revenues": 10297597,
+    "own_revenues": 2593862,
+    "total_expenditures": 9934776,
+    "personnel_costs": 4554469,
+    "functioning_costs": 6954343
+  },
+  "sat. Hancăuți|Edineț": {
+    "total_revenues": 5046226,
+    "own_revenues": 1730353,
+    "total_expenditures": 5477747,
+    "personnel_costs": 1706306,
+    "functioning_costs": 3834423
+  },
+  "sat. Hlinaia|Edineț": {
+    "total_revenues": 3441375,
+    "own_revenues": 795627,
+    "total_expenditures": 3344450,
+    "personnel_costs": 1447450,
+    "functioning_costs": 2341115
+  },
+  "sat. Lopatnic|Edineț": {
+    "total_revenues": 20137667,
+    "own_revenues": 3282841,
+    "total_expenditures": 19659607,
+    "personnel_costs": 8893474,
+    "functioning_costs": 13761725
+  },
+  "com. Parcova|Edineț": {
+    "total_revenues": 13959302,
+    "own_revenues": 2572566,
+    "total_expenditures": 15172706,
+    "personnel_costs": 5094682,
+    "functioning_costs": 10620894
+  },
+  "com. Rotunda|Edineț": {
+    "total_revenues": 16453224,
+    "own_revenues": 4291818,
+    "total_expenditures": 17276314,
+    "personnel_costs": 9065351,
+    "functioning_costs": 12093420
+  },
+  "com. Ruseni|Edineț": {
+    "total_revenues": 19610692,
+    "own_revenues": 6612016,
+    "total_expenditures": 19094859,
+    "personnel_costs": 7837150,
+    "functioning_costs": 13366401
+  },
+  "sat. Terebna|Edineț": {
+    "total_revenues": 16222939,
+    "own_revenues": 3320900,
+    "total_expenditures": 17752833,
+    "personnel_costs": 8389605,
+    "functioning_costs": 12426983
+  },
+  "sat. Stolniceni|Edineț": {
+    "total_revenues": 18682426,
+    "own_revenues": 3170893,
+    "total_expenditures": 18826355,
+    "personnel_costs": 7922168,
+    "functioning_costs": 13178449
+  },
+  "sat. Șofrîncani|Edineț": {
+    "total_revenues": 8101206,
+    "own_revenues": 1827921,
+    "total_expenditures": 8055684,
+    "personnel_costs": 3824998,
+    "functioning_costs": 5638979
+  },
+  "sat. Gura Bîcului|Anenii Noi": {
+    "total_revenues": 4351519,
+    "own_revenues": 1437657,
+    "total_expenditures": 4313104,
+    "personnel_costs": 1904159,
+    "functioning_costs": 3019173
+  },
+  "sat. Tîrnova|Edineț": {
+    "total_revenues": 5136127,
+    "own_revenues": 1853167,
+    "total_expenditures": 5520956,
+    "personnel_costs": 2902553,
+    "functioning_costs": 3864669
+  },
+  "sat. Hîrbovăț|Anenii Noi": {
+    "total_revenues": 9444924,
+    "own_revenues": 2109168,
+    "total_expenditures": 9874599,
+    "personnel_costs": 4495142,
+    "functioning_costs": 6912219
+  },
+  "sat. Trinca|Edineț": {
+    "total_revenues": 6855591,
+    "own_revenues": 2853237,
+    "total_expenditures": 7177468,
+    "personnel_costs": 2707580,
+    "functioning_costs": 5024228
+  },
+  "com. Constantinovca|Edineț": {
+    "total_revenues": 9189927,
+    "own_revenues": 2092560,
+    "total_expenditures": 8911581,
+    "personnel_costs": 4700030,
+    "functioning_costs": 6238107
+  },
+  "sat. Maximovca|Anenii Noi": {
+    "total_revenues": 13447609,
+    "own_revenues": 2171440,
+    "total_expenditures": 13041813,
+    "personnel_costs": 5671258,
+    "functioning_costs": 9129269
+  },
+  "sat. Mereni|Anenii Noi": {
+    "total_revenues": 12633116,
+    "own_revenues": 5302377,
+    "total_expenditures": 13575179,
+    "personnel_costs": 4944657,
+    "functioning_costs": 9502625
+  },
+  "com. Cotova|Drochia": {
+    "total_revenues": 20974431,
+    "own_revenues": 4264091,
+    "total_expenditures": 22664121,
+    "personnel_costs": 11356042,
+    "functioning_costs": 15864885
+  },
+  "sat. Merenii Noi|Anenii Noi": {
+    "total_revenues": 20431933,
+    "own_revenues": 3049772,
+    "total_expenditures": 22372457,
+    "personnel_costs": 11522602,
+    "functioning_costs": 15660720
+  },
+  "com. Ochiul Roș|Anenii Noi": {
+    "total_revenues": 17915697,
+    "own_revenues": 6836732,
+    "total_expenditures": 18002879,
+    "personnel_costs": 8959502,
+    "functioning_costs": 12602016
+  },
+  "sat. Puhăceni|Anenii Noi": {
+    "total_revenues": 2432288,
+    "own_revenues": 348440,
+    "total_expenditures": 2445149,
+    "personnel_costs": 1191406,
+    "functioning_costs": 1711605
+  },
+  "sat. Musteața|Fălești": {
+    "total_revenues": 10200746,
+    "own_revenues": 3956319,
+    "total_expenditures": 11129461,
+    "personnel_costs": 3640297,
+    "functioning_costs": 7790623
+  },
+  "sat. Roșcani|Anenii Noi": {
+    "total_revenues": 8630149,
+    "own_revenues": 2734389,
+    "total_expenditures": 9419595,
+    "personnel_costs": 3598300,
+    "functioning_costs": 6593717
+  },
+  "sat. Speia|Anenii Noi": {
+    "total_revenues": 14802164,
+    "own_revenues": 1807729,
+    "total_expenditures": 15891282,
+    "personnel_costs": 8380219,
+    "functioning_costs": 11123898
+  },
+  "com. Văscăuți|Florești": {
+    "total_revenues": 11865648,
+    "own_revenues": 1671117,
+    "total_expenditures": 11353076,
+    "personnel_costs": 3511541,
+    "functioning_costs": 7947153
+  },
+  "sat. Șerpeni|Anenii Noi": {
+    "total_revenues": 11073606,
+    "own_revenues": 2017390,
+    "total_expenditures": 11412813,
+    "personnel_costs": 4532729,
+    "functioning_costs": 7988969
+  },
+  "sat. Varnița|Anenii Noi": {
+    "total_revenues": 14112991,
+    "own_revenues": 5082075,
+    "total_expenditures": 15409921,
+    "personnel_costs": 6237654,
+    "functioning_costs": 10786944
+  },
+  "com. Zăbriceni|Edineț": {
+    "total_revenues": 8700949,
+    "own_revenues": 2864549,
+    "total_expenditures": 9353989,
+    "personnel_costs": 4245898,
+    "functioning_costs": 6547793
+  },
+  "com. Telița|Anenii Noi": {
+    "total_revenues": 6434815,
+    "own_revenues": 1477984,
+    "total_expenditures": 6541038,
+    "personnel_costs": 3516716,
+    "functioning_costs": 4578726
+  },
+  "com. Țînțăreni|Anenii Noi": {
+    "total_revenues": 8478666,
+    "own_revenues": 2882645,
+    "total_expenditures": 8747184,
+    "personnel_costs": 4762497,
+    "functioning_costs": 6123029
+  },
+  "or. Florești|Florești": {
+    "total_revenues": 67781228,
+    "own_revenues": 13322977,
+    "total_expenditures": 74236104,
+    "personnel_costs": 39883547,
+    "functioning_costs": 51965273
+  },
+  "com. Zolotievca|Anenii Noi": {
+    "total_revenues": 10087056,
+    "own_revenues": 1757539,
+    "total_expenditures": 10550293,
+    "personnel_costs": 5726418,
+    "functioning_costs": 7385205
+  },
+  "sat. Băhrinești|Florești": {
+    "total_revenues": 4815922,
+    "own_revenues": 892145,
+    "total_expenditures": 4666091,
+    "personnel_costs": 2058421,
+    "functioning_costs": 3266264
+  },
+  "or. Ghindești|Florești": {
+    "total_revenues": 50915509,
+    "own_revenues": 14967771,
+    "total_expenditures": 52848133,
+    "personnel_costs": 26596523,
+    "functioning_costs": 36993693
+  },
+  "or. Mărculești|Florești": {
+    "total_revenues": 65651131,
+    "own_revenues": 9955598,
+    "total_expenditures": 71236706,
+    "personnel_costs": 21421511,
+    "functioning_costs": 49865694
+  },
+  "com. Alexeevca|Florești": {
+    "total_revenues": 8870604,
+    "own_revenues": 2564274,
+    "total_expenditures": 9489569,
+    "personnel_costs": 3107659,
+    "functioning_costs": 6642698
+  },
+  "sat. Cașunca|Florești": {
+    "total_revenues": 2355133,
+    "own_revenues": 530811,
+    "total_expenditures": 2515905,
+    "personnel_costs": 1125146,
+    "functioning_costs": 1761134
+  },
+  "sat. Cernița|Florești": {
+    "total_revenues": 2262687,
+    "own_revenues": 267766,
+    "total_expenditures": 2401294,
+    "personnel_costs": 1036210,
+    "functioning_costs": 1680906
+  },
+  "sat. Ciripcău|Florești": {
+    "total_revenues": 4211612,
+    "own_revenues": 1568008,
+    "total_expenditures": 4325265,
+    "personnel_costs": 1415501,
+    "functioning_costs": 3027685
+  },
+  "com. Ciutulești|Florești": {
+    "total_revenues": 12582939,
+    "own_revenues": 3967242,
+    "total_expenditures": 13326420,
+    "personnel_costs": 7025528,
+    "functioning_costs": 9328494
+  },
+  "sat. Coșernița|Florești": {
+    "total_revenues": 13965918,
+    "own_revenues": 4541287,
+    "total_expenditures": 13332880,
+    "personnel_costs": 7328373,
+    "functioning_costs": 9333016
+  },
+  "com. Cuhureștii de Sus|Florești": {
+    "total_revenues": 12538648,
+    "own_revenues": 1727658,
+    "total_expenditures": 13251598,
+    "personnel_costs": 5444957,
+    "functioning_costs": 9276118
+  },
+  "com. Cuhureștii de Jos|Florești": {
+    "total_revenues": 4098513,
+    "own_revenues": 622633,
+    "total_expenditures": 3971167,
+    "personnel_costs": 1811168,
+    "functioning_costs": 2779817
+  },
+  "sat. Cunicea|Florești": {
+    "total_revenues": 18860136,
+    "own_revenues": 4032578,
+    "total_expenditures": 20730951,
+    "personnel_costs": 8969022,
+    "functioning_costs": 14511666
+  },
+  "sat. Domulgeni|Florești": {
+    "total_revenues": 14739672,
+    "own_revenues": 3693316,
+    "total_expenditures": 15756184,
+    "personnel_costs": 5177538,
+    "functioning_costs": 11029329
+  },
+  "com. Frumușica|Florești": {
+    "total_revenues": 20211962,
+    "own_revenues": 3542310,
+    "total_expenditures": 20570386,
+    "personnel_costs": 7346166,
+    "functioning_costs": 14399270
+  },
+  "com. Gura Camencii|Florești": {
+    "total_revenues": 14549128,
+    "own_revenues": 3485325,
+    "total_expenditures": 15413955,
+    "personnel_costs": 5828588,
+    "functioning_costs": 10789769
+  },
+  "sat. Mărculești|Florești": {
+    "total_revenues": 12306906,
+    "own_revenues": 2842961,
+    "total_expenditures": 11973338,
+    "personnel_costs": 6354804,
+    "functioning_costs": 8381336
+  },
+  "com. Ghindești|Florești": {
+    "total_revenues": 3005656,
+    "own_revenues": 390367,
+    "total_expenditures": 3050084,
+    "personnel_costs": 1482790,
+    "functioning_costs": 2135059
+  },
+  "com. Gura Căinarului|Florești": {
+    "total_revenues": 15521338,
+    "own_revenues": 4574600,
+    "total_expenditures": 16110680,
+    "personnel_costs": 7095089,
+    "functioning_costs": 11277476
+  },
+  "com. Iliciovca|Florești": {
+    "total_revenues": 12862616,
+    "own_revenues": 3135687,
+    "total_expenditures": 13905017,
+    "personnel_costs": 7443112,
+    "functioning_costs": 9733512
+  },
+  "com. Izvoare|Florești": {
+    "total_revenues": 17781862,
+    "own_revenues": 6265817,
+    "total_expenditures": 19475759,
+    "personnel_costs": 8766088,
+    "functioning_costs": 13633031
+  },
+  "com. Japca|Florești": {
+    "total_revenues": 8313125,
+    "own_revenues": 2307677,
+    "total_expenditures": 8090413,
+    "personnel_costs": 3402402,
+    "functioning_costs": 5663289
+  },
+  "sat. Lunga|Florești": {
+    "total_revenues": 4847730,
+    "own_revenues": 1428592,
+    "total_expenditures": 4688884,
+    "personnel_costs": 1733209,
+    "functioning_costs": 3282219
+  },
+  "or. Glodeni|Glodeni": {
+    "total_revenues": 91695997,
+    "own_revenues": 36293671,
+    "total_expenditures": 100515501,
+    "personnel_costs": 50720797,
+    "functioning_costs": 70360851
+  },
+  "com. Nicolaevca|Florești": {
+    "total_revenues": 21483036,
+    "own_revenues": 6334465,
+    "total_expenditures": 22371343,
+    "personnel_costs": 10390545,
+    "functioning_costs": 15659940
+  },
+  "com. Prodănești|Florești": {
+    "total_revenues": 6196425,
+    "own_revenues": 1212297,
+    "total_expenditures": 6595236,
+    "personnel_costs": 3498010,
+    "functioning_costs": 4616665
+  },
+  "com. Balatina|Glodeni": {
+    "total_revenues": 7406097,
+    "own_revenues": 2995410,
+    "total_expenditures": 7664926,
+    "personnel_costs": 3067474,
+    "functioning_costs": 5365449
+  },
+  "com. Prajila|Florești": {
+    "total_revenues": 7558453,
+    "own_revenues": 3326729,
+    "total_expenditures": 7284562,
+    "personnel_costs": 3151452,
+    "functioning_costs": 5099194
+  },
+  "sat. Cajba|Glodeni": {
+    "total_revenues": 11835425,
+    "own_revenues": 2595670,
+    "total_expenditures": 11900614,
+    "personnel_costs": 5717043,
+    "functioning_costs": 8330430
+  },
+  "com. Camenca|Glodeni": {
+    "total_revenues": 19020058,
+    "own_revenues": 7782433,
+    "total_expenditures": 18512926,
+    "personnel_costs": 9045582,
+    "functioning_costs": 12959048
+  },
+  "sat. Ciuciulea|Glodeni": {
+    "total_revenues": 4447701,
+    "own_revenues": 868351,
+    "total_expenditures": 4666931,
+    "personnel_costs": 1966717,
+    "functioning_costs": 3266852
+  },
+  "sat. Dușmani|Glodeni": {
+    "total_revenues": 13419766,
+    "own_revenues": 2354486,
+    "total_expenditures": 13780113,
+    "personnel_costs": 5323164,
+    "functioning_costs": 9646079
+  },
+  "sat. Cobani|Glodeni": {
+    "total_revenues": 4625462,
+    "own_revenues": 1560956,
+    "total_expenditures": 4731825,
+    "personnel_costs": 2208736,
+    "functioning_costs": 3312277
+  },
+  "sat. Vertiujeni|Florești": {
+    "total_revenues": 2990119,
+    "own_revenues": 1329275,
+    "total_expenditures": 2865184,
+    "personnel_costs": 1005983,
+    "functioning_costs": 2005629
+  },
+  "com. Cuhnești|Glodeni": {
+    "total_revenues": 9913486,
+    "own_revenues": 3642773,
+    "total_expenditures": 9848226,
+    "personnel_costs": 3249876,
+    "functioning_costs": 6893758
+  },
+  "com. Danu|Glodeni": {
+    "total_revenues": 18850367,
+    "own_revenues": 3044206,
+    "total_expenditures": 18982906,
+    "personnel_costs": 9034303,
+    "functioning_costs": 13288034
+  },
+  "sat. Fundurii Noi|Glodeni": {
+    "total_revenues": 16637570,
+    "own_revenues": 5553901,
+    "total_expenditures": 16689564,
+    "personnel_costs": 6663605,
+    "functioning_costs": 11682695
+  },
+  "sat. Bocani|Fălești": {
+    "total_revenues": 3541769,
+    "own_revenues": 924097,
+    "total_expenditures": 3406046,
+    "personnel_costs": 1288389,
+    "functioning_costs": 2384232
+  },
+  "sat. Fundurii Vechi|Glodeni": {
+    "total_revenues": 14818983,
+    "own_revenues": 5161817,
+    "total_expenditures": 15006503,
+    "personnel_costs": 4934038,
+    "functioning_costs": 10504552
+  },
+  "sat. Ustia|Glodeni": {
+    "total_revenues": 4283034,
+    "own_revenues": 685952,
+    "total_expenditures": 4677682,
+    "personnel_costs": 1941351,
+    "functioning_costs": 3274378
+  },
+  "sat. Hîjdieni|Glodeni": {
+    "total_revenues": 8357302,
+    "own_revenues": 3305894,
+    "total_expenditures": 8244457,
+    "personnel_costs": 3687068,
+    "functioning_costs": 5771120
+  },
+  "com. Iabloana|Glodeni": {
+    "total_revenues": 11185177,
+    "own_revenues": 4526457,
+    "total_expenditures": 11877212,
+    "personnel_costs": 4221078,
+    "functioning_costs": 8314049
+  },
+  "sat. Limbenii Noi|Glodeni": {
+    "total_revenues": 4769695,
+    "own_revenues": 1534070,
+    "total_expenditures": 4910833,
+    "personnel_costs": 1711307,
+    "functioning_costs": 3437583
+  },
+  "sat. Limbenii Vechi|Glodeni": {
+    "total_revenues": 10538318,
+    "own_revenues": 4588154,
+    "total_expenditures": 11031685,
+    "personnel_costs": 3716822,
+    "functioning_costs": 7722179
+  },
+  "sat. Petrunea|Glodeni": {
+    "total_revenues": 3885154,
+    "own_revenues": 656766,
+    "total_expenditures": 4041958,
+    "personnel_costs": 1980777,
+    "functioning_costs": 2829370
+  },
+  "sat. Putinești|Florești": {
+    "total_revenues": 3461540,
+    "own_revenues": 1282490,
+    "total_expenditures": 3545024,
+    "personnel_costs": 1732139,
+    "functioning_costs": 2481517
+  },
+  "com. Viișoara|Glodeni": {
+    "total_revenues": 17319194,
+    "own_revenues": 7333882,
+    "total_expenditures": 17919715,
+    "personnel_costs": 8222006,
+    "functioning_costs": 12543801
+  },
+  "sat. Sturzovca|Glodeni": {
+    "total_revenues": 16612250,
+    "own_revenues": 7306742,
+    "total_expenditures": 16569404,
+    "personnel_costs": 6792473,
+    "functioning_costs": 11598583
+  },
+  "sat. Napadova|Florești": {
+    "total_revenues": 14412719,
+    "own_revenues": 2968835,
+    "total_expenditures": 14285902,
+    "personnel_costs": 4486388,
+    "functioning_costs": 10000132
+  },
+  "com. Roșietici|Florești": {
+    "total_revenues": 10831222,
+    "own_revenues": 2833555,
+    "total_expenditures": 10350761,
+    "personnel_costs": 4059407,
+    "functioning_costs": 7245533
+  },
+  "com. Ștefănești|Florești": {
+    "total_revenues": 6906448,
+    "own_revenues": 2779759,
+    "total_expenditures": 7447182,
+    "personnel_costs": 3379174,
+    "functioning_costs": 5213027
+  },
+  "sat. Sănătăuca|Florești": {
+    "total_revenues": 14666854,
+    "own_revenues": 4445748,
+    "total_expenditures": 16032848,
+    "personnel_costs": 7771606,
+    "functioning_costs": 11222993
+  },
+  "or. Fălești|Fălești": {
+    "total_revenues": 33392885,
+    "own_revenues": 12804020,
+    "total_expenditures": 34988250,
+    "personnel_costs": 13308890,
+    "functioning_costs": 24491775
+  },
+  "com. Sevirova|Florești": {
+    "total_revenues": 15278052,
+    "own_revenues": 6649051,
+    "total_expenditures": 15546617,
+    "personnel_costs": 7815933,
+    "functioning_costs": 10882632
+  },
+  "com. Albinețul Vechi|Fălești": {
+    "total_revenues": 16099398,
+    "own_revenues": 2085117,
+    "total_expenditures": 16854766,
+    "personnel_costs": 5221363,
+    "functioning_costs": 11798337
+  },
+  "sat. Catranîc|Fălești": {
+    "total_revenues": 19638162,
+    "own_revenues": 5565926,
+    "total_expenditures": 20452572,
+    "personnel_costs": 7996434,
+    "functioning_costs": 14316801
+  },
+  "com. Călinești|Fălești": {
+    "total_revenues": 9252944,
+    "own_revenues": 3433422,
+    "total_expenditures": 9732567,
+    "personnel_costs": 3047183,
+    "functioning_costs": 6812797
+  },
+  "sat. Temeleuți|Florești": {
+    "total_revenues": 21593796,
+    "own_revenues": 2657530,
+    "total_expenditures": 20820217,
+    "personnel_costs": 9777067,
+    "functioning_costs": 14574152
+  },
+  "com. Trifănești|Florești": {
+    "total_revenues": 8223977,
+    "own_revenues": 3273539,
+    "total_expenditures": 9002471,
+    "personnel_costs": 4057190,
+    "functioning_costs": 6301730
+  },
+  "com. Vărvăreuca|Florești": {
+    "total_revenues": 5754646,
+    "own_revenues": 1749175,
+    "total_expenditures": 5588994,
+    "personnel_costs": 2165485,
+    "functioning_costs": 3912296
+  },
+  "com. Călugăr|Fălești": {
+    "total_revenues": 9312740,
+    "own_revenues": 3241690,
+    "total_expenditures": 8965448,
+    "personnel_costs": 3942381,
+    "functioning_costs": 6275814
+  },
+  "com. Ciolacu Nou|Fălești": {
+    "total_revenues": 14075037,
+    "own_revenues": 4708673,
+    "total_expenditures": 15121430,
+    "personnel_costs": 7329261,
+    "functioning_costs": 10585001
+  },
+  "com. Egorovca|Fălești": {
+    "total_revenues": 11418329,
+    "own_revenues": 3821254,
+    "total_expenditures": 11718326,
+    "personnel_costs": 3568906,
+    "functioning_costs": 8202828
+  },
+  "sat. Pocrovca|Dondușeni": {
+    "total_revenues": 8160689,
+    "own_revenues": 1427855,
+    "total_expenditures": 8912698,
+    "personnel_costs": 3757306,
+    "functioning_costs": 6238889
+  },
+  "com. Făleștii Noi|Fălești": {
+    "total_revenues": 11947345,
+    "own_revenues": 1842649,
+    "total_expenditures": 11880067,
+    "personnel_costs": 5904750,
+    "functioning_costs": 8316047
+  },
+  "sat. Zăluceni|Florești": {
+    "total_revenues": 19470992,
+    "own_revenues": 7638313,
+    "total_expenditures": 21078368,
+    "personnel_costs": 6522424,
+    "functioning_costs": 14754857
+  },
+  "sat. Glinjeni|Fălești": {
+    "total_revenues": 14911514,
+    "own_revenues": 4716676,
+    "total_expenditures": 15501815,
+    "personnel_costs": 5248344,
+    "functioning_costs": 10851271
+  },
+  "com. Hiliuți|Fălești": {
+    "total_revenues": 9302745,
+    "own_revenues": 3440939,
+    "total_expenditures": 9966557,
+    "personnel_costs": 3402431,
+    "functioning_costs": 6976590
+  },
+  "com. Horești|Fălești": {
+    "total_revenues": 9248978,
+    "own_revenues": 2104187,
+    "total_expenditures": 9784844,
+    "personnel_costs": 5307272,
+    "functioning_costs": 6849391
+  },
+  "sat. Ilenuța|Fălești": {
+    "total_revenues": 15734167,
+    "own_revenues": 5695576,
+    "total_expenditures": 16006985,
+    "personnel_costs": 6939073,
+    "functioning_costs": 11204890
+  },
+  "com. Ișcălău|Fălești": {
+    "total_revenues": 14720662,
+    "own_revenues": 5513323,
+    "total_expenditures": 15980694,
+    "personnel_costs": 5569336,
+    "functioning_costs": 11186486
+  },
+  "or. Dondușeni|Dondușeni": {
+    "total_revenues": 116307969,
+    "own_revenues": 23101101,
+    "total_expenditures": 117154791,
+    "personnel_costs": 50595048,
+    "functioning_costs": 82008354
+  },
+  "sat. Izvoare|Fălești": {
+    "total_revenues": 8597819,
+    "own_revenues": 3270961,
+    "total_expenditures": 8346417,
+    "personnel_costs": 3025583,
+    "functioning_costs": 5842492
+  },
+  "com. Teleșeuca|Dondușeni": {
+    "total_revenues": 19821545,
+    "own_revenues": 5829303,
+    "total_expenditures": 19135490,
+    "personnel_costs": 9787288,
+    "functioning_costs": 13394843
+  },
+  "com. Logofteni|Fălești": {
+    "total_revenues": 4939749,
+    "own_revenues": 1813337,
+    "total_expenditures": 4894890,
+    "personnel_costs": 2576311,
+    "functioning_costs": 3426423
+  },
+  "sat. Arionești|Dondușeni": {
+    "total_revenues": 8183777,
+    "own_revenues": 1081075,
+    "total_expenditures": 8892293,
+    "personnel_costs": 4483279,
+    "functioning_costs": 6224605
+  },
+  "sat. Baraboi|Dondușeni": {
+    "total_revenues": 15846797,
+    "own_revenues": 3885855,
+    "total_expenditures": 15996836,
+    "personnel_costs": 6294601,
+    "functioning_costs": 11197785
+  },
+  "sat. Briceni|Dondușeni": {
+    "total_revenues": 17779260,
+    "own_revenues": 4110910,
+    "total_expenditures": 16965470,
+    "personnel_costs": 9037616,
+    "functioning_costs": 11875829
+  },
+  "sat. Cernoleuca|Dondușeni": {
+    "total_revenues": 14107589,
+    "own_revenues": 2090178,
+    "total_expenditures": 14009286,
+    "personnel_costs": 7108878,
+    "functioning_costs": 9806500
+  },
+  "sat. Climăuți|Dondușeni": {
+    "total_revenues": 7544791,
+    "own_revenues": 1993247,
+    "total_expenditures": 7863953,
+    "personnel_costs": 4140091,
+    "functioning_costs": 5504767
+  },
+  "sat. Corbu|Dondușeni": {
+    "total_revenues": 2521018,
+    "own_revenues": 988837,
+    "total_expenditures": 2602499,
+    "personnel_costs": 1253907,
+    "functioning_costs": 1821750
+  },
+  "sat. Crișcăuți|Dondușeni": {
+    "total_revenues": 15666835,
+    "own_revenues": 5822743,
+    "total_expenditures": 15441954,
+    "personnel_costs": 5102980,
+    "functioning_costs": 10809368
+  },
+  "sat. Dondușeni|Dondușeni": {
+    "total_revenues": 8395449,
+    "own_revenues": 3172344,
+    "total_expenditures": 8551328,
+    "personnel_costs": 2802394,
+    "functioning_costs": 5985930
+  },
+  "com. Elizavetovca|Dondușeni": {
+    "total_revenues": 17089102,
+    "own_revenues": 1807213,
+    "total_expenditures": 17555743,
+    "personnel_costs": 6328574,
+    "functioning_costs": 12289020
+  },
+  "com. Frasin|Dondușeni": {
+    "total_revenues": 5390884,
+    "own_revenues": 542040,
+    "total_expenditures": 5406638,
+    "personnel_costs": 2393334,
+    "functioning_costs": 3784647
+  },
+  "sat. Horodiște|Dondușeni": {
+    "total_revenues": 8544607,
+    "own_revenues": 1110499,
+    "total_expenditures": 9366582,
+    "personnel_costs": 2968456,
+    "functioning_costs": 6556607
+  },
+  "com. Moșana|Dondușeni": {
+    "total_revenues": 17167287,
+    "own_revenues": 6441927,
+    "total_expenditures": 17616098,
+    "personnel_costs": 5374382,
+    "functioning_costs": 12331269
+  },
+  "com. Baroncea|Drochia": {
+    "total_revenues": 9808197,
+    "own_revenues": 2308932,
+    "total_expenditures": 9867000,
+    "personnel_costs": 4803543,
+    "functioning_costs": 6906900
+  },
+  "sat. Pivniceni|Dondușeni": {
+    "total_revenues": 14793093,
+    "own_revenues": 3264553,
+    "total_expenditures": 15679808,
+    "personnel_costs": 7166679,
+    "functioning_costs": 10975865
+  },
+  "sat. Plop|Dondușeni": {
+    "total_revenues": 21362127,
+    "own_revenues": 4622369,
+    "total_expenditures": 20436086,
+    "personnel_costs": 8920422,
+    "functioning_costs": 14305260
+  },
+  "sat. Rediul Mare|Dondușeni": {
+    "total_revenues": 9105693,
+    "own_revenues": 3092647,
+    "total_expenditures": 9990064,
+    "personnel_costs": 4192158,
+    "functioning_costs": 6993045
+  },
+  "sat. Scăieni|Dondușeni": {
+    "total_revenues": 9237910,
+    "own_revenues": 1127812,
+    "total_expenditures": 9851572,
+    "personnel_costs": 4082687,
+    "functioning_costs": 6896100
+  },
+  "com. Sudarca|Dondușeni": {
+    "total_revenues": 8020240,
+    "own_revenues": 3022734,
+    "total_expenditures": 8684866,
+    "personnel_costs": 3290686,
+    "functioning_costs": 6079406
+  },
+  "com. Tîrnova|Dondușeni": {
+    "total_revenues": 10983453,
+    "own_revenues": 4900739,
+    "total_expenditures": 11328933,
+    "personnel_costs": 4116124,
+    "functioning_costs": 7930253
+  },
+  "sat. Țaul|Dondușeni": {
+    "total_revenues": 6421631,
+    "own_revenues": 2579880,
+    "total_expenditures": 6146596,
+    "personnel_costs": 2851608,
+    "functioning_costs": 4302617
+  },
+  "or. Drochia|Drochia": {
+    "total_revenues": 59871313,
+    "own_revenues": 13698958,
+    "total_expenditures": 64865956,
+    "personnel_costs": 31513628,
+    "functioning_costs": 45406169
+  },
+  "sat. Antoneuca|Drochia": {
+    "total_revenues": 11296396,
+    "own_revenues": 1868266,
+    "total_expenditures": 11904258,
+    "personnel_costs": 4664526,
+    "functioning_costs": 8332981
+  },
+  "sat. Chetrosu|Drochia": {
+    "total_revenues": 13475349,
+    "own_revenues": 1737162,
+    "total_expenditures": 13659624,
+    "personnel_costs": 5568370,
+    "functioning_costs": 9561737
+  },
+  "sat. Mărăndeni|Fălești": {
+    "total_revenues": 7662477,
+    "own_revenues": 1627694,
+    "total_expenditures": 7371382,
+    "personnel_costs": 3429387,
+    "functioning_costs": 5159967
+  },
+  "com. Natalievca|Fălești": {
+    "total_revenues": 10309953,
+    "own_revenues": 3620670,
+    "total_expenditures": 10052170,
+    "personnel_costs": 4131212,
+    "functioning_costs": 7036519
+  },
+  "com. Pietrosu|Fălești": {
+    "total_revenues": 9396472,
+    "own_revenues": 3800995,
+    "total_expenditures": 9423570,
+    "personnel_costs": 5178607,
+    "functioning_costs": 6596499
+  },
+  "sat. Năvîrneț|Fălești": {
+    "total_revenues": 10972355,
+    "own_revenues": 4136767,
+    "total_expenditures": 10518140,
+    "personnel_costs": 4920344,
+    "functioning_costs": 7362698
+  },
+  "sat. Dominteni|Drochia": {
+    "total_revenues": 12002463,
+    "own_revenues": 4565540,
+    "total_expenditures": 12625530,
+    "personnel_costs": 6795027,
+    "functioning_costs": 8837871
+  },
+  "com. Pînzăreni|Fălești": {
+    "total_revenues": 8115575,
+    "own_revenues": 2737636,
+    "total_expenditures": 8243200,
+    "personnel_costs": 2733095,
+    "functioning_costs": 5770240
+  },
+  "com. Obreja Veche|Fălești": {
+    "total_revenues": 10785206,
+    "own_revenues": 2461345,
+    "total_expenditures": 10865321,
+    "personnel_costs": 4800420,
+    "functioning_costs": 7605724
+  },
+  "sat. Drochia|Drochia": {
+    "total_revenues": 13719975,
+    "own_revenues": 3532522,
+    "total_expenditures": 13797420,
+    "personnel_costs": 5670530,
+    "functioning_costs": 9658194
+  },
+  "sat. Pîrlița|Fălești": {
+    "total_revenues": 4908336,
+    "own_revenues": 1400402,
+    "total_expenditures": 4955971,
+    "personnel_costs": 2291593,
+    "functioning_costs": 3469180
+  },
+  "sat. Gribova|Drochia": {
+    "total_revenues": 12517298,
+    "own_revenues": 1365258,
+    "total_expenditures": 12240756,
+    "personnel_costs": 5256625,
+    "functioning_costs": 8568529
+  },
+  "com. Pompa|Fălești": {
+    "total_revenues": 12392068,
+    "own_revenues": 4600401,
+    "total_expenditures": 13081137,
+    "personnel_costs": 4626047,
+    "functioning_costs": 9156796
+  },
+  "com. Pruteni|Fălești": {
+    "total_revenues": 15773432,
+    "own_revenues": 6636949,
+    "total_expenditures": 16146947,
+    "personnel_costs": 5339139,
+    "functioning_costs": 11302863
+  },
+  "sat. Răuțel|Fălești": {
+    "total_revenues": 4400930,
+    "own_revenues": 1824351,
+    "total_expenditures": 4474719,
+    "personnel_costs": 1440625,
+    "functioning_costs": 3132303
+  },
+  "com. Risipeni|Fălești": {
+    "total_revenues": 12542691,
+    "own_revenues": 4369111,
+    "total_expenditures": 12950323,
+    "personnel_costs": 4825168,
+    "functioning_costs": 9065226
+  },
+  "com. Fîntînița|Drochia": {
+    "total_revenues": 13446215,
+    "own_revenues": 4694520,
+    "total_expenditures": 14644255,
+    "personnel_costs": 6727937,
+    "functioning_costs": 10250979
+  },
+  "com. Sărata Veche|Fălești": {
+    "total_revenues": 12305576,
+    "own_revenues": 1753260,
+    "total_expenditures": 12061274,
+    "personnel_costs": 4037140,
+    "functioning_costs": 8442892
+  },
+  "com. Scumpia|Fălești": {
+    "total_revenues": 10012497,
+    "own_revenues": 2942748,
+    "total_expenditures": 10065930,
+    "personnel_costs": 5042180,
+    "functioning_costs": 7046151
+  },
+  "com. Taxobeni|Fălești": {
+    "total_revenues": 12363633,
+    "own_revenues": 5062738,
+    "total_expenditures": 11867384,
+    "personnel_costs": 4741495,
+    "functioning_costs": 8307169
+  },
+  "sat. Hăsnășenii Mari|Drochia": {
+    "total_revenues": 15646523,
+    "own_revenues": 5776815,
+    "total_expenditures": 16796557,
+    "personnel_costs": 5348656,
+    "functioning_costs": 11757590
+  },
+  "com. Hăsnășenii Noi|Drochia": {
+    "total_revenues": 12249060,
+    "own_revenues": 3154024,
+    "total_expenditures": 12886212,
+    "personnel_costs": 4975736,
+    "functioning_costs": 9020348
+  },
+  "sat. Maramonovca|Drochia": {
+    "total_revenues": 19134861,
+    "own_revenues": 3132130,
+    "total_expenditures": 20951519,
+    "personnel_costs": 8551458,
+    "functioning_costs": 14666063
+  },
+  "sat. Miciurin|Drochia": {
+    "total_revenues": 5110332,
+    "own_revenues": 1437719,
+    "total_expenditures": 5087942,
+    "personnel_costs": 1732402,
+    "functioning_costs": 3561559
+  },
+  "sat. Moara de Piatră|Drochia": {
+    "total_revenues": 7583808,
+    "own_revenues": 3255853,
+    "total_expenditures": 8222659,
+    "personnel_costs": 4205754,
+    "functioning_costs": 5755861
+  },
+  "sat. Mîndîc|Drochia": {
+    "total_revenues": 7103633,
+    "own_revenues": 3088113,
+    "total_expenditures": 7040891,
+    "personnel_costs": 3212446,
+    "functioning_costs": 4928624
+  },
+  "sat. Nicoreni|Drochia": {
+    "total_revenues": 19445443,
+    "own_revenues": 5365010,
+    "total_expenditures": 18965051,
+    "personnel_costs": 10153922,
+    "functioning_costs": 13275536
+  },
+  "sat. Sofia|Drochia": {
+    "total_revenues": 5008967,
+    "own_revenues": 1595695,
+    "total_expenditures": 5436233,
+    "personnel_costs": 2089715,
+    "functioning_costs": 3805363
+  },
+  "sat. Ochiul Alb|Drochia": {
+    "total_revenues": 11391874,
+    "own_revenues": 4583218,
+    "total_expenditures": 10961072,
+    "personnel_costs": 5887594,
+    "functioning_costs": 7672751
+  },
+  "com. Palanca|Drochia": {
+    "total_revenues": 14702898,
+    "own_revenues": 2555113,
+    "total_expenditures": 15229564,
+    "personnel_costs": 6922250,
+    "functioning_costs": 10660695
+  },
+  "com. Pelinia|Drochia": {
+    "total_revenues": 3400860,
+    "own_revenues": 1086600,
+    "total_expenditures": 3378587,
+    "personnel_costs": 1821607,
+    "functioning_costs": 2365011
+  },
+  "com. Pervomaiscoe|Drochia": {
+    "total_revenues": 12423598,
+    "own_revenues": 4752924,
+    "total_expenditures": 12559188,
+    "personnel_costs": 5191793,
+    "functioning_costs": 8791432
+  },
+  "com. Petreni|Drochia": {
+    "total_revenues": 3089809,
+    "own_revenues": 758448,
+    "total_expenditures": 3150575,
+    "personnel_costs": 1213123,
+    "functioning_costs": 2205402
+  },
+  "sat. Popeștii de Jos|Drochia": {
+    "total_revenues": 5496158,
+    "own_revenues": 1931498,
+    "total_expenditures": 5826641,
+    "personnel_costs": 3001853,
+    "functioning_costs": 4078649
+  },
+  "sat. Băxani|Soroca": {
+    "total_revenues": 9461238,
+    "own_revenues": 2173143,
+    "total_expenditures": 9785263,
+    "personnel_costs": 3716237,
+    "functioning_costs": 6849684
+  },
+  "sat. Popeștii de Sus|Drochia": {
+    "total_revenues": 10657434,
+    "own_revenues": 2742782,
+    "total_expenditures": 10349772,
+    "personnel_costs": 3235870,
+    "functioning_costs": 7244840
+  },
+  "or. Ocnița|Ocnița": {
+    "total_revenues": 138021589,
+    "own_revenues": 34001227,
+    "total_expenditures": 151051225,
+    "personnel_costs": 79389156,
+    "functioning_costs": 105735857
+  },
+  "mun. Soroca|Soroca": {
+    "total_revenues": 127682132,
+    "own_revenues": 44994538,
+    "total_expenditures": 124933789,
+    "personnel_costs": 42456949,
+    "functioning_costs": 87453652
+  },
+  "com. Șalvirii Vechi|Drochia": {
+    "total_revenues": 15885862,
+    "own_revenues": 6476292,
+    "total_expenditures": 16276742,
+    "personnel_costs": 5249449,
+    "functioning_costs": 11393719
+  },
+  "sat. Zgurița|Drochia": {
+    "total_revenues": 13122980,
+    "own_revenues": 5752331,
+    "total_expenditures": 12890332,
+    "personnel_costs": 5004333,
+    "functioning_costs": 9023232
+  },
+  "com. Bădiceni|Soroca": {
+    "total_revenues": 3281916,
+    "own_revenues": 1014544,
+    "total_expenditures": 3532745,
+    "personnel_costs": 1653784,
+    "functioning_costs": 2472921
+  },
+  "com. Șuri|Drochia": {
+    "total_revenues": 10493022,
+    "own_revenues": 4160592,
+    "total_expenditures": 10646631,
+    "personnel_costs": 5542785,
+    "functioning_costs": 7452642
+  },
+  "com. Dărcăuți|Soroca": {
+    "total_revenues": 14841001,
+    "own_revenues": 3384907,
+    "total_expenditures": 14990705,
+    "personnel_costs": 6634443,
+    "functioning_costs": 10493494
+  },
+  "sat. Țarigrad|Drochia": {
+    "total_revenues": 6957705,
+    "own_revenues": 1398572,
+    "total_expenditures": 7013035,
+    "personnel_costs": 2893498,
+    "functioning_costs": 4909124
+  },
+  "or. Rîșcani|Rîșcani": {
+    "total_revenues": 118863750,
+    "own_revenues": 53034835,
+    "total_expenditures": 125051773,
+    "personnel_costs": 41229914,
+    "functioning_costs": 87536241
+  },
+  "com. Bulboci|Soroca": {
+    "total_revenues": 4751737,
+    "own_revenues": 1797174,
+    "total_expenditures": 4755837,
+    "personnel_costs": 2543122,
+    "functioning_costs": 3329086
+  },
+  "com. Căinarii Vechi|Soroca": {
+    "total_revenues": 4947834,
+    "own_revenues": 1376452,
+    "total_expenditures": 5071588,
+    "personnel_costs": 1578916,
+    "functioning_costs": 3550111
+  },
+  "com. Cosăuți|Soroca": {
+    "total_revenues": 7272809,
+    "own_revenues": 2773762,
+    "total_expenditures": 7475720,
+    "personnel_costs": 2521076,
+    "functioning_costs": 5233004
+  },
+  "com. Cremenciug|Soroca": {
+    "total_revenues": 11801300,
+    "own_revenues": 5027107,
+    "total_expenditures": 11775095,
+    "personnel_costs": 4689298,
+    "functioning_costs": 8242566
+  },
+  "or. Costești|Rîșcani": {
+    "total_revenues": 96201844,
+    "own_revenues": 26701808,
+    "total_expenditures": 98747068,
+    "personnel_costs": 41716850,
+    "functioning_costs": 69122947
+  },
+  "sat. Dubna|Soroca": {
+    "total_revenues": 14877417,
+    "own_revenues": 5735424,
+    "total_expenditures": 14955578,
+    "personnel_costs": 7005964,
+    "functioning_costs": 10468905
+  },
+  "com. Alexăndrești|Rîșcani": {
+    "total_revenues": 14570384,
+    "own_revenues": 5520196,
+    "total_expenditures": 15427102,
+    "personnel_costs": 7281761,
+    "functioning_costs": 10798972
+  },
+  "sat. Egoreni|Soroca": {
+    "total_revenues": 3555135,
+    "own_revenues": 685912,
+    "total_expenditures": 3726985,
+    "personnel_costs": 2023806,
+    "functioning_costs": 2608890
+  },
+  "sat. Hristici|Soroca": {
+    "total_revenues": 19073348,
+    "own_revenues": 6723165,
+    "total_expenditures": 19789142,
+    "personnel_costs": 6780315,
+    "functioning_costs": 13852400
+  },
+  "com. Holoșnița|Soroca": {
+    "total_revenues": 22635201,
+    "own_revenues": 8400198,
+    "total_expenditures": 22794293,
+    "personnel_costs": 11520585,
+    "functioning_costs": 15956005
+  },
+  "sat. Aluniș|Rîșcani": {
+    "total_revenues": 5787731,
+    "own_revenues": 2499558,
+    "total_expenditures": 5593751,
+    "personnel_costs": 1704608,
+    "functioning_costs": 3915626
+  },
+  "sat. Oclanda|Soroca": {
+    "total_revenues": 10265177,
+    "own_revenues": 2510206,
+    "total_expenditures": 10065866,
+    "personnel_costs": 4282572,
+    "functioning_costs": 7046106
+  },
+  "com. Iarova|Soroca": {
+    "total_revenues": 24986265,
+    "own_revenues": 10131586,
+    "total_expenditures": 26494826,
+    "personnel_costs": 8360981,
+    "functioning_costs": 18546378
+  },
+  "com. Nimereuca|Soroca": {
+    "total_revenues": 6365943,
+    "own_revenues": 1886295,
+    "total_expenditures": 7000745,
+    "personnel_costs": 2937462,
+    "functioning_costs": 4900522
+  },
+  "com. Șolcani|Soroca": {
+    "total_revenues": 10820106,
+    "own_revenues": 1737859,
+    "total_expenditures": 11759493,
+    "personnel_costs": 4534246,
+    "functioning_costs": 8231645
+  },
+  "sat. Corlăteni|Rîșcani": {
+    "total_revenues": 13659164,
+    "own_revenues": 5513918,
+    "total_expenditures": 14370968,
+    "personnel_costs": 7198607,
+    "functioning_costs": 10059678
+  },
+  "com. Ocolina|Soroca": {
+    "total_revenues": 10452193,
+    "own_revenues": 1748573,
+    "total_expenditures": 10316083,
+    "personnel_costs": 4534142,
+    "functioning_costs": 7221258
+  },
+  "com. Parcani|Soroca": {
+    "total_revenues": 11502512,
+    "own_revenues": 5104713,
+    "total_expenditures": 12257953,
+    "personnel_costs": 5837546,
+    "functioning_costs": 8580567
+  },
+  "com. Pîrlița|Soroca": {
+    "total_revenues": 13418452,
+    "own_revenues": 2979985,
+    "total_expenditures": 14626851,
+    "personnel_costs": 7296624,
+    "functioning_costs": 10238796
+  },
+  "sat. Racovăț|Soroca": {
+    "total_revenues": 8267199,
+    "own_revenues": 2486086,
+    "total_expenditures": 8527439,
+    "personnel_costs": 4467868,
+    "functioning_costs": 5969208
+  },
+  "com. Pogănești|Hîncești": {
+    "total_revenues": 16313245,
+    "own_revenues": 7081793,
+    "total_expenditures": 17466467,
+    "personnel_costs": 6508235,
+    "functioning_costs": 12226527
+  },
+  "sat. Redi-Cereșnovăț|Soroca": {
+    "total_revenues": 13849425,
+    "own_revenues": 1768022,
+    "total_expenditures": 15076504,
+    "personnel_costs": 6995393,
+    "functioning_costs": 10553553
+  },
+  "com. Regina Maria|Soroca": {
+    "total_revenues": 11975184,
+    "own_revenues": 4667724,
+    "total_expenditures": 11863455,
+    "personnel_costs": 5225905,
+    "functioning_costs": 8304418
+  },
+  "com. Rublenița|Soroca": {
+    "total_revenues": 7088127,
+    "own_revenues": 2236212,
+    "total_expenditures": 7357650,
+    "personnel_costs": 2653275,
+    "functioning_costs": 5150355
+  },
+  "sat. Rudi|Soroca": {
+    "total_revenues": 13205522,
+    "own_revenues": 2396707,
+    "total_expenditures": 12743721,
+    "personnel_costs": 4875409,
+    "functioning_costs": 8920605
+  },
+  "sat. Borosenii Noi|Rîșcani": {
+    "total_revenues": 10511610,
+    "own_revenues": 3886858,
+    "total_expenditures": 9994200,
+    "personnel_costs": 4373343,
+    "functioning_costs": 6995940
+  },
+  "com. Schineni|Soroca": {
+    "total_revenues": 6315143,
+    "own_revenues": 2698216,
+    "total_expenditures": 6831469,
+    "personnel_costs": 2864859,
+    "functioning_costs": 4782028
+  },
+  "com. Stoicani|Soroca": {
+    "total_revenues": 9463829,
+    "own_revenues": 1897836,
+    "total_expenditures": 9395806,
+    "personnel_costs": 2957712,
+    "functioning_costs": 6577064
+  },
+  "com. Duruitoarea Nouă|Rîșcani": {
+    "total_revenues": 5562304,
+    "own_revenues": 1008318,
+    "total_expenditures": 5900509,
+    "personnel_costs": 3024502,
+    "functioning_costs": 4130356
+  },
+  "com. Braniște|Rîșcani": {
+    "total_revenues": 4732797,
+    "own_revenues": 763271,
+    "total_expenditures": 5122480,
+    "personnel_costs": 1761863,
+    "functioning_costs": 3585736
+  },
+  "sat. Șeptelici|Soroca": {
+    "total_revenues": 4928744,
+    "own_revenues": 1177714,
+    "total_expenditures": 5048550,
+    "personnel_costs": 2696694,
+    "functioning_costs": 3533985
+  },
+  "com. Tătărăuca Veche|Soroca": {
+    "total_revenues": 13292381,
+    "own_revenues": 1372352,
+    "total_expenditures": 13760197,
+    "personnel_costs": 4497179,
+    "functioning_costs": 9632138
+  },
+  "sat. Corten|Taraclia": {
+    "total_revenues": 9609216,
+    "own_revenues": 4287486,
+    "total_expenditures": 9911859,
+    "personnel_costs": 4197455,
+    "functioning_costs": 6938301
+  },
+  "com. Gălășeni|Rîșcani": {
+    "total_revenues": 7838406,
+    "own_revenues": 2067829,
+    "total_expenditures": 7673186,
+    "personnel_costs": 2518046,
+    "functioning_costs": 5371230
+  },
+  "sat. Valea Perjei|Taraclia": {
+    "total_revenues": 8157038,
+    "own_revenues": 2666535,
+    "total_expenditures": 8628431,
+    "personnel_costs": 2618910,
+    "functioning_costs": 6039901
+  },
+  "com. Grinăuți|Rîșcani": {
+    "total_revenues": 14161809,
+    "own_revenues": 4230464,
+    "total_expenditures": 15062393,
+    "personnel_costs": 5179561,
+    "functioning_costs": 10543675
+  },
+  "com. Răcăria|Rîșcani": {
+    "total_revenues": 16762063,
+    "own_revenues": 4699215,
+    "total_expenditures": 16142045,
+    "personnel_costs": 7543403,
+    "functioning_costs": 11299432
+  },
+  "sat. Hiliuți|Rîșcani": {
+    "total_revenues": 10302595,
+    "own_revenues": 2751915,
+    "total_expenditures": 11233679,
+    "personnel_costs": 3389286,
+    "functioning_costs": 7863576
+  },
+  "or. Ștefan Vodă|Ștefan Vodă": {
+    "total_revenues": 85785169,
+    "own_revenues": 31209917,
+    "total_expenditures": 93772217,
+    "personnel_costs": 35210198,
+    "functioning_costs": 65640552
+  },
+  "com. Alava|Ștefan Vodă": {
+    "total_revenues": 11143041,
+    "own_revenues": 3663711,
+    "total_expenditures": 11743822,
+    "personnel_costs": 3705541,
+    "functioning_costs": 8220675
+  },
+  "sat. Horodiște|Rîșcani": {
+    "total_revenues": 5593046,
+    "own_revenues": 871961,
+    "total_expenditures": 5888980,
+    "personnel_costs": 3125732,
+    "functioning_costs": 4122286
+  },
+  "sat. Trifăuți|Soroca": {
+    "total_revenues": 12470005,
+    "own_revenues": 4034657,
+    "total_expenditures": 13605964,
+    "personnel_costs": 5331987,
+    "functioning_costs": 9524175
+  },
+  "com. Vasilcău|Soroca": {
+    "total_revenues": 6647266,
+    "own_revenues": 975480,
+    "total_expenditures": 6467643,
+    "personnel_costs": 3149313,
+    "functioning_costs": 4527350
+  },
+  "com. Malinovscoe|Rîșcani": {
+    "total_revenues": 16906066,
+    "own_revenues": 5844076,
+    "total_expenditures": 18375533,
+    "personnel_costs": 8991840,
+    "functioning_costs": 12862873
+  },
+  "sat. Beșghioz|UTA Găgăuzia": {
+    "total_revenues": 10109136,
+    "own_revenues": 3418098,
+    "total_expenditures": 10507155,
+    "personnel_costs": 5220403,
+    "functioning_costs": 7355009
+  },
+  "sat. Bugeac|UTA Găgăuzia": {
+    "total_revenues": 15908504,
+    "own_revenues": 5509404,
+    "total_expenditures": 15299454,
+    "personnel_costs": 6747704,
+    "functioning_costs": 10709618
+  },
+  "com. Vărăncău|Soroca": {
+    "total_revenues": 5313875,
+    "own_revenues": 2210630,
+    "total_expenditures": 5209317,
+    "personnel_costs": 2261703,
+    "functioning_costs": 3646522
+  },
+  "com. Cubolta|Sîngerei": {
+    "total_revenues": 6055171,
+    "own_revenues": 1708282,
+    "total_expenditures": 5857991,
+    "personnel_costs": 2058207,
+    "functioning_costs": 4100594
+  },
+  "sat. Mihăileni|Rîșcani": {
+    "total_revenues": 17969484,
+    "own_revenues": 7450351,
+    "total_expenditures": 18271774,
+    "personnel_costs": 5735673,
+    "functioning_costs": 12790242
+  },
+  "sat. Petrușeni|Rîșcani": {
+    "total_revenues": 6172265,
+    "own_revenues": 1604045,
+    "total_expenditures": 5917107,
+    "personnel_costs": 2459117,
+    "functioning_costs": 4141975
+  },
+  "sat. Nihoreni|Rîșcani": {
+    "total_revenues": 12658457,
+    "own_revenues": 3020081,
+    "total_expenditures": 13575790,
+    "personnel_costs": 6603958,
+    "functioning_costs": 9503053
+  },
+  "com. Vădeni|Soroca": {
+    "total_revenues": 12084911,
+    "own_revenues": 3000612,
+    "total_expenditures": 12750279,
+    "personnel_costs": 5550080,
+    "functioning_costs": 8925195
+  },
+  "com. Volovița|Soroca": {
+    "total_revenues": 5607039,
+    "own_revenues": 696151,
+    "total_expenditures": 6112044,
+    "personnel_costs": 1882105,
+    "functioning_costs": 4278431
+  },
+  "sat. Pîrjota|Rîșcani": {
+    "total_revenues": 10164856,
+    "own_revenues": 1498301,
+    "total_expenditures": 10634765,
+    "personnel_costs": 5129385,
+    "functioning_costs": 7444335
+  },
+  "sat. Zastînca|Soroca": {
+    "total_revenues": 12458094,
+    "own_revenues": 5132321,
+    "total_expenditures": 12673377,
+    "personnel_costs": 6707749,
+    "functioning_costs": 8871364
+  },
+  "sat. Antonești|Ștefan Vodă": {
+    "total_revenues": 11439031,
+    "own_revenues": 3877324,
+    "total_expenditures": 12002619,
+    "personnel_costs": 5219040,
+    "functioning_costs": 8401834
+  },
+  "sat. Pociumbăuți|Rîșcani": {
+    "total_revenues": 8377934,
+    "own_revenues": 3749095,
+    "total_expenditures": 8452991,
+    "personnel_costs": 2805013,
+    "functioning_costs": 5917093
+  },
+  "com. Pociumbeni|Rîșcani": {
+    "total_revenues": 10724430,
+    "own_revenues": 3910801,
+    "total_expenditures": 11762271,
+    "personnel_costs": 4890176,
+    "functioning_costs": 8233590
+  },
+  "sat. Stolniceni|Hîncești": {
+    "total_revenues": 16097284,
+    "own_revenues": 3746591,
+    "total_expenditures": 15846965,
+    "personnel_costs": 6578967,
+    "functioning_costs": 11092875
+  },
+  "com. Recea|Rîșcani": {
+    "total_revenues": 5566487,
+    "own_revenues": 2382978,
+    "total_expenditures": 5893538,
+    "personnel_costs": 1934325,
+    "functioning_costs": 4125477
+  },
+  "mun. Comrat|UTA Găgăuzia": {
+    "total_revenues": 125486002,
+    "own_revenues": 53668264,
+    "total_expenditures": 135946038,
+    "personnel_costs": 48963219,
+    "functioning_costs": 95162227
+  },
+  "com. Sculeni|Ungheni": {
+    "total_revenues": 3042779,
+    "own_revenues": 340036,
+    "total_expenditures": 3163479,
+    "personnel_costs": 1505251,
+    "functioning_costs": 2214435
+  },
+  "sat. Singureni|Rîșcani": {
+    "total_revenues": 3128979,
+    "own_revenues": 361343,
+    "total_expenditures": 3178556,
+    "personnel_costs": 1382481,
+    "functioning_costs": 2224989
+  },
+  "sat. Chioselia Rusă|UTA Găgăuzia": {
+    "total_revenues": 2966128,
+    "own_revenues": 1327992,
+    "total_expenditures": 2922004,
+    "personnel_costs": 1546030,
+    "functioning_costs": 2045403
+  },
+  "sat. Congaz|UTA Găgăuzia": {
+    "total_revenues": 15438074,
+    "own_revenues": 4774551,
+    "total_expenditures": 16223560,
+    "personnel_costs": 6167650,
+    "functioning_costs": 11356492
+  },
+  "mun. Ceadîr-Lunga|UTA Găgăuzia": {
+    "total_revenues": 116399378,
+    "own_revenues": 51796960,
+    "total_expenditures": 119680404,
+    "personnel_costs": 48277884,
+    "functioning_costs": 83776283
+  },
+  "or. Vulcănești|UTA Găgăuzia": {
+    "total_revenues": 56031123,
+    "own_revenues": 24204442,
+    "total_expenditures": 60623270,
+    "personnel_costs": 32002686,
+    "functioning_costs": 42436289
+  },
+  "sat. Sturzeni|Rîșcani": {
+    "total_revenues": 21915077,
+    "own_revenues": 6455036,
+    "total_expenditures": 20973443,
+    "personnel_costs": 8097924,
+    "functioning_costs": 14681410
+  },
+  "sat. Șaptebani|Rîșcani": {
+    "total_revenues": 15548814,
+    "own_revenues": 3289461,
+    "total_expenditures": 15742377,
+    "personnel_costs": 5309973,
+    "functioning_costs": 11019664
+  },
+  "sat. Avdarma|UTA Găgăuzia": {
+    "total_revenues": 9551005,
+    "own_revenues": 2753315,
+    "total_expenditures": 9418678,
+    "personnel_costs": 3356215,
+    "functioning_costs": 6593075
+  },
+  "com. Dobrogea Veche|Sîngerei": {
+    "total_revenues": 7956621,
+    "own_revenues": 3343049,
+    "total_expenditures": 8229994,
+    "personnel_costs": 4460217,
+    "functioning_costs": 5760996
+  },
+  "sat. Baurci|UTA Găgăuzia": {
+    "total_revenues": 17838515,
+    "own_revenues": 4208938,
+    "total_expenditures": 17628901,
+    "personnel_costs": 6744214,
+    "functioning_costs": 12340231
+  },
+  "sat. Brezoaia|Ștefan Vodă": {
+    "total_revenues": 6230153,
+    "own_revenues": 2470235,
+    "total_expenditures": 6005055,
+    "personnel_costs": 2889309,
+    "functioning_costs": 4203539
+  },
+  "sat. Beșalma|UTA Găgăuzia": {
+    "total_revenues": 5024066,
+    "own_revenues": 1165628,
+    "total_expenditures": 5228774,
+    "personnel_costs": 1620328,
+    "functioning_costs": 3660142
+  },
+  "sat. Carbalia|UTA Găgăuzia": {
+    "total_revenues": 3448690,
+    "own_revenues": 1264268,
+    "total_expenditures": 3650941,
+    "personnel_costs": 1605365,
+    "functioning_costs": 2555659
+  },
+  "com. Drăgănești|Sîngerei": {
+    "total_revenues": 11922547,
+    "own_revenues": 4977204,
+    "total_expenditures": 11868635,
+    "personnel_costs": 6257721,
+    "functioning_costs": 8308045
+  },
+  "com. Șumna|Rîșcani": {
+    "total_revenues": 11009250,
+    "own_revenues": 4808038,
+    "total_expenditures": 10652522,
+    "personnel_costs": 5857747,
+    "functioning_costs": 7456765
+  },
+  "sat. Joltai|UTA Găgăuzia": {
+    "total_revenues": 20243266,
+    "own_revenues": 6952938,
+    "total_expenditures": 21368088,
+    "personnel_costs": 8529244,
+    "functioning_costs": 14957662
+  },
+  "sat. Cazaclia|UTA Găgăuzia": {
+    "total_revenues": 9329347,
+    "own_revenues": 3465198,
+    "total_expenditures": 9395579,
+    "personnel_costs": 4072162,
+    "functioning_costs": 6576905
+  },
+  "com. Dumbrăvița|Sîngerei": {
+    "total_revenues": 10372062,
+    "own_revenues": 2342796,
+    "total_expenditures": 11226945,
+    "personnel_costs": 4676034,
+    "functioning_costs": 7858862
+  },
+  "sat. Chiriet-Lunga|UTA Găgăuzia": {
+    "total_revenues": 18138320,
+    "own_revenues": 3846805,
+    "total_expenditures": 17784063,
+    "personnel_costs": 6726475,
+    "functioning_costs": 12448844
+  },
+  "sat. Chirsova|UTA Găgăuzia": {
+    "total_revenues": 3999010,
+    "own_revenues": 709608,
+    "total_expenditures": 3886592,
+    "personnel_costs": 1419358,
+    "functioning_costs": 2720614
+  },
+  "com. Bursuceni|Sîngerei": {
+    "total_revenues": 19252835,
+    "own_revenues": 4739130,
+    "total_expenditures": 18730346,
+    "personnel_costs": 7163727,
+    "functioning_costs": 13111242
+  },
+  "com. Vasileuți|Rîșcani": {
+    "total_revenues": 13393117,
+    "own_revenues": 2491193,
+    "total_expenditures": 13829684,
+    "personnel_costs": 7410859,
+    "functioning_costs": 9680779
+  },
+  "sat. Voinescu|Hîncești": {
+    "total_revenues": 9423425,
+    "own_revenues": 3652116,
+    "total_expenditures": 10318426,
+    "personnel_costs": 4750847,
+    "functioning_costs": 7222898
+  },
+  "sat. Cioc-Maidan|UTA Găgăuzia": {
+    "total_revenues": 15186685,
+    "own_revenues": 5413602,
+    "total_expenditures": 15229609,
+    "personnel_costs": 5101761,
+    "functioning_costs": 10660727
+  },
+  "sat. Cișmichioi|UTA Găgăuzia": {
+    "total_revenues": 16996113,
+    "own_revenues": 7153915,
+    "total_expenditures": 17528440,
+    "personnel_costs": 8071012,
+    "functioning_costs": 12269908
+  },
+  "com. Congazcicul de Sus|UTA Găgăuzia": {
+    "total_revenues": 4239932,
+    "own_revenues": 1669151,
+    "total_expenditures": 4075209,
+    "personnel_costs": 2055939,
+    "functioning_costs": 2852646
+  },
+  "sat. Văratic|Rîșcani": {
+    "total_revenues": 4681284,
+    "own_revenues": 1143812,
+    "total_expenditures": 5038848,
+    "personnel_costs": 1803194,
+    "functioning_costs": 3527194
+  },
+  "sat. Meșeni|Rezina": {
+    "total_revenues": 4120553,
+    "own_revenues": 1141420,
+    "total_expenditures": 4145194,
+    "personnel_costs": 1883820,
+    "functioning_costs": 2901636
+  },
+  "sat. Copceac|UTA Găgăuzia": {
+    "total_revenues": 25048990,
+    "own_revenues": 8284941,
+    "total_expenditures": 23855650,
+    "personnel_costs": 10330764,
+    "functioning_costs": 16698955
+  },
+  "sat. Cotovscoe|UTA Găgăuzia": {
+    "total_revenues": 8461517,
+    "own_revenues": 2414038,
+    "total_expenditures": 8387149,
+    "personnel_costs": 4565711,
+    "functioning_costs": 5871005
+  },
+  "or. Sîngerei|Sîngerei": {
+    "total_revenues": 29700292,
+    "own_revenues": 10224346,
+    "total_expenditures": 30133500,
+    "personnel_costs": 16119252,
+    "functioning_costs": 21093450
+  },
+  "sat. Dezghingea|UTA Găgăuzia": {
+    "total_revenues": 5142783,
+    "own_revenues": 687641,
+    "total_expenditures": 5000506,
+    "personnel_costs": 1740091,
+    "functioning_costs": 3500354
+  },
+  "com. Svetlîi|UTA Găgăuzia": {
+    "total_revenues": 13449905,
+    "own_revenues": 3013510,
+    "total_expenditures": 14381182,
+    "personnel_costs": 4598452,
+    "functioning_costs": 10066827
+  },
+  "com. Etulia|UTA Găgăuzia": {
+    "total_revenues": 12986562,
+    "own_revenues": 2404108,
+    "total_expenditures": 13695439,
+    "personnel_costs": 5135703,
+    "functioning_costs": 9586807
+  },
+  "sat. Crocmaz|Ștefan Vodă": {
+    "total_revenues": 5306135,
+    "own_revenues": 2124453,
+    "total_expenditures": 5645398,
+    "personnel_costs": 1825581,
+    "functioning_costs": 3951779
+  },
+  "sat. Zăicani|Rîșcani": {
+    "total_revenues": 11495061,
+    "own_revenues": 3064604,
+    "total_expenditures": 12018226,
+    "personnel_costs": 5717206,
+    "functioning_costs": 8412759
+  },
+  "sat. Ermoclia|Ștefan Vodă": {
+    "total_revenues": 4799727,
+    "own_revenues": 1208899,
+    "total_expenditures": 5124460,
+    "personnel_costs": 2262265,
+    "functioning_costs": 3587122
+  },
+  "sat. Ferapontievca|UTA Găgăuzia": {
+    "total_revenues": 6698662,
+    "own_revenues": 2824848,
+    "total_expenditures": 6594598,
+    "personnel_costs": 3464263,
+    "functioning_costs": 4616219
+  },
+  "com. Bilicenii Vechi|Sîngerei": {
+    "total_revenues": 17356370,
+    "own_revenues": 2018488,
+    "total_expenditures": 16682114,
+    "personnel_costs": 8864812,
+    "functioning_costs": 11677479
+  },
+  "sat. Gaidar|UTA Găgăuzia": {
+    "total_revenues": 17889249,
+    "own_revenues": 1994931,
+    "total_expenditures": 19487027,
+    "personnel_costs": 7378201,
+    "functioning_costs": 13640919
+  },
+  "sat. Volintiri|Ștefan Vodă": {
+    "total_revenues": 8658573,
+    "own_revenues": 3145565,
+    "total_expenditures": 9151304,
+    "personnel_costs": 3656623,
+    "functioning_costs": 6405913
+  },
+  "sat. Tomai|UTA Găgăuzia": {
+    "total_revenues": 3929915,
+    "own_revenues": 1168699,
+    "total_expenditures": 4067479,
+    "personnel_costs": 2084016,
+    "functioning_costs": 2847235
+  },
+  "or. Biruința|Sîngerei": {
+    "total_revenues": 122866250,
+    "own_revenues": 44780232,
+    "total_expenditures": 119302218,
+    "personnel_costs": 65272569,
+    "functioning_costs": 83511553
+  },
+  "com. Alexăndreni|Sîngerei": {
+    "total_revenues": 4689358,
+    "own_revenues": 2068069,
+    "total_expenditures": 4492661,
+    "personnel_costs": 1838720,
+    "functioning_costs": 3144862
+  },
+  "com. Bălășești|Sîngerei": {
+    "total_revenues": 4054807,
+    "own_revenues": 1496840,
+    "total_expenditures": 4432832,
+    "personnel_costs": 1769479,
+    "functioning_costs": 3102982
+  },
+  "or. Taraclia|Taraclia": {
+    "total_revenues": 60954671,
+    "own_revenues": 11926663,
+    "total_expenditures": 66982350,
+    "personnel_costs": 28310148,
+    "functioning_costs": 46887645
+  },
+  "com. Bilicenii Noi|Sîngerei": {
+    "total_revenues": 12562955,
+    "own_revenues": 2907061,
+    "total_expenditures": 12284820,
+    "personnel_costs": 5484789,
+    "functioning_costs": 8599374
+  },
+  "com. Țambula|Sîngerei": {
+    "total_revenues": 8664303,
+    "own_revenues": 2742387,
+    "total_expenditures": 9268276,
+    "personnel_costs": 4432805,
+    "functioning_costs": 6487793
+  },
+  "com. Chișcăreni|Sîngerei": {
+    "total_revenues": 3930137,
+    "own_revenues": 915722,
+    "total_expenditures": 4195750,
+    "personnel_costs": 1420552,
+    "functioning_costs": 2937025
+  },
+  "com. Corestăuți|Ocnița": {
+    "total_revenues": 11141657,
+    "own_revenues": 1529670,
+    "total_expenditures": 10593257,
+    "personnel_costs": 3994366,
+    "functioning_costs": 7415280
+  },
+  "com. Albota de Jos|Taraclia": {
+    "total_revenues": 14629817,
+    "own_revenues": 1986451,
+    "total_expenditures": 14089897,
+    "personnel_costs": 5745083,
+    "functioning_costs": 9862928
+  },
+  "com. Ciuciuieni|Sîngerei": {
+    "total_revenues": 18160290,
+    "own_revenues": 4409599,
+    "total_expenditures": 17323814,
+    "personnel_costs": 6729930,
+    "functioning_costs": 12126670
+  },
+  "com. Albota de Sus|Taraclia": {
+    "total_revenues": 5454990,
+    "own_revenues": 2043186,
+    "total_expenditures": 5888977,
+    "personnel_costs": 1784862,
+    "functioning_costs": 4122284
+  },
+  "sat. Aluatu|Taraclia": {
+    "total_revenues": 12439231,
+    "own_revenues": 1612682,
+    "total_expenditures": 13498685,
+    "personnel_costs": 7104384,
+    "functioning_costs": 9449080
+  },
+  "sat. Balabanu|Taraclia": {
+    "total_revenues": 9562564,
+    "own_revenues": 1523833,
+    "total_expenditures": 9630552,
+    "personnel_costs": 3223442,
+    "functioning_costs": 6741387
+  },
+  "sat. Cairaclia|Taraclia": {
+    "total_revenues": 8723541,
+    "own_revenues": 1317928,
+    "total_expenditures": 8506161,
+    "personnel_costs": 3138692,
+    "functioning_costs": 5954312
+  },
+  "com. Budăi|Taraclia": {
+    "total_revenues": 10450432,
+    "own_revenues": 1326395,
+    "total_expenditures": 10322466,
+    "personnel_costs": 3733094,
+    "functioning_costs": 7225726
+  },
+  "com. Cealîc|Taraclia": {
+    "total_revenues": 19177876,
+    "own_revenues": 6057027,
+    "total_expenditures": 19536104,
+    "personnel_costs": 6522566,
+    "functioning_costs": 13675273
+  },
+  "com. Copăceni|Sîngerei": {
+    "total_revenues": 3738110,
+    "own_revenues": 808464,
+    "total_expenditures": 3898957,
+    "personnel_costs": 1953452,
+    "functioning_costs": 2729270
+  },
+  "sat. Musaitu|Taraclia": {
+    "total_revenues": 10848850,
+    "own_revenues": 2719977,
+    "total_expenditures": 11646569,
+    "personnel_costs": 5389557,
+    "functioning_costs": 8152598
+  },
+  "com. Coșcodeni|Sîngerei": {
+    "total_revenues": 13267224,
+    "own_revenues": 2815740,
+    "total_expenditures": 14489027,
+    "personnel_costs": 5074244,
+    "functioning_costs": 10142319
+  },
+  "sat. Novosiolovca|Taraclia": {
+    "total_revenues": 8243926,
+    "own_revenues": 1973463,
+    "total_expenditures": 8226372,
+    "personnel_costs": 3979249,
+    "functioning_costs": 5758460
+  },
+  "com. Cotiujenii Mici|Sîngerei": {
+    "total_revenues": 19313469,
+    "own_revenues": 5824126,
+    "total_expenditures": 19050104,
+    "personnel_costs": 7506004,
+    "functioning_costs": 13335073
+  },
+  "or. Tvardița|Taraclia": {
+    "total_revenues": 98301099,
+    "own_revenues": 41898239,
+    "total_expenditures": 96332128,
+    "personnel_costs": 52916802,
+    "functioning_costs": 67432490
+  },
+  "com. Vinogradovca|Taraclia": {
+    "total_revenues": 8419832,
+    "own_revenues": 2463093,
+    "total_expenditures": 9202461,
+    "personnel_costs": 3822754,
+    "functioning_costs": 6441723
+  },
+  "com. Salcia|Taraclia": {
+    "total_revenues": 7792978,
+    "own_revenues": 1573916,
+    "total_expenditures": 8213216,
+    "personnel_costs": 4145550,
+    "functioning_costs": 5749251
+  },
+  "sat. Carahasani|Ștefan Vodă": {
+    "total_revenues": 15285826,
+    "own_revenues": 2273196,
+    "total_expenditures": 15215891,
+    "personnel_costs": 5525962,
+    "functioning_costs": 10651124
+  },
+  "sat. Căplani|Ștefan Vodă": {
+    "total_revenues": 7811044,
+    "own_revenues": 2938334,
+    "total_expenditures": 7507153,
+    "personnel_costs": 4111481,
+    "functioning_costs": 5255007
+  },
+  "sat. Cioburciu|Ștefan Vodă": {
+    "total_revenues": 16327757,
+    "own_revenues": 4686533,
+    "total_expenditures": 17773162,
+    "personnel_costs": 9195984,
+    "functioning_costs": 12441213
+  },
+  "com. Grigorăuca|Sîngerei": {
+    "total_revenues": 14195612,
+    "own_revenues": 5348230,
+    "total_expenditures": 14251392,
+    "personnel_costs": 7465953,
+    "functioning_costs": 9975975
+  },
+  "sat. Copceac|Ștefan Vodă": {
+    "total_revenues": 18112690,
+    "own_revenues": 7608062,
+    "total_expenditures": 17504202,
+    "personnel_costs": 6337532,
+    "functioning_costs": 12252941
+  },
+  "com. Heciul Nou|Sîngerei": {
+    "total_revenues": 8957958,
+    "own_revenues": 2816716,
+    "total_expenditures": 9266855,
+    "personnel_costs": 4274409,
+    "functioning_costs": 6486799
+  },
+  "com. Iezărenii Vechi|Sîngerei": {
+    "total_revenues": 17990554,
+    "own_revenues": 3887018,
+    "total_expenditures": 19239722,
+    "personnel_costs": 6281503,
+    "functioning_costs": 13467806
+  },
+  "sat. Feștelița|Ștefan Vodă": {
+    "total_revenues": 4253481,
+    "own_revenues": 1185601,
+    "total_expenditures": 4371812,
+    "personnel_costs": 1946023,
+    "functioning_costs": 3060268
+  },
+  "sat. Marianca de Jos|Ștefan Vodă": {
+    "total_revenues": 14069817,
+    "own_revenues": 3249310,
+    "total_expenditures": 14343609,
+    "personnel_costs": 6739902,
+    "functioning_costs": 10040526
+  },
+  "com. Izvoare|Sîngerei": {
+    "total_revenues": 11644249,
+    "own_revenues": 5230549,
+    "total_expenditures": 11905262,
+    "personnel_costs": 4450878,
+    "functioning_costs": 8333683
+  },
+  "sat. Olănești|Ștefan Vodă": {
+    "total_revenues": 3442131,
+    "own_revenues": 1477489,
+    "total_expenditures": 3343174,
+    "personnel_costs": 1263628,
+    "functioning_costs": 2340222
+  },
+  "sat. Palanca|Ștefan Vodă": {
+    "total_revenues": 17941858,
+    "own_revenues": 5066605,
+    "total_expenditures": 17982138,
+    "personnel_costs": 5833509,
+    "functioning_costs": 12587497
+  },
+  "sat. Popeasca|Ștefan Vodă": {
+    "total_revenues": 12604515,
+    "own_revenues": 2585091,
+    "total_expenditures": 13506090,
+    "personnel_costs": 4440415,
+    "functioning_costs": 9454263
+  },
+  "com. Zaim|Căușeni": {
+    "total_revenues": 13067929,
+    "own_revenues": 4403876,
+    "total_expenditures": 12736697,
+    "personnel_costs": 6953920,
+    "functioning_costs": 8915688
+  },
+  "com. Purcari|Ștefan Vodă": {
+    "total_revenues": 9205377,
+    "own_revenues": 2698728,
+    "total_expenditures": 9202141,
+    "personnel_costs": 3741520,
+    "functioning_costs": 6441499
+  },
+  "com. Pepeni|Sîngerei": {
+    "total_revenues": 11827644,
+    "own_revenues": 2859529,
+    "total_expenditures": 11563506,
+    "personnel_costs": 5320597,
+    "functioning_costs": 8094455
+  },
+  "com. Prepelița|Sîngerei": {
+    "total_revenues": 12972069,
+    "own_revenues": 4645115,
+    "total_expenditures": 14041805,
+    "personnel_costs": 5790753,
+    "functioning_costs": 9829264
+  },
+  "com. Răscăieți|Ștefan Vodă": {
+    "total_revenues": 12833482,
+    "own_revenues": 4448822,
+    "total_expenditures": 12587948,
+    "personnel_costs": 6143943,
+    "functioning_costs": 8811563
+  },
+  "com. Baccealia|Căușeni": {
+    "total_revenues": 4517701,
+    "own_revenues": 1715940,
+    "total_expenditures": 4655642,
+    "personnel_costs": 1822443,
+    "functioning_costs": 3258949
+  },
+  "com. Baimaclia|Căușeni": {
+    "total_revenues": 7589317,
+    "own_revenues": 1455811,
+    "total_expenditures": 8191874,
+    "personnel_costs": 3538306,
+    "functioning_costs": 5734312
+  },
+  "sat. Rădoaia|Sîngerei": {
+    "total_revenues": 11759002,
+    "own_revenues": 3691832,
+    "total_expenditures": 12206440,
+    "personnel_costs": 4723662,
+    "functioning_costs": 8544508
+  },
+  "sat. Semionovca|Ștefan Vodă": {
+    "total_revenues": 16122500,
+    "own_revenues": 6204073,
+    "total_expenditures": 17023720,
+    "personnel_costs": 6373020,
+    "functioning_costs": 11916604
+  },
+  "sat. Chircăiești|Căușeni": {
+    "total_revenues": 20272130,
+    "own_revenues": 6795999,
+    "total_expenditures": 20210865,
+    "personnel_costs": 7268700,
+    "functioning_costs": 14147606
+  },
+  "sat. Slobozia|Ștefan Vodă": {
+    "total_revenues": 4320481,
+    "own_revenues": 1480641,
+    "total_expenditures": 4435508,
+    "personnel_costs": 1794428,
+    "functioning_costs": 3104856
+  },
+  "sat. Ștefănești|Ștefan Vodă": {
+    "total_revenues": 6630002,
+    "own_revenues": 1644662,
+    "total_expenditures": 6782496,
+    "personnel_costs": 2945942,
+    "functioning_costs": 4747747
+  },
+  "sat. Caracui|Hîncești": {
+    "total_revenues": 7516378,
+    "own_revenues": 2039755,
+    "total_expenditures": 7298737,
+    "personnel_costs": 2763630,
+    "functioning_costs": 5109116
+  },
+  "com. Tăura Veche|Sîngerei": {
+    "total_revenues": 15947071,
+    "own_revenues": 6425598,
+    "total_expenditures": 17426581,
+    "personnel_costs": 7339244,
+    "functioning_costs": 12198607
+  },
+  "or. Căinari|Căușeni": {
+    "total_revenues": 83938734,
+    "own_revenues": 36709781,
+    "total_expenditures": 86105672,
+    "personnel_costs": 36486629,
+    "functioning_costs": 60273970
+  },
+  "sat. Talmaza|Ștefan Vodă": {
+    "total_revenues": 14672659,
+    "own_revenues": 5780472,
+    "total_expenditures": 15014605,
+    "personnel_costs": 4814698,
+    "functioning_costs": 10510223
+  },
+  "sat. Tudora|Ștefan Vodă": {
+    "total_revenues": 4197167,
+    "own_revenues": 743676,
+    "total_expenditures": 4007892,
+    "personnel_costs": 1427655,
+    "functioning_costs": 2805525
+  },
+  "com. Sîngereii Noi|Sîngerei": {
+    "total_revenues": 7658533,
+    "own_revenues": 1991697,
+    "total_expenditures": 8128596,
+    "personnel_costs": 3995042,
+    "functioning_costs": 5690018
+  },
+  "or. Căușeni|Căușeni": {
+    "total_revenues": 144273860,
+    "own_revenues": 43347070,
+    "total_expenditures": 142857572,
+    "personnel_costs": 62253979,
+    "functioning_costs": 100000301
+  },
+  "com. Chircăieștii Noi|Căușeni": {
+    "total_revenues": 12766188,
+    "own_revenues": 4658065,
+    "total_expenditures": 13583232,
+    "personnel_costs": 5573766,
+    "functioning_costs": 9508262
+  },
+  "com. Chițcani|Căușeni": {
+    "total_revenues": 11588798,
+    "own_revenues": 1574289,
+    "total_expenditures": 12452286,
+    "personnel_costs": 6074678,
+    "functioning_costs": 8716600
+  },
+  "com. Grădinița|Căușeni": {
+    "total_revenues": 13557586,
+    "own_revenues": 1508697,
+    "total_expenditures": 13414177,
+    "personnel_costs": 6915678,
+    "functioning_costs": 9389924
+  },
+  "sat. Ciuflești|Căușeni": {
+    "total_revenues": 4683684,
+    "own_revenues": 2097753,
+    "total_expenditures": 4994422,
+    "personnel_costs": 1794179,
+    "functioning_costs": 3496095
+  },
+  "sat. Cîrnățeni|Căușeni": {
+    "total_revenues": 20907436,
+    "own_revenues": 8391556,
+    "total_expenditures": 21775915,
+    "personnel_costs": 8863707,
+    "functioning_costs": 15243141
+  },
+  "com. Cîrnățenii Noi|Căușeni": {
+    "total_revenues": 13729267,
+    "own_revenues": 2365784,
+    "total_expenditures": 13468980,
+    "personnel_costs": 4240566,
+    "functioning_costs": 9428286
+  },
+  "sat. Grigorievca|Căușeni": {
+    "total_revenues": 12233668,
+    "own_revenues": 3778983,
+    "total_expenditures": 11930966,
+    "personnel_costs": 6499394,
+    "functioning_costs": 8351676
+  },
+  "sat. Copanca|Căușeni": {
+    "total_revenues": 8706496,
+    "own_revenues": 1685317,
+    "total_expenditures": 9391719,
+    "personnel_costs": 5131373,
+    "functioning_costs": 6574203
+  },
+  "sat. Coșcalia|Căușeni": {
+    "total_revenues": 3695576,
+    "own_revenues": 1339768,
+    "total_expenditures": 3738960,
+    "personnel_costs": 1177105,
+    "functioning_costs": 2617272
+  },
+  "sat. Cremenciug|Căușeni": {
+    "total_revenues": 12798758,
+    "own_revenues": 1848280,
+    "total_expenditures": 13821530,
+    "personnel_costs": 5009189,
+    "functioning_costs": 9675071
+  },
+  "com. Fîrlădeni|Căușeni": {
+    "total_revenues": 13996801,
+    "own_revenues": 5130048,
+    "total_expenditures": 14716729,
+    "personnel_costs": 6215827,
+    "functioning_costs": 10301710
+  },
+  "sat. Gîsca|Căușeni": {
+    "total_revenues": 19802957,
+    "own_revenues": 6331688,
+    "total_expenditures": 19927238,
+    "personnel_costs": 6354379,
+    "functioning_costs": 13949066
+  },
+  "com. Tănătarii Noi|Căușeni": {
+    "total_revenues": 4697132,
+    "own_revenues": 1702386,
+    "total_expenditures": 4951743,
+    "personnel_costs": 2571585,
+    "functioning_costs": 3466220
+  },
+  "sat. Hagimus|Căușeni": {
+    "total_revenues": 19795374,
+    "own_revenues": 4247122,
+    "total_expenditures": 18812948,
+    "personnel_costs": 9284826,
+    "functioning_costs": 13169064
+  },
+  "sat. Opaci|Căușeni": {
+    "total_revenues": 5982117,
+    "own_revenues": 1558086,
+    "total_expenditures": 6278959,
+    "personnel_costs": 2446004,
+    "functioning_costs": 4395271
+  },
+  "com. Pervomaisc|Căușeni": {
+    "total_revenues": 5257759,
+    "own_revenues": 1257659,
+    "total_expenditures": 5758399,
+    "personnel_costs": 2914970,
+    "functioning_costs": 4030879
+  },
+  "sat. Tocuz|Căușeni": {
+    "total_revenues": 12961352,
+    "own_revenues": 5053894,
+    "total_expenditures": 12969949,
+    "personnel_costs": 5764927,
+    "functioning_costs": 9078964
+  },
+  "sat. Plop-Știubei|Căușeni": {
+    "total_revenues": 22460554,
+    "own_revenues": 8443063,
+    "total_expenditures": 24350008,
+    "personnel_costs": 11945225,
+    "functioning_costs": 17045005
+  },
+  "sat. Săiți|Căușeni": {
+    "total_revenues": 2644750,
+    "own_revenues": 990092,
+    "total_expenditures": 2694834,
+    "personnel_costs": 892150,
+    "functioning_costs": 1886384
+  },
+  "sat. Sălcuța|Căușeni": {
+    "total_revenues": 6498132,
+    "own_revenues": 651350,
+    "total_expenditures": 7107038,
+    "personnel_costs": 2491582,
+    "functioning_costs": 4974927
+  },
+  "com. Ucrainca|Căușeni": {
+    "total_revenues": 7906094,
+    "own_revenues": 1625911,
+    "total_expenditures": 8547781,
+    "personnel_costs": 4437570,
+    "functioning_costs": 5983447
+  },
+  "sat. Taraclia|Căușeni": {
+    "total_revenues": 5687439,
+    "own_revenues": 1067170,
+    "total_expenditures": 5720293,
+    "personnel_costs": 3008588,
+    "functioning_costs": 4004205
+  },
+  "sat. Tănătari|Căușeni": {
+    "total_revenues": 4589004,
+    "own_revenues": 1463716,
+    "total_expenditures": 4859288,
+    "personnel_costs": 2375259,
+    "functioning_costs": 3401502
+  },
+  "sat. Ursoaia|Căușeni": {
+    "total_revenues": 15704686,
+    "own_revenues": 5438443,
+    "total_expenditures": 14922010,
+    "personnel_costs": 6255332,
+    "functioning_costs": 10445407
+  },
+  "or. Cantemir|Cantemir": {
+    "total_revenues": 58172182,
+    "own_revenues": 16393240,
+    "total_expenditures": 59147150,
+    "personnel_costs": 17863364,
+    "functioning_costs": 41403005
+  },
+  "com. Antonești|Cantemir": {
+    "total_revenues": 14610580,
+    "own_revenues": 6514189,
+    "total_expenditures": 14805589,
+    "personnel_costs": 4930909,
+    "functioning_costs": 10363912
+  },
+  "sat. Capaclia|Cantemir": {
+    "total_revenues": 3549867,
+    "own_revenues": 465976,
+    "total_expenditures": 3801529,
+    "personnel_costs": 1238540,
+    "functioning_costs": 2661070
+  },
+  "com. Baimaclia|Cantemir": {
+    "total_revenues": 16015623,
+    "own_revenues": 2370236,
+    "total_expenditures": 17072959,
+    "personnel_costs": 8336546,
+    "functioning_costs": 11951071
+  },
+  "com. Cîietu|Cantemir": {
+    "total_revenues": 6811447,
+    "own_revenues": 2295444,
+    "total_expenditures": 6540772,
+    "personnel_costs": 2883322,
+    "functioning_costs": 4578541
+  },
+  "com. Cania|Cantemir": {
+    "total_revenues": 21021668,
+    "own_revenues": 5340235,
+    "total_expenditures": 22248594,
+    "personnel_costs": 10168052,
+    "functioning_costs": 15574016
+  },
+  "sat. Căbăiești|Călărași": {
+    "total_revenues": 8771460,
+    "own_revenues": 2768506,
+    "total_expenditures": 8914940,
+    "personnel_costs": 3158663,
+    "functioning_costs": 6240458
+  },
+  "com. Chioselia|Cantemir": {
+    "total_revenues": 3814103,
+    "own_revenues": 545817,
+    "total_expenditures": 4041048,
+    "personnel_costs": 1567457,
+    "functioning_costs": 2828733
+  },
+  "com. Ciobalaccia|Cantemir": {
+    "total_revenues": 12028281,
+    "own_revenues": 1791499,
+    "total_expenditures": 11926584,
+    "personnel_costs": 3829175,
+    "functioning_costs": 8348608
+  },
+  "sat. Cîrpești|Cantemir": {
+    "total_revenues": 18678820,
+    "own_revenues": 6582657,
+    "total_expenditures": 18543177,
+    "personnel_costs": 9926530,
+    "functioning_costs": 12980224
+  },
+  "com. Cîșla|Cantemir": {
+    "total_revenues": 4198005,
+    "own_revenues": 1387197,
+    "total_expenditures": 4178054,
+    "personnel_costs": 1794212,
+    "functioning_costs": 2924638
+  },
+  "sat. Cociulia|Cantemir": {
+    "total_revenues": 12293820,
+    "own_revenues": 2915023,
+    "total_expenditures": 12870713,
+    "personnel_costs": 6383235,
+    "functioning_costs": 9009499
+  },
+  "sat. Coștangalia|Cantemir": {
+    "total_revenues": 8934725,
+    "own_revenues": 1246039,
+    "total_expenditures": 9157534,
+    "personnel_costs": 4106993,
+    "functioning_costs": 6410274
+  },
+  "com. Enichioi|Cantemir": {
+    "total_revenues": 21645227,
+    "own_revenues": 2255940,
+    "total_expenditures": 21735373,
+    "personnel_costs": 8240275,
+    "functioning_costs": 15214761
+  },
+  "com. Gotești|Cantemir": {
+    "total_revenues": 16475275,
+    "own_revenues": 4925006,
+    "total_expenditures": 16554552,
+    "personnel_costs": 7792815,
+    "functioning_costs": 11588186
+  },
+  "sat. Haragîș|Cantemir": {
+    "total_revenues": 20430605,
+    "own_revenues": 7551733,
+    "total_expenditures": 19460221,
+    "personnel_costs": 6166616,
+    "functioning_costs": 13622155
+  },
+  "com. Lingura|Cantemir": {
+    "total_revenues": 7483486,
+    "own_revenues": 3164787,
+    "total_expenditures": 8174227,
+    "personnel_costs": 3265553,
+    "functioning_costs": 5721959
+  },
+  "sat. Lărguța|Cantemir": {
+    "total_revenues": 11235709,
+    "own_revenues": 3093945,
+    "total_expenditures": 11374074,
+    "personnel_costs": 5407834,
+    "functioning_costs": 7961852
+  },
+  "com. Pleșeni|Cantemir": {
+    "total_revenues": 5311981,
+    "own_revenues": 1530803,
+    "total_expenditures": 5168038,
+    "personnel_costs": 1658419,
+    "functioning_costs": 3617626
+  },
+  "com. Plopi|Cantemir": {
+    "total_revenues": 4743645,
+    "own_revenues": 811728,
+    "total_expenditures": 5081435,
+    "personnel_costs": 2205838,
+    "functioning_costs": 3557005
+  },
+  "sat. Porumbești|Cantemir": {
+    "total_revenues": 13864372,
+    "own_revenues": 5090005,
+    "total_expenditures": 14522596,
+    "personnel_costs": 6691847,
+    "functioning_costs": 10165817
+  },
+  "com. Sadîc|Cantemir": {
+    "total_revenues": 12513944,
+    "own_revenues": 4448525,
+    "total_expenditures": 13477145,
+    "personnel_costs": 4238245,
+    "functioning_costs": 9434001
+  },
+  "sat. Stoianovca|Cantemir": {
+    "total_revenues": 6493223,
+    "own_revenues": 912917,
+    "total_expenditures": 6764929,
+    "personnel_costs": 2122545,
+    "functioning_costs": 4735451
+  },
+  "sat. Șamalia|Cantemir": {
+    "total_revenues": 5144284,
+    "own_revenues": 1789003,
+    "total_expenditures": 5428376,
+    "personnel_costs": 1850849,
+    "functioning_costs": 3799863
+  },
+  "sat. Tartaul|Cantemir": {
+    "total_revenues": 12039349,
+    "own_revenues": 4503264,
+    "total_expenditures": 12739013,
+    "personnel_costs": 4353440,
+    "functioning_costs": 8917309
+  },
+  "sat. Vișniovca|Cantemir": {
+    "total_revenues": 7125097,
+    "own_revenues": 2890730,
+    "total_expenditures": 7552178,
+    "personnel_costs": 2488550,
+    "functioning_costs": 5286525
+  },
+  "or. Leova|Leova": {
+    "total_revenues": 28156786,
+    "own_revenues": 7046619,
+    "total_expenditures": 28961454,
+    "personnel_costs": 10592287,
+    "functioning_costs": 20273018
+  },
+  "com. Toceni|Cantemir": {
+    "total_revenues": 19710660,
+    "own_revenues": 5393855,
+    "total_expenditures": 20235304,
+    "personnel_costs": 6351048,
+    "functioning_costs": 14164713
+  },
+  "com. Țiganca|Cantemir": {
+    "total_revenues": 13156839,
+    "own_revenues": 2040080,
+    "total_expenditures": 14025181,
+    "personnel_costs": 7343124,
+    "functioning_costs": 9817627
+  },
+  "sat. Orac|Leova": {
+    "total_revenues": 4483843,
+    "own_revenues": 1246906,
+    "total_expenditures": 4289270,
+    "personnel_costs": 2212114,
+    "functioning_costs": 3002489
+  },
+  "or. Iargara|Leova": {
+    "total_revenues": 50813881,
+    "own_revenues": 11554658,
+    "total_expenditures": 55287229,
+    "personnel_costs": 19059732,
+    "functioning_costs": 38701060
+  },
+  "com. Băiuș|Leova": {
+    "total_revenues": 3683174,
+    "own_revenues": 1546497,
+    "total_expenditures": 3908216,
+    "personnel_costs": 1582211,
+    "functioning_costs": 2735751
+  },
+  "com. Beștemac|Leova": {
+    "total_revenues": 9004581,
+    "own_revenues": 3786869,
+    "total_expenditures": 8986484,
+    "personnel_costs": 4551647,
+    "functioning_costs": 6290539
+  },
+  "sat. Borogani|Leova": {
+    "total_revenues": 16073336,
+    "own_revenues": 4431649,
+    "total_expenditures": 17444249,
+    "personnel_costs": 6015407,
+    "functioning_costs": 12210974
+  },
+  "com. Dereneu|Călărași": {
+    "total_revenues": 22379012,
+    "own_revenues": 9710875,
+    "total_expenditures": 21491437,
+    "personnel_costs": 8946317,
+    "functioning_costs": 15044006
+  },
+  "com. Cazangic|Leova": {
+    "total_revenues": 12242044,
+    "own_revenues": 2555456,
+    "total_expenditures": 11788572,
+    "personnel_costs": 4882668,
+    "functioning_costs": 8252000
+  },
+  "sat. Ceadîr|Leova": {
+    "total_revenues": 9561413,
+    "own_revenues": 2842917,
+    "total_expenditures": 9519213,
+    "personnel_costs": 4337709,
+    "functioning_costs": 6663449
+  },
+  "sat. Frumoasa|Călărași": {
+    "total_revenues": 13435147,
+    "own_revenues": 5913483,
+    "total_expenditures": 14774202,
+    "personnel_costs": 7298034,
+    "functioning_costs": 10341941
+  },
+  "com. Cneazevca|Leova": {
+    "total_revenues": 20586662,
+    "own_revenues": 3824887,
+    "total_expenditures": 19577024,
+    "personnel_costs": 7879929,
+    "functioning_costs": 13703916
+  },
+  "sat. Colibabovca|Leova": {
+    "total_revenues": 9082261,
+    "own_revenues": 2929753,
+    "total_expenditures": 9572877,
+    "personnel_costs": 2894826,
+    "functioning_costs": 6701014
+  },
+  "sat. Covurlui|Leova": {
+    "total_revenues": 7100954,
+    "own_revenues": 2343715,
+    "total_expenditures": 7650219,
+    "personnel_costs": 3685904,
+    "functioning_costs": 5355153
+  },
+  "sat. Cupcui|Leova": {
+    "total_revenues": 4148940,
+    "own_revenues": 1842505,
+    "total_expenditures": 4202761,
+    "personnel_costs": 2270736,
+    "functioning_costs": 2941933
+  },
+  "sat. Filipeni|Leova": {
+    "total_revenues": 7429772,
+    "own_revenues": 984886,
+    "total_expenditures": 8085012,
+    "personnel_costs": 4239149,
+    "functioning_costs": 5659508
+  },
+  "com. Hănăsenii Noi|Leova": {
+    "total_revenues": 15336071,
+    "own_revenues": 6340733,
+    "total_expenditures": 15623909,
+    "personnel_costs": 7608451,
+    "functioning_costs": 10936736
+  },
+  "sat. Romanovca|Leova": {
+    "total_revenues": 12441804,
+    "own_revenues": 1825584,
+    "total_expenditures": 13349986,
+    "personnel_costs": 4254742,
+    "functioning_costs": 9344990
+  },
+  "com. Sărata Nouă|Leova": {
+    "total_revenues": 11750760,
+    "own_revenues": 3899553,
+    "total_expenditures": 11393610,
+    "personnel_costs": 4248894,
+    "functioning_costs": 7975527
+  },
+  "com. Sărăteni|Leova": {
+    "total_revenues": 14585054,
+    "own_revenues": 3464438,
+    "total_expenditures": 15675797,
+    "personnel_costs": 5981303,
+    "functioning_costs": 10973058
+  },
+  "com. Vozneseni|Leova": {
+    "total_revenues": 12080943,
+    "own_revenues": 1523897,
+    "total_expenditures": 11844239,
+    "personnel_costs": 5862712,
+    "functioning_costs": 8290968
+  },
+  "or. Nisporeni|Nisporeni": {
+    "total_revenues": 36164678,
+    "own_revenues": 5697067,
+    "total_expenditures": 36884654,
+    "personnel_costs": 14813915,
+    "functioning_costs": 25819258
+  },
+  "com. Sărățica Nouă|Leova": {
+    "total_revenues": 15028780,
+    "own_revenues": 5554905,
+    "total_expenditures": 15296105,
+    "personnel_costs": 6360681,
+    "functioning_costs": 10707273
+  },
+  "com. Bălănești|Nisporeni": {
+    "total_revenues": 3966825,
+    "own_revenues": 1517941,
+    "total_expenditures": 3949499,
+    "personnel_costs": 1880657,
+    "functioning_costs": 2764649
+  },
+  "com. Tigheci|Leova": {
+    "total_revenues": 12062934,
+    "own_revenues": 4735590,
+    "total_expenditures": 12052911,
+    "personnel_costs": 3890718,
+    "functioning_costs": 8437037
+  },
+  "sat. Tomai|Leova": {
+    "total_revenues": 12524693,
+    "own_revenues": 2989463,
+    "total_expenditures": 11990422,
+    "personnel_costs": 4492933,
+    "functioning_costs": 8393295
+  },
+  "sat. Călimănești|Nisporeni": {
+    "total_revenues": 4620816,
+    "own_revenues": 1116099,
+    "total_expenditures": 4703206,
+    "personnel_costs": 2290554,
+    "functioning_costs": 3292244
+  },
+  "com. Tomaiul Nou|Leova": {
+    "total_revenues": 6365970,
+    "own_revenues": 863656,
+    "total_expenditures": 6805677,
+    "personnel_costs": 2248346,
+    "functioning_costs": 4763974
+  },
+  "sat. Grozești|Nisporeni": {
+    "total_revenues": 5319090,
+    "own_revenues": 2361136,
+    "total_expenditures": 5157428,
+    "personnel_costs": 2609238,
+    "functioning_costs": 3610200
+  },
+  "sat. Bălăurești|Nisporeni": {
+    "total_revenues": 14301780,
+    "own_revenues": 6123324,
+    "total_expenditures": 13766978,
+    "personnel_costs": 6147364,
+    "functioning_costs": 9636885
+  },
+  "sat. Bărboieni|Nisporeni": {
+    "total_revenues": 2905064,
+    "own_revenues": 356060,
+    "total_expenditures": 3153082,
+    "personnel_costs": 1295468,
+    "functioning_costs": 2207157
+  },
+  "com. Boldurești|Nisporeni": {
+    "total_revenues": 4136551,
+    "own_revenues": 1640334,
+    "total_expenditures": 4431624,
+    "personnel_costs": 1465236,
+    "functioning_costs": 3102137
+  },
+  "sat. Bolțun|Nisporeni": {
+    "total_revenues": 9731295,
+    "own_revenues": 4120679,
+    "total_expenditures": 9877006,
+    "personnel_costs": 4751904,
+    "functioning_costs": 6913904
+  },
+  "com. Brătuleni|Nisporeni": {
+    "total_revenues": 10086505,
+    "own_revenues": 3420581,
+    "total_expenditures": 9843633,
+    "personnel_costs": 3481486,
+    "functioning_costs": 6890543
+  },
+  "sat. Bursuc|Nisporeni": {
+    "total_revenues": 6269831,
+    "own_revenues": 1605729,
+    "total_expenditures": 6096124,
+    "personnel_costs": 2764755,
+    "functioning_costs": 4267287
+  },
+  "com. Ciorești|Nisporeni": {
+    "total_revenues": 15305060,
+    "own_revenues": 3111317,
+    "total_expenditures": 15485642,
+    "personnel_costs": 6777635,
+    "functioning_costs": 10839949
+  },
+  "sat. Milești|Nisporeni": {
+    "total_revenues": 2882876,
+    "own_revenues": 674752,
+    "total_expenditures": 2920022,
+    "personnel_costs": 1345147,
+    "functioning_costs": 2044016
+  },
+  "com. Ciutești|Nisporeni": {
+    "total_revenues": 13394994,
+    "own_revenues": 6000027,
+    "total_expenditures": 13817586,
+    "personnel_costs": 4212740,
+    "functioning_costs": 9672310
+  },
+  "sat. Cristești|Nisporeni": {
+    "total_revenues": 15554187,
+    "own_revenues": 3510413,
+    "total_expenditures": 16046907,
+    "personnel_costs": 6758474,
+    "functioning_costs": 11232835
+  },
+  "com. Iurceni|Nisporeni": {
+    "total_revenues": 17689756,
+    "own_revenues": 4173605,
+    "total_expenditures": 17282403,
+    "personnel_costs": 6562464,
+    "functioning_costs": 12097682
+  },
+  "com. Marinici|Nisporeni": {
+    "total_revenues": 5378033,
+    "own_revenues": 2063773,
+    "total_expenditures": 5335761,
+    "personnel_costs": 2679424,
+    "functioning_costs": 3735033
+  },
+  "sat. Vînători|Nisporeni": {
+    "total_revenues": 15501181,
+    "own_revenues": 5710554,
+    "total_expenditures": 17050382,
+    "personnel_costs": 9266797,
+    "functioning_costs": 11935267
+  },
+  "com. Seliște|Nisporeni": {
+    "total_revenues": 4243821,
+    "own_revenues": 782575,
+    "total_expenditures": 4371362,
+    "personnel_costs": 2176105,
+    "functioning_costs": 3059954
+  },
+  "sat. Soltănești|Nisporeni": {
+    "total_revenues": 4918936,
+    "own_revenues": 2123657,
+    "total_expenditures": 5097758,
+    "personnel_costs": 2781674,
+    "functioning_costs": 3568431
+  },
+  "com. Șișcani|Nisporeni": {
+    "total_revenues": 11493193,
+    "own_revenues": 4525190,
+    "total_expenditures": 12375677,
+    "personnel_costs": 4257543,
+    "functioning_costs": 8662974
+  },
+  "sat. Zberoaia|Nisporeni": {
+    "total_revenues": 15800197,
+    "own_revenues": 5661792,
+    "total_expenditures": 15860514,
+    "personnel_costs": 7103775,
+    "functioning_costs": 11102359
+  },
+  "com. Valea-Trestieni|Nisporeni": {
+    "total_revenues": 16077540,
+    "own_revenues": 4779246,
+    "total_expenditures": 16631674,
+    "personnel_costs": 5772163,
+    "functioning_costs": 11642172
+  },
+  "com. Vărzărești|Nisporeni": {
+    "total_revenues": 16212865,
+    "own_revenues": 2617484,
+    "total_expenditures": 15494547,
+    "personnel_costs": 4865938,
+    "functioning_costs": 10846183
+  },
+  "com. Cocieri|Dubăsari": {
+    "total_revenues": 14589344,
+    "own_revenues": 4147123,
+    "total_expenditures": 13861373,
+    "personnel_costs": 7339237,
+    "functioning_costs": 9702961
+  },
+  "com. Bălăbănești|Criuleni": {
+    "total_revenues": 9839478,
+    "own_revenues": 2157460,
+    "total_expenditures": 9609421,
+    "personnel_costs": 4810535,
+    "functioning_costs": 6726595
+  },
+  "com. Coșnița|Dubăsari": {
+    "total_revenues": 7413670,
+    "own_revenues": 1124648,
+    "total_expenditures": 7826645,
+    "personnel_costs": 2625160,
+    "functioning_costs": 5478651
+  },
+  "com. Bălțata|Criuleni": {
+    "total_revenues": 7030473,
+    "own_revenues": 2820867,
+    "total_expenditures": 7691927,
+    "personnel_costs": 3025986,
+    "functioning_costs": 5384349
+  },
+  "sat. Doroțcaia|Dubăsari": {
+    "total_revenues": 13998768,
+    "own_revenues": 3048881,
+    "total_expenditures": 13976237,
+    "personnel_costs": 7602586,
+    "functioning_costs": 9783366
+  },
+  "com. Boșcana|Criuleni": {
+    "total_revenues": 17422716,
+    "own_revenues": 7600342,
+    "total_expenditures": 18248153,
+    "personnel_costs": 6269165,
+    "functioning_costs": 12773707
+  },
+  "sat. Holercani|Dubăsari": {
+    "total_revenues": 20174267,
+    "own_revenues": 8575997,
+    "total_expenditures": 21547101,
+    "personnel_costs": 7666659,
+    "functioning_costs": 15082971
+  },
+  "sat. Coșernița|Criuleni": {
+    "total_revenues": 22699227,
+    "own_revenues": 5276082,
+    "total_expenditures": 24063433,
+    "personnel_costs": 8990804,
+    "functioning_costs": 16844403
+  },
+  "sat. Marcăuți|Dubăsari": {
+    "total_revenues": 8618785,
+    "own_revenues": 3723969,
+    "total_expenditures": 9414339,
+    "personnel_costs": 3745969,
+    "functioning_costs": 6590037
+  },
+  "com. Dolinnoe|Criuleni": {
+    "total_revenues": 11337053,
+    "own_revenues": 3523965,
+    "total_expenditures": 12336479,
+    "personnel_costs": 6684927,
+    "functioning_costs": 8635535
+  },
+  "sat. Molovata|Dubăsari": {
+    "total_revenues": 9390096,
+    "own_revenues": 1281171,
+    "total_expenditures": 9619475,
+    "personnel_costs": 3682259,
+    "functioning_costs": 6733633
+  },
+  "mun. Orhei|Orhei": {
+    "total_revenues": 33991772,
+    "own_revenues": 15086666,
+    "total_expenditures": 33148202,
+    "personnel_costs": 17281154,
+    "functioning_costs": 23203741
+  },
+  "com. Molovata Nouă|Dubăsari": {
+    "total_revenues": 6186640,
+    "own_revenues": 2069484,
+    "total_expenditures": 6554082,
+    "personnel_costs": 2516357,
+    "functioning_costs": 4587858
+  },
+  "sat. Brăviceni|Orhei": {
+    "total_revenues": 2378087,
+    "own_revenues": 445509,
+    "total_expenditures": 2283366,
+    "personnel_costs": 831521,
+    "functioning_costs": 1598356
+  },
+  "sat. Oxentea|Dubăsari": {
+    "total_revenues": 6404742,
+    "own_revenues": 748404,
+    "total_expenditures": 6505508,
+    "personnel_costs": 2634167,
+    "functioning_costs": 4553856
+  },
+  "com. Alexeevca|Ungheni": {
+    "total_revenues": 9105004,
+    "own_revenues": 2481830,
+    "total_expenditures": 9166980,
+    "personnel_costs": 4001442,
+    "functioning_costs": 6416886
+  },
+  "sat. Pîrîta|Dubăsari": {
+    "total_revenues": 6637388,
+    "own_revenues": 2496026,
+    "total_expenditures": 6881036,
+    "personnel_costs": 3368686,
+    "functioning_costs": 4816725
+  },
+  "sat. Păulești|Călărași": {
+    "total_revenues": 6370379,
+    "own_revenues": 801383,
+    "total_expenditures": 6860035,
+    "personnel_costs": 2563781,
+    "functioning_costs": 4802024
+  },
+  "sat. Ustia|Dubăsari": {
+    "total_revenues": 9046114,
+    "own_revenues": 1236186,
+    "total_expenditures": 9057613,
+    "personnel_costs": 4727919,
+    "functioning_costs": 6340329
+  },
+  "or. Criuleni|Criuleni": {
+    "total_revenues": 71026659,
+    "own_revenues": 20701870,
+    "total_expenditures": 77043939,
+    "personnel_costs": 24906470,
+    "functioning_costs": 53930758
+  },
+  "com. Buciumeni|Ungheni": {
+    "total_revenues": 25288436,
+    "own_revenues": 10434746,
+    "total_expenditures": 26696387,
+    "personnel_costs": 10887610,
+    "functioning_costs": 18687471
+  },
+  "sat. Cimișeni|Criuleni": {
+    "total_revenues": 7567851,
+    "own_revenues": 1906872,
+    "total_expenditures": 7250253,
+    "personnel_costs": 2775206,
+    "functioning_costs": 5075177
+  },
+  "sat. Corjova|Criuleni": {
+    "total_revenues": 7122658,
+    "own_revenues": 2093630,
+    "total_expenditures": 7755407,
+    "personnel_costs": 3373845,
+    "functioning_costs": 5428785
+  },
+  "sat. Cruglic|Criuleni": {
+    "total_revenues": 8521316,
+    "own_revenues": 1138197,
+    "total_expenditures": 8597457,
+    "personnel_costs": 3760662,
+    "functioning_costs": 6018220
+  },
+  "com. Drăsliceni|Criuleni": {
+    "total_revenues": 11493143,
+    "own_revenues": 2600785,
+    "total_expenditures": 11655666,
+    "personnel_costs": 4354992,
+    "functioning_costs": 8158966
+  },
+  "com. Hrușova|Criuleni": {
+    "total_revenues": 20723190,
+    "own_revenues": 3520584,
+    "total_expenditures": 19767029,
+    "personnel_costs": 6774320,
+    "functioning_costs": 13836920
+  },
+  "sat. Dubăsarii Vechi|Criuleni": {
+    "total_revenues": 14172035,
+    "own_revenues": 3766214,
+    "total_expenditures": 13708983,
+    "personnel_costs": 6802660,
+    "functioning_costs": 9596288
+  },
+  "sat. Ișnovăț|Criuleni": {
+    "total_revenues": 15008310,
+    "own_revenues": 4973214,
+    "total_expenditures": 14463066,
+    "personnel_costs": 6306352,
+    "functioning_costs": 10124146
+  },
+  "com. Hîrtopul Mare|Criuleni": {
+    "total_revenues": 6774354,
+    "own_revenues": 1581851,
+    "total_expenditures": 6625233,
+    "personnel_costs": 2061469,
+    "functioning_costs": 4637663
+  },
+  "sat. Pîrjolteni|Călărași": {
+    "total_revenues": 13921963,
+    "own_revenues": 2494604,
+    "total_expenditures": 13786701,
+    "personnel_costs": 4348461,
+    "functioning_costs": 9650691
+  },
+  "sat. Izbiște|Criuleni": {
+    "total_revenues": 3525115,
+    "own_revenues": 776678,
+    "total_expenditures": 3635160,
+    "personnel_costs": 1972715,
+    "functioning_costs": 2544612
+  },
+  "sat. Peticeni|Călărași": {
+    "total_revenues": 14464811,
+    "own_revenues": 1755223,
+    "total_expenditures": 14581483,
+    "personnel_costs": 6279451,
+    "functioning_costs": 10207038
+  },
+  "sat. Jevreni|Criuleni": {
+    "total_revenues": 19279836,
+    "own_revenues": 8246497,
+    "total_expenditures": 19972120,
+    "personnel_costs": 7168204,
+    "functioning_costs": 13980484
+  },
+  "sat. Mașcăuți|Criuleni": {
+    "total_revenues": 7137115,
+    "own_revenues": 2968840,
+    "total_expenditures": 7544972,
+    "personnel_costs": 3210577,
+    "functioning_costs": 5281480
+  },
+  "sat. Măgdăcești|Criuleni": {
+    "total_revenues": 20137666,
+    "own_revenues": 6789157,
+    "total_expenditures": 21004411,
+    "personnel_costs": 6932936,
+    "functioning_costs": 14703088
+  },
+  "com. Ciocîlteni|Orhei": {
+    "total_revenues": 10891380,
+    "own_revenues": 4841532,
+    "total_expenditures": 11935044,
+    "personnel_costs": 5992767,
+    "functioning_costs": 8354531
+  },
+  "com. Miclești|Criuleni": {
+    "total_revenues": 3861562,
+    "own_revenues": 492075,
+    "total_expenditures": 4064174,
+    "personnel_costs": 1424411,
+    "functioning_costs": 2844922
+  },
+  "sat. Onițcani|Criuleni": {
+    "total_revenues": 14071253,
+    "own_revenues": 4337698,
+    "total_expenditures": 14042581,
+    "personnel_costs": 6765375,
+    "functioning_costs": 9829807
+  },
+  "sat. Pohorniceni|Orhei": {
+    "total_revenues": 2989282,
+    "own_revenues": 881024,
+    "total_expenditures": 3087355,
+    "personnel_costs": 1587382,
+    "functioning_costs": 2161149
+  },
+  "com. Pohrebeni|Orhei": {
+    "total_revenues": 15906252,
+    "own_revenues": 6453376,
+    "total_expenditures": 16987600,
+    "personnel_costs": 7742345,
+    "functioning_costs": 11891320
+  },
+  "com. Pașcani|Criuleni": {
+    "total_revenues": 20087408,
+    "own_revenues": 2799815,
+    "total_expenditures": 19533926,
+    "personnel_costs": 8627129,
+    "functioning_costs": 13673749
+  },
+  "com. Puțintei|Orhei": {
+    "total_revenues": 21712093,
+    "own_revenues": 9311828,
+    "total_expenditures": 23638807,
+    "personnel_costs": 10416935,
+    "functioning_costs": 16547165
+  },
+  "com. Răculești|Criuleni": {
+    "total_revenues": 6450020,
+    "own_revenues": 2603334,
+    "total_expenditures": 6979053,
+    "personnel_costs": 3625433,
+    "functioning_costs": 4885337
+  },
+  "sat. Zăicana|Criuleni": {
+    "total_revenues": 8763395,
+    "own_revenues": 2365719,
+    "total_expenditures": 9125711,
+    "personnel_costs": 2823189,
+    "functioning_costs": 6387998
+  },
+  "sat. Rîșcova|Criuleni": {
+    "total_revenues": 9190721,
+    "own_revenues": 2907812,
+    "total_expenditures": 9669759,
+    "personnel_costs": 3872061,
+    "functioning_costs": 6768831
+  },
+  "sat. Slobozia-Dușca|Criuleni": {
+    "total_revenues": 17073147,
+    "own_revenues": 3688191,
+    "total_expenditures": 16827924,
+    "personnel_costs": 8185733,
+    "functioning_costs": 11779547
+  },
+  "com. Berezlogi|Orhei": {
+    "total_revenues": 12727735,
+    "own_revenues": 1362905,
+    "total_expenditures": 13651869,
+    "personnel_costs": 5129877,
+    "functioning_costs": 9556308
+  },
+  "com. Biești|Orhei": {
+    "total_revenues": 12715632,
+    "own_revenues": 5091113,
+    "total_expenditures": 13386100,
+    "personnel_costs": 7270314,
+    "functioning_costs": 9370270
+  },
+  "sat. Bolohan|Orhei": {
+    "total_revenues": 6230015,
+    "own_revenues": 2747292,
+    "total_expenditures": 6332603,
+    "personnel_costs": 3207184,
+    "functioning_costs": 4432822
+  },
+  "sat. Bulăiești|Orhei": {
+    "total_revenues": 11492750,
+    "own_revenues": 3582781,
+    "total_expenditures": 11072035,
+    "personnel_costs": 4544286,
+    "functioning_costs": 7750424
+  },
+  "com. Chiperceni|Orhei": {
+    "total_revenues": 15929517,
+    "own_revenues": 5827378,
+    "total_expenditures": 17205126,
+    "personnel_costs": 8692965,
+    "functioning_costs": 12043588
+  },
+  "sat. Sămănanca|Orhei": {
+    "total_revenues": 19977183,
+    "own_revenues": 2456513,
+    "total_expenditures": 21104604,
+    "personnel_costs": 8459702,
+    "functioning_costs": 14773223
+  },
+  "sat. Clișova|Orhei": {
+    "total_revenues": 21386301,
+    "own_revenues": 2355313,
+    "total_expenditures": 20935360,
+    "personnel_costs": 10640030,
+    "functioning_costs": 14654752
+  },
+  "com. Crihana|Orhei": {
+    "total_revenues": 3337379,
+    "own_revenues": 866908,
+    "total_expenditures": 3630083,
+    "personnel_costs": 1728495,
+    "functioning_costs": 2541058
+  },
+  "com. Cucuruzeni|Orhei": {
+    "total_revenues": 8891158,
+    "own_revenues": 2333720,
+    "total_expenditures": 8975992,
+    "personnel_costs": 4764173,
+    "functioning_costs": 6283194
+  },
+  "sat. Fîrlădeni|Hîncești": {
+    "total_revenues": 2735087,
+    "own_revenues": 741415,
+    "total_expenditures": 2781353,
+    "personnel_costs": 1502292,
+    "functioning_costs": 1946947
+  },
+  "com. Donici|Orhei": {
+    "total_revenues": 16250769,
+    "own_revenues": 3614431,
+    "total_expenditures": 15836814,
+    "personnel_costs": 8292520,
+    "functioning_costs": 11085770
+  },
+  "com. Ghetlova|Orhei": {
+    "total_revenues": 4177517,
+    "own_revenues": 982961,
+    "total_expenditures": 4070724,
+    "personnel_costs": 1803593,
+    "functioning_costs": 2849506
+  },
+  "com. Step-Soci|Orhei": {
+    "total_revenues": 10584798,
+    "own_revenues": 3456815,
+    "total_expenditures": 11131548,
+    "personnel_costs": 4088294,
+    "functioning_costs": 7792084
+  },
+  "sat. Isacova|Orhei": {
+    "total_revenues": 13638426,
+    "own_revenues": 5491109,
+    "total_expenditures": 14935041,
+    "personnel_costs": 7027683,
+    "functioning_costs": 10454529
+  },
+  "com. Ivancea|Orhei": {
+    "total_revenues": 20037567,
+    "own_revenues": 6543870,
+    "total_expenditures": 20842502,
+    "personnel_costs": 6296852,
+    "functioning_costs": 14589751
+  },
+  "com. Jora de Mijloc|Orhei": {
+    "total_revenues": 10094305,
+    "own_revenues": 4341073,
+    "total_expenditures": 10668782,
+    "personnel_costs": 5092658,
+    "functioning_costs": 7468148
+  },
+  "com. Mălăiești|Orhei": {
+    "total_revenues": 9346824,
+    "own_revenues": 2166280,
+    "total_expenditures": 9368382,
+    "personnel_costs": 3400720,
+    "functioning_costs": 6557867
+  },
+  "sat. Mitoc|Orhei": {
+    "total_revenues": 12738042,
+    "own_revenues": 3594972,
+    "total_expenditures": 13292668,
+    "personnel_costs": 5930149,
+    "functioning_costs": 9304868
+  },
+  "com. Mîrzești|Orhei": {
+    "total_revenues": 2819754,
+    "own_revenues": 935663,
+    "total_expenditures": 3035445,
+    "personnel_costs": 1194622,
+    "functioning_costs": 2124811
+  },
+  "com. Morozeni|Orhei": {
+    "total_revenues": 19952149,
+    "own_revenues": 4079548,
+    "total_expenditures": 19278080,
+    "personnel_costs": 6091088,
+    "functioning_costs": 13494656
+  },
+  "sat. Neculăieuca|Orhei": {
+    "total_revenues": 11034956,
+    "own_revenues": 4430778,
+    "total_expenditures": 10915470,
+    "personnel_costs": 5215122,
+    "functioning_costs": 7640829
+  },
+  "com. Pelivan|Orhei": {
+    "total_revenues": 8023013,
+    "own_revenues": 2254890,
+    "total_expenditures": 7911054,
+    "personnel_costs": 2485603,
+    "functioning_costs": 5537738
+  },
+  "sat. Zahoreni|Orhei": {
+    "total_revenues": 17203556,
+    "own_revenues": 3644660,
+    "total_expenditures": 16704471,
+    "personnel_costs": 5117646,
+    "functioning_costs": 11693130
+  },
+  "sat. Peresecina|Orhei": {
+    "total_revenues": 21902161,
+    "own_revenues": 4178915,
+    "total_expenditures": 22182177,
+    "personnel_costs": 8807849,
+    "functioning_costs": 15527524
+  },
+  "com. Piatra|Orhei": {
+    "total_revenues": 3765282,
+    "own_revenues": 1687463,
+    "total_expenditures": 4037897,
+    "personnel_costs": 1557787,
+    "functioning_costs": 2826528
+  },
+  "com. Țibirica|Călărași": {
+    "total_revenues": 9739099,
+    "own_revenues": 3149720,
+    "total_expenditures": 9947129,
+    "personnel_costs": 5323375,
+    "functioning_costs": 6962991
+  },
+  "sat. Podgoreni|Orhei": {
+    "total_revenues": 12210321,
+    "own_revenues": 4834026,
+    "total_expenditures": 13139475,
+    "personnel_costs": 6821013,
+    "functioning_costs": 9197632
+  },
+  "sat. Bușila|Ungheni": {
+    "total_revenues": 6242772,
+    "own_revenues": 1652920,
+    "total_expenditures": 6624442,
+    "personnel_costs": 3188322,
+    "functioning_costs": 4637109
+  },
+  "sat. Puhoi|Ialoveni": {
+    "total_revenues": 21017343,
+    "own_revenues": 3448398,
+    "total_expenditures": 22109338,
+    "personnel_costs": 8487954,
+    "functioning_costs": 15476536
+  },
+  "com. Seliște|Orhei": {
+    "total_revenues": 3912675,
+    "own_revenues": 697101,
+    "total_expenditures": 4228486,
+    "personnel_costs": 1713036,
+    "functioning_costs": 2959940
+  },
+  "sat. Susleni|Orhei": {
+    "total_revenues": 10293230,
+    "own_revenues": 3138918,
+    "total_expenditures": 10494608,
+    "personnel_costs": 3457400,
+    "functioning_costs": 7346226
+  },
+  "sat. Teleșeu|Orhei": {
+    "total_revenues": 5161653,
+    "own_revenues": 1570439,
+    "total_expenditures": 5634694,
+    "personnel_costs": 1790728,
+    "functioning_costs": 3944286
+  },
+  "com. Trebujeni|Orhei": {
+    "total_revenues": 7780106,
+    "own_revenues": 3140239,
+    "total_expenditures": 7836515,
+    "personnel_costs": 2935472,
+    "functioning_costs": 5485560
+  },
+  "com. Vatici|Orhei": {
+    "total_revenues": 5187987,
+    "own_revenues": 792581,
+    "total_expenditures": 5700830,
+    "personnel_costs": 2198625,
+    "functioning_costs": 3990581
+  },
+  "com. Bahmut|Călărași": {
+    "total_revenues": 23124264,
+    "own_revenues": 10297865,
+    "total_expenditures": 22464844,
+    "personnel_costs": 11582840,
+    "functioning_costs": 15725391
+  },
+  "sat. Bravicea|Călărași": {
+    "total_revenues": 8988123,
+    "own_revenues": 2432665,
+    "total_expenditures": 9389487,
+    "personnel_costs": 3231918,
+    "functioning_costs": 6572641
+  },
+  "sat. Vîșcăuți|Orhei": {
+    "total_revenues": 12863769,
+    "own_revenues": 3321665,
+    "total_expenditures": 12624597,
+    "personnel_costs": 6228794,
+    "functioning_costs": 8837218
+  },
+  "com. Zorile|Orhei": {
+    "total_revenues": 21589876,
+    "own_revenues": 5858456,
+    "total_expenditures": 22983186,
+    "personnel_costs": 7400824,
+    "functioning_costs": 16088230
+  },
+  "or. Călărași|Călărași": {
+    "total_revenues": 130529792,
+    "own_revenues": 31482183,
+    "total_expenditures": 142903908,
+    "personnel_costs": 56565526,
+    "functioning_costs": 100032736
+  },
+  "com. Buda|Călărași": {
+    "total_revenues": 3697912,
+    "own_revenues": 1315461,
+    "total_expenditures": 4040007,
+    "personnel_costs": 2112930,
+    "functioning_costs": 2828005
+  },
+  "sat. Hirova|Călărași": {
+    "total_revenues": 12753675,
+    "own_revenues": 4296227,
+    "total_expenditures": 13314876,
+    "personnel_costs": 4822725,
+    "functioning_costs": 9320413
+  },
+  "sat. Hoginești|Călărași": {
+    "total_revenues": 10064435,
+    "own_revenues": 1368239,
+    "total_expenditures": 10321083,
+    "personnel_costs": 3886185,
+    "functioning_costs": 7224758
+  },
+  "com. Hîrjauca|Călărași": {
+    "total_revenues": 5415519,
+    "own_revenues": 1106774,
+    "total_expenditures": 5380991,
+    "personnel_costs": 2593411,
+    "functioning_costs": 3766694
+  },
+  "sat. Horodiște|Călărași": {
+    "total_revenues": 18819022,
+    "own_revenues": 4738307,
+    "total_expenditures": 19816751,
+    "personnel_costs": 6607843,
+    "functioning_costs": 13871725
+  },
+  "sat. Meleșeni|Călărași": {
+    "total_revenues": 13954483,
+    "own_revenues": 2315734,
+    "total_expenditures": 15241262,
+    "personnel_costs": 8071031,
+    "functioning_costs": 10668884
+  },
+  "sat. Nișcani|Călărași": {
+    "total_revenues": 8404220,
+    "own_revenues": 1500258,
+    "total_expenditures": 9225580,
+    "personnel_costs": 3254762,
+    "functioning_costs": 6457906
+  },
+  "com. Onișcani|Călărași": {
+    "total_revenues": 3401273,
+    "own_revenues": 541294,
+    "total_expenditures": 3418241,
+    "personnel_costs": 1581398,
+    "functioning_costs": 2392769
+  },
+  "sat. Pitușca|Călărași": {
+    "total_revenues": 3249407,
+    "own_revenues": 1053173,
+    "total_expenditures": 3462852,
+    "personnel_costs": 1578312,
+    "functioning_costs": 2423997
+  },
+  "com. Răciula|Călărași": {
+    "total_revenues": 25417159,
+    "own_revenues": 8430604,
+    "total_expenditures": 26638076,
+    "personnel_costs": 8122893,
+    "functioning_costs": 18646653
+  },
+  "sat. Rădeni|Călărași": {
+    "total_revenues": 5317309,
+    "own_revenues": 1239405,
+    "total_expenditures": 5487954,
+    "personnel_costs": 2297253,
+    "functioning_costs": 3841568
+  },
+  "sat. Sadova|Călărași": {
+    "total_revenues": 5163216,
+    "own_revenues": 1755540,
+    "total_expenditures": 4912262,
+    "personnel_costs": 1990536,
+    "functioning_costs": 3438583
+  },
+  "com. Săseni|Călărași": {
+    "total_revenues": 5948649,
+    "own_revenues": 1156965,
+    "total_expenditures": 6191623,
+    "personnel_costs": 2069803,
+    "functioning_costs": 4334136
+  },
+  "com. Sipoteni|Călărași": {
+    "total_revenues": 5439798,
+    "own_revenues": 1720033,
+    "total_expenditures": 5398488,
+    "personnel_costs": 2678676,
+    "functioning_costs": 3778942
+  },
+  "sat. Vărzăreștii Noi|Călărași": {
+    "total_revenues": 12175999,
+    "own_revenues": 2068852,
+    "total_expenditures": 12047532,
+    "personnel_costs": 5189914,
+    "functioning_costs": 8433272
+  },
+  "sat. Temeleuți|Călărași": {
+    "total_revenues": 7098061,
+    "own_revenues": 1727772,
+    "total_expenditures": 6913909,
+    "personnel_costs": 3021618,
+    "functioning_costs": 4839736
+  },
+  "sat. Boghiceni|Hîncești": {
+    "total_revenues": 9304995,
+    "own_revenues": 2495901,
+    "total_expenditures": 9167056,
+    "personnel_costs": 2779335,
+    "functioning_costs": 6416939
+  },
+  "com. Tuzara|Călărași": {
+    "total_revenues": 6524549,
+    "own_revenues": 2559785,
+    "total_expenditures": 6853081,
+    "personnel_costs": 2311449,
+    "functioning_costs": 4797157
+  },
+  "sat. Vălcineț|Călărași": {
+    "total_revenues": 6069330,
+    "own_revenues": 766355,
+    "total_expenditures": 6424606,
+    "personnel_costs": 3380595,
+    "functioning_costs": 4497225
+  },
+  "mun. Hîncești|Hîncești": {
+    "total_revenues": 72731336,
+    "own_revenues": 32151020,
+    "total_expenditures": 71976294,
+    "personnel_costs": 22494035,
+    "functioning_costs": 50383406
+  },
+  "sat. Bălceana|Hîncești": {
+    "total_revenues": 9337518,
+    "own_revenues": 3719013,
+    "total_expenditures": 9375169,
+    "personnel_costs": 4398751,
+    "functioning_costs": 6562618
+  },
+  "or. Ialoveni|Ialoveni": {
+    "total_revenues": 138153217,
+    "own_revenues": 18408842,
+    "total_expenditures": 146957804,
+    "personnel_costs": 45773281,
+    "functioning_costs": 102870463
+  },
+  "sat. Dănceni|Ialoveni": {
+    "total_revenues": 7071663,
+    "own_revenues": 1129198,
+    "total_expenditures": 7097327,
+    "personnel_costs": 2905849,
+    "functioning_costs": 4968129
+  },
+  "sat. Bardar|Ialoveni": {
+    "total_revenues": 15738868,
+    "own_revenues": 5612068,
+    "total_expenditures": 15831622,
+    "personnel_costs": 6105951,
+    "functioning_costs": 11082136
+  },
+  "com. Bozieni|Hîncești": {
+    "total_revenues": 5199367,
+    "own_revenues": 2271127,
+    "total_expenditures": 5151402,
+    "personnel_costs": 2042165,
+    "functioning_costs": 3605982
+  },
+  "com. Bobeica|Hîncești": {
+    "total_revenues": 18866810,
+    "own_revenues": 6171263,
+    "total_expenditures": 20178741,
+    "personnel_costs": 6623957,
+    "functioning_costs": 14125119
+  },
+  "sat. Călmățui|Hîncești": {
+    "total_revenues": 5701021,
+    "own_revenues": 2254882,
+    "total_expenditures": 5504661,
+    "personnel_costs": 2905397,
+    "functioning_costs": 3853263
+  },
+  "sat. Cărbuna|Ialoveni": {
+    "total_revenues": 19042917,
+    "own_revenues": 6425796,
+    "total_expenditures": 18608531,
+    "personnel_costs": 7349210,
+    "functioning_costs": 13025971
+  },
+  "sat. Costești|Ialoveni": {
+    "total_revenues": 13185616,
+    "own_revenues": 5299319,
+    "total_expenditures": 14266738,
+    "personnel_costs": 6873995,
+    "functioning_costs": 9986717
+  },
+  "or. Cornești|Ungheni": {
+    "total_revenues": 53125913,
+    "own_revenues": 14388780,
+    "total_expenditures": 57542753,
+    "personnel_costs": 23602424,
+    "functioning_costs": 40279927
+  },
+  "sat. Cigîrleni|Ialoveni": {
+    "total_revenues": 3498014,
+    "own_revenues": 734525,
+    "total_expenditures": 3692802,
+    "personnel_costs": 1733705,
+    "functioning_costs": 2584961
+  },
+  "com. Gangura|Ialoveni": {
+    "total_revenues": 21039503,
+    "own_revenues": 3753336,
+    "total_expenditures": 23003840,
+    "personnel_costs": 11922566,
+    "functioning_costs": 16102688
+  },
+  "sat. Bujor|Hîncești": {
+    "total_revenues": 16710793,
+    "own_revenues": 5768617,
+    "total_expenditures": 16113989,
+    "personnel_costs": 7499907,
+    "functioning_costs": 11279792
+  },
+  "sat. Hansca|Ialoveni": {
+    "total_revenues": 9088881,
+    "own_revenues": 3020224,
+    "total_expenditures": 9508885,
+    "personnel_costs": 3206050,
+    "functioning_costs": 6656219
+  },
+  "sat. Horești|Ialoveni": {
+    "total_revenues": 22728621,
+    "own_revenues": 7148604,
+    "total_expenditures": 21631891,
+    "personnel_costs": 11542622,
+    "functioning_costs": 15142324
+  },
+  "sat. Horodca|Ialoveni": {
+    "total_revenues": 20367365,
+    "own_revenues": 8109366,
+    "total_expenditures": 22005153,
+    "personnel_costs": 7013401,
+    "functioning_costs": 15403607
+  },
+  "sat. Malcoci|Ialoveni": {
+    "total_revenues": 13523249,
+    "own_revenues": 2918495,
+    "total_expenditures": 13411324,
+    "personnel_costs": 5723046,
+    "functioning_costs": 9387927
+  },
+  "com. Mileștii Mici|Ialoveni": {
+    "total_revenues": 19156429,
+    "own_revenues": 4619514,
+    "total_expenditures": 18873872,
+    "personnel_costs": 7828385,
+    "functioning_costs": 13211710
+  },
+  "sat. Buțeni|Hîncești": {
+    "total_revenues": 17142634,
+    "own_revenues": 6853732,
+    "total_expenditures": 17435091,
+    "personnel_costs": 5747944,
+    "functioning_costs": 12204564
+  },
+  "sat. Molești|Ialoveni": {
+    "total_revenues": 18828737,
+    "own_revenues": 1999973,
+    "total_expenditures": 19026739,
+    "personnel_costs": 5878463,
+    "functioning_costs": 13318717
+  },
+  "sat. Nimoreni|Ialoveni": {
+    "total_revenues": 10598248,
+    "own_revenues": 1396992,
+    "total_expenditures": 11028860,
+    "personnel_costs": 5015556,
+    "functioning_costs": 7720202
+  },
+  "mun. Ungheni|Ungheni": {
+    "total_revenues": 118147202,
+    "own_revenues": 35068027,
+    "total_expenditures": 123840645,
+    "personnel_costs": 51276464,
+    "functioning_costs": 86688451
+  },
+  "com. Cărpineni|Hîncești": {
+    "total_revenues": 10446815,
+    "own_revenues": 1243133,
+    "total_expenditures": 10273792,
+    "personnel_costs": 4249395,
+    "functioning_costs": 7191655
+  },
+  "sat. Cățeleni|Hîncești": {
+    "total_revenues": 21113099,
+    "own_revenues": 6544700,
+    "total_expenditures": 22327075,
+    "personnel_costs": 8725949,
+    "functioning_costs": 15628952
+  },
+  "sat. Cioara|Hîncești": {
+    "total_revenues": 10298758,
+    "own_revenues": 3766894,
+    "total_expenditures": 10126378,
+    "personnel_costs": 3902091,
+    "functioning_costs": 7088465
+  },
+  "sat. Ciuciuleni|Hîncești": {
+    "total_revenues": 26422394,
+    "own_revenues": 5342456,
+    "total_expenditures": 27170089,
+    "personnel_costs": 12920030,
+    "functioning_costs": 19019062
+  },
+  "com. Cotul Morii|Hîncești": {
+    "total_revenues": 4984577,
+    "own_revenues": 1357538,
+    "total_expenditures": 5349825,
+    "personnel_costs": 2598024,
+    "functioning_costs": 3744878
+  },
+  "com. Agronomovca|Ungheni": {
+    "total_revenues": 9414260,
+    "own_revenues": 2954177,
+    "total_expenditures": 9208385,
+    "personnel_costs": 4903963,
+    "functioning_costs": 6445869
+  },
+  "com. Crasnoarmeiscoe|Hîncești": {
+    "total_revenues": 10201597,
+    "own_revenues": 3964279,
+    "total_expenditures": 9983148,
+    "personnel_costs": 3838355,
+    "functioning_costs": 6988204
+  },
+  "sat. Dancu|Hîncești": {
+    "total_revenues": 8877673,
+    "own_revenues": 2855363,
+    "total_expenditures": 9328847,
+    "personnel_costs": 3086027,
+    "functioning_costs": 6530193
+  },
+  "com. Boghenii Noi|Ungheni": {
+    "total_revenues": 14114179,
+    "own_revenues": 4322618,
+    "total_expenditures": 14475920,
+    "personnel_costs": 7830947,
+    "functioning_costs": 10133144
+  },
+  "com. Drăgușenii Noi|Hîncești": {
+    "total_revenues": 2777136,
+    "own_revenues": 324925,
+    "total_expenditures": 3027900,
+    "personnel_costs": 1543333,
+    "functioning_costs": 2119530
+  },
+  "sat. Bumbăta|Ungheni": {
+    "total_revenues": 20502770,
+    "own_revenues": 7655294,
+    "total_expenditures": 22276817,
+    "personnel_costs": 10535919,
+    "functioning_costs": 15593772
+  },
+  "sat. Pojăreni|Ialoveni": {
+    "total_revenues": 8501898,
+    "own_revenues": 1232211,
+    "total_expenditures": 8570855,
+    "personnel_costs": 3858055,
+    "functioning_costs": 5999599
+  },
+  "sat. Fundul Galbenei|Hîncești": {
+    "total_revenues": 11202306,
+    "own_revenues": 2628419,
+    "total_expenditures": 12288091,
+    "personnel_costs": 6500124,
+    "functioning_costs": 8601663
+  },
+  "com. Ivanovca|Hîncești": {
+    "total_revenues": 7603743,
+    "own_revenues": 3324795,
+    "total_expenditures": 8330461,
+    "personnel_costs": 3442242,
+    "functioning_costs": 5831323
+  },
+  "sat. Cetireni|Ungheni": {
+    "total_revenues": 4437591,
+    "own_revenues": 1379574,
+    "total_expenditures": 4805759,
+    "personnel_costs": 2057219,
+    "functioning_costs": 3364031
+  },
+  "com. Lăpușna|Hîncești": {
+    "total_revenues": 21950402,
+    "own_revenues": 7664115,
+    "total_expenditures": 23933112,
+    "personnel_costs": 10964855,
+    "functioning_costs": 16753178
+  },
+  "sat. Chirileni|Ungheni": {
+    "total_revenues": 6171869,
+    "own_revenues": 2160368,
+    "total_expenditures": 6498927,
+    "personnel_costs": 3446367,
+    "functioning_costs": 4549249
+  },
+  "com. Leușeni|Hîncești": {
+    "total_revenues": 8398997,
+    "own_revenues": 2750925,
+    "total_expenditures": 9186394,
+    "personnel_costs": 3913159,
+    "functioning_costs": 6430476
+  },
+  "com. Răzeni|Ialoveni": {
+    "total_revenues": 12989033,
+    "own_revenues": 4757510,
+    "total_expenditures": 13435103,
+    "personnel_costs": 5988047,
+    "functioning_costs": 9404572
+  },
+  "com. Cioropcani|Ungheni": {
+    "total_revenues": 15549583,
+    "own_revenues": 6419694,
+    "total_expenditures": 16017399,
+    "personnel_costs": 8318945,
+    "functioning_costs": 11212179
+  },
+  "com. Ruseștii Noi|Ialoveni": {
+    "total_revenues": 17128446,
+    "own_revenues": 4846588,
+    "total_expenditures": 16336954,
+    "personnel_costs": 5494635,
+    "functioning_costs": 11435868
+  },
+  "sat. Sociteni|Ialoveni": {
+    "total_revenues": 3157192,
+    "own_revenues": 1144687,
+    "total_expenditures": 3075548,
+    "personnel_costs": 1143039,
+    "functioning_costs": 2152884
+  },
+  "com. Mingir|Hîncești": {
+    "total_revenues": 6748034,
+    "own_revenues": 821313,
+    "total_expenditures": 7204563,
+    "personnel_costs": 2528803,
+    "functioning_costs": 5043194
+  },
+  "sat. Suruceni|Ialoveni": {
+    "total_revenues": 10888648,
+    "own_revenues": 4191141,
+    "total_expenditures": 10511596,
+    "personnel_costs": 5434588,
+    "functioning_costs": 7358117
+  },
+  "com. Țipala|Ialoveni": {
+    "total_revenues": 22483684,
+    "own_revenues": 8090629,
+    "total_expenditures": 23252415,
+    "personnel_costs": 8356891,
+    "functioning_costs": 16276690
+  },
+  "com. Condrătești|Ungheni": {
+    "total_revenues": 11779266,
+    "own_revenues": 1371613,
+    "total_expenditures": 11864517,
+    "personnel_costs": 4794944,
+    "functioning_costs": 8305162
+  },
+  "sat. Cornești|Ungheni": {
+    "total_revenues": 14837414,
+    "own_revenues": 1763141,
+    "total_expenditures": 15750664,
+    "personnel_costs": 5524889,
+    "functioning_costs": 11025465
+  },
+  "sat. Ulmu|Ialoveni": {
+    "total_revenues": 18047992,
+    "own_revenues": 7562474,
+    "total_expenditures": 19053163,
+    "personnel_costs": 8800810,
+    "functioning_costs": 13337214
+  },
+  "com. Mirești|Hîncești": {
+    "total_revenues": 18919943,
+    "own_revenues": 5887611,
+    "total_expenditures": 20176643,
+    "personnel_costs": 10917026,
+    "functioning_costs": 14123650
+  },
+  "sat. Văratic|Ialoveni": {
+    "total_revenues": 10018618,
+    "own_revenues": 4450357,
+    "total_expenditures": 9629598,
+    "personnel_costs": 5205942,
+    "functioning_costs": 6740719
+  },
+  "sat. Cornova|Ungheni": {
+    "total_revenues": 11512608,
+    "own_revenues": 1314993,
+    "total_expenditures": 11418974,
+    "personnel_costs": 4180029,
+    "functioning_costs": 7993282
+  },
+  "sat. Văsieni|Ialoveni": {
+    "total_revenues": 7328206,
+    "own_revenues": 1386904,
+    "total_expenditures": 7325161,
+    "personnel_costs": 3497195,
+    "functioning_costs": 5127612
+  },
+  "sat. Logănești|Hîncești": {
+    "total_revenues": 4342493,
+    "own_revenues": 1845646,
+    "total_expenditures": 4514160,
+    "personnel_costs": 2227356,
+    "functioning_costs": 3159912
+  },
+  "com. Zîmbreni|Ialoveni": {
+    "total_revenues": 20961625,
+    "own_revenues": 6952166,
+    "total_expenditures": 21455956,
+    "personnel_costs": 9508620,
+    "functioning_costs": 15019169
+  },
+  "com. Mereșeni|Hîncești": {
+    "total_revenues": 8146160,
+    "own_revenues": 2832327,
+    "total_expenditures": 8380845,
+    "personnel_costs": 4519345,
+    "functioning_costs": 5866591
+  },
+  "mun. Bălți|Unknown": {
+    "total_revenues": 91414641,
+    "own_revenues": 25303493,
+    "total_expenditures": 92547240,
+    "personnel_costs": 40189471,
+    "functioning_costs": 64783068
+  },
+  "sat. Negrea|Hîncești": {
+    "total_revenues": 4462557,
+    "own_revenues": 1826029,
+    "total_expenditures": 4683454,
+    "personnel_costs": 1792670,
+    "functioning_costs": 3278418
+  },
+  "com. Onești|Hîncești": {
+    "total_revenues": 8157747,
+    "own_revenues": 2964766,
+    "total_expenditures": 8399011,
+    "personnel_costs": 4612382,
+    "functioning_costs": 5879308
+  },
+  "sat. Nemțeni|Hîncești": {
+    "total_revenues": 1994094,
+    "own_revenues": 440899,
+    "total_expenditures": 1966281,
+    "personnel_costs": 905602,
+    "functioning_costs": 1376396
+  },
+  "sat. Obileni|Hîncești": {
+    "total_revenues": 15365136,
+    "own_revenues": 1750965,
+    "total_expenditures": 16638122,
+    "personnel_costs": 6577768,
+    "functioning_costs": 11646686
+  },
+  "sat. Costuleni|Ungheni": {
+    "total_revenues": 5122984,
+    "own_revenues": 1480968,
+    "total_expenditures": 5084174,
+    "personnel_costs": 2683600,
+    "functioning_costs": 3558922
+  },
+  "com. Florițoaia Veche|Ungheni": {
+    "total_revenues": 12719226,
+    "own_revenues": 3536676,
+    "total_expenditures": 13012032,
+    "personnel_costs": 4867911,
+    "functioning_costs": 9108422
+  },
+  "com. Pașcani|Hîncești": {
+    "total_revenues": 6657459,
+    "own_revenues": 857620,
+    "total_expenditures": 6420410,
+    "personnel_costs": 3485687,
+    "functioning_costs": 4494287
+  },
+  "com. Hîrcești|Ungheni": {
+    "total_revenues": 17355007,
+    "own_revenues": 5543650,
+    "total_expenditures": 17035974,
+    "personnel_costs": 7791890,
+    "functioning_costs": 11925181
+  },
+  "sat. Măgurele|Ungheni": {
+    "total_revenues": 10597412,
+    "own_revenues": 2633174,
+    "total_expenditures": 10232745,
+    "personnel_costs": 4445499,
+    "functioning_costs": 7162921
+  },
+  "com. Măcărești|Ungheni": {
+    "total_revenues": 15785599,
+    "own_revenues": 6770647,
+    "total_expenditures": 16764837,
+    "personnel_costs": 5673869,
+    "functioning_costs": 11735386
+  },
+  "sat. Pervomaiscoe|Hîncești": {
+    "total_revenues": 17296091,
+    "own_revenues": 1958959,
+    "total_expenditures": 16621322,
+    "personnel_costs": 5726013,
+    "functioning_costs": 11634925
+  },
+  "com. Mănoilești|Ungheni": {
+    "total_revenues": 9720488,
+    "own_revenues": 2928169,
+    "total_expenditures": 9566387,
+    "personnel_costs": 3488498,
+    "functioning_costs": 6696471
+  },
+  "com. Secăreni|Hîncești": {
+    "total_revenues": 12442445,
+    "own_revenues": 3005557,
+    "total_expenditures": 12410849,
+    "personnel_costs": 4931767,
+    "functioning_costs": 8687594
+  },
+  "com. Morenii Noi|Ungheni": {
+    "total_revenues": 5903305,
+    "own_revenues": 1915610,
+    "total_expenditures": 6155685,
+    "personnel_costs": 3010070,
+    "functioning_costs": 4308980
+  },
+  "sat. Sofia|Hîncești": {
+    "total_revenues": 11830895,
+    "own_revenues": 4695539,
+    "total_expenditures": 11874137,
+    "personnel_costs": 5054930,
+    "functioning_costs": 8311896
+  },
+  "com. Sărata-Galbenă|Hîncești": {
+    "total_revenues": 12591987,
+    "own_revenues": 2587310,
+    "total_expenditures": 12125779,
+    "personnel_costs": 5957620,
+    "functioning_costs": 8488045
+  },
+  "sat. Năpădeni|Ungheni": {
+    "total_revenues": 12951246,
+    "own_revenues": 5021753,
+    "total_expenditures": 12363556,
+    "personnel_costs": 4192245,
+    "functioning_costs": 8654489
+  },
+  "sat. Rădenii Vechi|Ungheni": {
+    "total_revenues": 6088820,
+    "own_revenues": 1442121,
+    "total_expenditures": 6512741,
+    "personnel_costs": 2842363,
+    "functioning_costs": 4558918
+  },
+  "com. Negurenii Vechi|Ungheni": {
+    "total_revenues": 14146972,
+    "own_revenues": 4768253,
+    "total_expenditures": 15379532,
+    "personnel_costs": 7670607,
+    "functioning_costs": 10765672
+  },
+  "com. Petrești|Ungheni": {
+    "total_revenues": 16941255,
+    "own_revenues": 1760240,
+    "total_expenditures": 18317140,
+    "personnel_costs": 6142533,
+    "functioning_costs": 12821998
+  },
+  "com. Pîrlița|Ungheni": {
+    "total_revenues": 2298360,
+    "own_revenues": 709801,
+    "total_expenditures": 2368628,
+    "personnel_costs": 1271349,
+    "functioning_costs": 1658039
+  },
+  "com. Sinești|Ungheni": {
+    "total_revenues": 8322836,
+    "own_revenues": 2992065,
+    "total_expenditures": 8812973,
+    "personnel_costs": 3110400,
+    "functioning_costs": 6169081
+  },
+  "sat. Șipoteni|Hîncești": {
+    "total_revenues": 11775977,
+    "own_revenues": 1935941,
+    "total_expenditures": 12276841,
+    "personnel_costs": 4458770,
+    "functioning_costs": 8593789
+  },
+  "sat. Teșcureni|Ungheni": {
+    "total_revenues": 4264000,
+    "own_revenues": 1619813,
+    "total_expenditures": 4595900,
+    "personnel_costs": 2356993,
+    "functioning_costs": 3217130
+  },
+  "com. Todirești|Ungheni": {
+    "total_revenues": 16699151,
+    "own_revenues": 4882541,
+    "total_expenditures": 16592242,
+    "personnel_costs": 5257097,
+    "functioning_costs": 11614569
+  },
+  "sat. Unțești|Ungheni": {
+    "total_revenues": 3999645,
+    "own_revenues": 1212726,
+    "total_expenditures": 4370536,
+    "personnel_costs": 1701382,
+    "functioning_costs": 3059375
+  },
+  "com. Valea Mare|Ungheni": {
+    "total_revenues": 6122557,
+    "own_revenues": 1939813,
+    "total_expenditures": 6643083,
+    "personnel_costs": 2520694,
+    "functioning_costs": 4650158
+  },
+  "or. Rezina|Rezina": {
+    "total_revenues": 105875533,
+    "own_revenues": 35023392,
+    "total_expenditures": 111594794,
+    "personnel_costs": 37730059,
+    "functioning_costs": 78116356
+  },
+  "com. Zagarancea|Ungheni": {
+    "total_revenues": 15845844,
+    "own_revenues": 3338983,
+    "total_expenditures": 16071586,
+    "personnel_costs": 4840890,
+    "functioning_costs": 11250110
+  },
+  "sat. Bușăuca|Rezina": {
+    "total_revenues": 11163047,
+    "own_revenues": 3898914,
+    "total_expenditures": 11677951,
+    "personnel_costs": 4311149,
+    "functioning_costs": 8174566
+  },
+  "sat. Cinișeuți|Rezina": {
+    "total_revenues": 8745103,
+    "own_revenues": 3117983,
+    "total_expenditures": 9459428,
+    "personnel_costs": 3932399,
+    "functioning_costs": 6621599
+  },
+  "sat. Cogîlniceni|Rezina": {
+    "total_revenues": 14716197,
+    "own_revenues": 3979848,
+    "total_expenditures": 14220628,
+    "personnel_costs": 6561226,
+    "functioning_costs": 9954439
+  },
+  "sat. Cuizăuca|Rezina": {
+    "total_revenues": 6037694,
+    "own_revenues": 2418397,
+    "total_expenditures": 5862602,
+    "personnel_costs": 2548206,
+    "functioning_costs": 4103821
+  },
+  "sat. Echimăuți|Rezina": {
+    "total_revenues": 11332895,
+    "own_revenues": 3618782,
+    "total_expenditures": 12002825,
+    "personnel_costs": 6277793,
+    "functioning_costs": 8401978
+  },
+  "com. Ghiduleni|Rezina": {
+    "total_revenues": 17730694,
+    "own_revenues": 6816119,
+    "total_expenditures": 18383806,
+    "personnel_costs": 9050349,
+    "functioning_costs": 12868664
+  },
+  "sat. Gordinești|Rezina": {
+    "total_revenues": 10843559,
+    "own_revenues": 3177791,
+    "total_expenditures": 11185353,
+    "personnel_costs": 6148387,
+    "functioning_costs": 7829747
+  },
+  "com. Horodiște|Rezina": {
+    "total_revenues": 16963473,
+    "own_revenues": 2578813,
+    "total_expenditures": 17114020,
+    "personnel_costs": 8948226,
+    "functioning_costs": 11979814
+  },
+  "sat. Ignăței|Rezina": {
+    "total_revenues": 21580168,
+    "own_revenues": 4355950,
+    "total_expenditures": 22005408,
+    "personnel_costs": 9409579,
+    "functioning_costs": 15403786
+  },
+  "com. Lalova|Rezina": {
+    "total_revenues": 11784139,
+    "own_revenues": 1222099,
+    "total_expenditures": 11617183,
+    "personnel_costs": 6284897,
+    "functioning_costs": 8132028
+  },
+  "sat. Lipceni|Rezina": {
+    "total_revenues": 21631656,
+    "own_revenues": 7896033,
+    "total_expenditures": 21005541,
+    "personnel_costs": 7137801,
+    "functioning_costs": 14703879
+  },
+  "sat. Mateuți|Rezina": {
+    "total_revenues": 23778109,
+    "own_revenues": 7865671,
+    "total_expenditures": 26040842,
+    "personnel_costs": 12603245,
+    "functioning_costs": 18228589
+  },
+  "com. Mincenii de Jos|Rezina": {
+    "total_revenues": 20696186,
+    "own_revenues": 2362406,
+    "total_expenditures": 22025312,
+    "personnel_costs": 7883685,
+    "functioning_costs": 15417719
+  },
+  "com. Zgărdești|Telenești": {
+    "total_revenues": 8668438,
+    "own_revenues": 996723,
+    "total_expenditures": 8503878,
+    "personnel_costs": 4480961,
+    "functioning_costs": 5952714
+  },
+  "sat. Otac|Rezina": {
+    "total_revenues": 11165105,
+    "own_revenues": 4703476,
+    "total_expenditures": 12083243,
+    "personnel_costs": 3745517,
+    "functioning_costs": 8458270
+  },
+  "sat. Elizaveta|Bălți": {
+    "total_revenues": 401362243,
+    "own_revenues": 113377014,
+    "total_expenditures": 431242488,
+    "personnel_costs": 219380845,
+    "functioning_costs": 301869741
+  },
+  "sat. Păpăuți|Rezina": {
+    "total_revenues": 10191533,
+    "own_revenues": 3052935,
+    "total_expenditures": 10257767,
+    "personnel_costs": 4048019,
+    "functioning_costs": 7180437
+  },
+  "sat. Peciște|Rezina": {
+    "total_revenues": 20397578,
+    "own_revenues": 8004299,
+    "total_expenditures": 20958500,
+    "personnel_costs": 8259372,
+    "functioning_costs": 14670950
+  },
+  "com. Pereni|Rezina": {
+    "total_revenues": 8638690,
+    "own_revenues": 1930871,
+    "total_expenditures": 9331149,
+    "personnel_costs": 3935089,
+    "functioning_costs": 6531804
+  },
+  "sat. Sadovoe|Bălți": {
+    "total_revenues": 281496543,
+    "own_revenues": 115051011,
+    "total_expenditures": 285996211,
+    "personnel_costs": 102242985,
+    "functioning_costs": 200197347
+  },
+  "com. Pripiceni-Răzeși|Rezina": {
+    "total_revenues": 18097593,
+    "own_revenues": 3149542,
+    "total_expenditures": 17700095,
+    "personnel_costs": 6912874,
+    "functioning_costs": 12390066
+  },
+  "sat. Trifești|Rezina": {
+    "total_revenues": 6461757,
+    "own_revenues": 1583872,
+    "total_expenditures": 6458744,
+    "personnel_costs": 2120630,
+    "functioning_costs": 4521121
+  },
+  "com. Saharna Nouă|Rezina": {
+    "total_revenues": 15098845,
+    "own_revenues": 4631976,
+    "total_expenditures": 15809833,
+    "personnel_costs": 6367012,
+    "functioning_costs": 11066883
+  },
+  "com. Sîrcova|Rezina": {
+    "total_revenues": 5893579,
+    "own_revenues": 1772319,
+    "total_expenditures": 5741344,
+    "personnel_costs": 2626005,
+    "functioning_costs": 4018941
+  },
+  "com. Solonceni|Rezina": {
+    "total_revenues": 4738460,
+    "own_revenues": 717416,
+    "total_expenditures": 4619768,
+    "personnel_costs": 2451303,
+    "functioning_costs": 3233837
+  },
+  "com. Țareuca|Rezina": {
+    "total_revenues": 22118638,
+    "own_revenues": 6851804,
+    "total_expenditures": 22882632,
+    "personnel_costs": 6971308,
+    "functioning_costs": 16017842
+  },
+  "or. Telenești|Telenești": {
+    "total_revenues": 116087547,
+    "own_revenues": 20409084,
+    "total_expenditures": 120844685,
+    "personnel_costs": 50495358,
+    "functioning_costs": 84591280
+  },
+  "com. Bănești|Telenești": {
+    "total_revenues": 11513348,
+    "own_revenues": 4497428,
+    "total_expenditures": 11975331,
+    "personnel_costs": 5971547,
+    "functioning_costs": 8382732
+  },
+  "sat. Bogzești|Telenești": {
+    "total_revenues": 8144329,
+    "own_revenues": 2270490,
+    "total_expenditures": 7942010,
+    "personnel_costs": 3743846,
+    "functioning_costs": 5559407
+  },
+  "com. Brînzenii Noi|Telenești": {
+    "total_revenues": 15759879,
+    "own_revenues": 1955722,
+    "total_expenditures": 15865970,
+    "personnel_costs": 5284214,
+    "functioning_costs": 11106179
+  },
+  "sat. Cîșla|Telenești": {
+    "total_revenues": 2342990,
+    "own_revenues": 939204,
+    "total_expenditures": 2403097,
+    "personnel_costs": 973131,
+    "functioning_costs": 1682168
+  },
+  "sat. Budăi|Telenești": {
+    "total_revenues": 7115400,
+    "own_revenues": 1153390,
+    "total_expenditures": 7721925,
+    "personnel_costs": 3474507,
+    "functioning_costs": 5405347
+  },
+  "com. Căzănești|Telenești": {
+    "total_revenues": 16790139,
+    "own_revenues": 2369605,
+    "total_expenditures": 17165165,
+    "personnel_costs": 5708829,
+    "functioning_costs": 12015616
+  },
+  "sat. Codrul Nou|Telenești": {
+    "total_revenues": 19228799,
+    "own_revenues": 1930957,
+    "total_expenditures": 20972086,
+    "personnel_costs": 9849327,
+    "functioning_costs": 14680460
+  },
+  "sat. Chiștelnița|Telenești": {
+    "total_revenues": 14324349,
+    "own_revenues": 3289331,
+    "total_expenditures": 13701466,
+    "personnel_costs": 5925255,
+    "functioning_costs": 9591026
+  },
+  "sat. Nucăreni|Telenești": {
+    "total_revenues": 11643079,
+    "own_revenues": 3128998,
+    "total_expenditures": 12403381,
+    "personnel_costs": 4807916,
+    "functioning_costs": 8682366
+  },
+  "com. Chițcanii Vechi|Telenești": {
+    "total_revenues": 12386249,
+    "own_revenues": 1819033,
+    "total_expenditures": 12653435,
+    "personnel_costs": 4531552,
+    "functioning_costs": 8857405
+  },
+  "sat. Ordășei|Telenești": {
+    "total_revenues": 4024336,
+    "own_revenues": 1637374,
+    "total_expenditures": 4069799,
+    "personnel_costs": 1413259,
+    "functioning_costs": 2848859
+  },
+  "sat. Ciulucani|Telenești": {
+    "total_revenues": 2955782,
+    "own_revenues": 417475,
+    "total_expenditures": 2811183,
+    "personnel_costs": 1303367,
+    "functioning_costs": 1967828
+  },
+  "com. Pistruieni|Telenești": {
+    "total_revenues": 10235896,
+    "own_revenues": 1405431,
+    "total_expenditures": 10378285,
+    "personnel_costs": 4632270,
+    "functioning_costs": 7264799
+  },
+  "sat. Coropceni|Telenești": {
+    "total_revenues": 12164080,
+    "own_revenues": 3019691,
+    "total_expenditures": 12223035,
+    "personnel_costs": 4508957,
+    "functioning_costs": 8556125
+  },
+  "com. Ratuș|Telenești": {
+    "total_revenues": 15763528,
+    "own_revenues": 3856229,
+    "total_expenditures": 16828642,
+    "personnel_costs": 7078412,
+    "functioning_costs": 11780049
+  },
+  "sat. Crăsnășeni|Telenești": {
+    "total_revenues": 13020119,
+    "own_revenues": 3506527,
+    "total_expenditures": 14299687,
+    "personnel_costs": 6354964,
+    "functioning_costs": 10009781
+  },
+  "com. Ghiliceni|Telenești": {
+    "total_revenues": 15592031,
+    "own_revenues": 6225113,
+    "total_expenditures": 16354363,
+    "personnel_costs": 7963815,
+    "functioning_costs": 11448054
+  },
+  "sat. Hirișeni|Telenești": {
+    "total_revenues": 17643753,
+    "own_revenues": 7626262,
+    "total_expenditures": 17026959,
+    "personnel_costs": 7271974,
+    "functioning_costs": 11918871
+  },
+  "sat. Inești|Telenești": {
+    "total_revenues": 14295624,
+    "own_revenues": 4501819,
+    "total_expenditures": 15048784,
+    "personnel_costs": 4710468,
+    "functioning_costs": 10534149
+  },
+  "or. Frunză|Ocnița": {
+    "total_revenues": 147782759,
+    "own_revenues": 15051928,
+    "total_expenditures": 142412819,
+    "personnel_costs": 47898004,
+    "functioning_costs": 99688973
+  },
+  "sat. Leușeni|Telenești": {
+    "total_revenues": 17656632,
+    "own_revenues": 2161669,
+    "total_expenditures": 17361158,
+    "personnel_costs": 5555743,
+    "functioning_costs": 12152810
+  },
+  "com. Mîndrești|Telenești": {
+    "total_revenues": 4226662,
+    "own_revenues": 1799458,
+    "total_expenditures": 4269337,
+    "personnel_costs": 1981159,
+    "functioning_costs": 2988536
+  },
+  "com. Negureni|Telenești": {
+    "total_revenues": 11888780,
+    "own_revenues": 3675005,
+    "total_expenditures": 12980852,
+    "personnel_costs": 6556073,
+    "functioning_costs": 9086596
+  },
+  "com. Sărătenii Vechi|Telenești": {
+    "total_revenues": 15019439,
+    "own_revenues": 2562279,
+    "total_expenditures": 15748372,
+    "personnel_costs": 7889579,
+    "functioning_costs": 11023860
+  },
+  "com. Tîrșiței|Telenești": {
+    "total_revenues": 7813734,
+    "own_revenues": 2925351,
+    "total_expenditures": 8021440,
+    "personnel_costs": 3807075,
+    "functioning_costs": 5615008
+  },
+  "sat. Scorțeni|Telenești": {
+    "total_revenues": 14152027,
+    "own_revenues": 1593821,
+    "total_expenditures": 13952320,
+    "personnel_costs": 4186698,
+    "functioning_costs": 9766624
+  },
+  "sat. Țînțăreni|Telenești": {
+    "total_revenues": 4631537,
+    "own_revenues": 910458,
+    "total_expenditures": 4677459,
+    "personnel_costs": 2186317,
+    "functioning_costs": 3274221
+  },
+  "com. Suhuluceni|Telenești": {
+    "total_revenues": 14280091,
+    "own_revenues": 4015704,
+    "total_expenditures": 15144591,
+    "personnel_costs": 4803172,
+    "functioning_costs": 10601214
+  },
+  "sat. Văsieni|Telenești": {
+    "total_revenues": 5189184,
+    "own_revenues": 1837742,
+    "total_expenditures": 5364926,
+    "personnel_costs": 2391325,
+    "functioning_costs": 3755448
+  },
+  "sat. Verejeni|Telenești": {
+    "total_revenues": 16072367,
+    "own_revenues": 3162684,
+    "total_expenditures": 16730603,
+    "personnel_costs": 5832812,
+    "functioning_costs": 11711422
+  },
+  "or. Otaci|Ocnița": {
+    "total_revenues": 118492899,
+    "own_revenues": 22678075,
+    "total_expenditures": 119804638,
+    "personnel_costs": 39130140,
+    "functioning_costs": 83863247
+  },
+  "com. Bîrlădeni|Ocnița": {
+    "total_revenues": 4535029,
+    "own_revenues": 993117,
+    "total_expenditures": 4387873,
+    "personnel_costs": 1879421,
+    "functioning_costs": 3071511
+  },
+  "sat. Clocușna|Ocnița": {
+    "total_revenues": 12197913,
+    "own_revenues": 4691336,
+    "total_expenditures": 12639893,
+    "personnel_costs": 5985596,
+    "functioning_costs": 8847925
+  },
+  "sat. Bîrnova|Ocnița": {
+    "total_revenues": 13253407,
+    "own_revenues": 4896982,
+    "total_expenditures": 14096602,
+    "personnel_costs": 7616530,
+    "functioning_costs": 9867621
+  },
+  "com. Calarașovca|Ocnița": {
+    "total_revenues": 16882771,
+    "own_revenues": 6985809,
+    "total_expenditures": 18221634,
+    "personnel_costs": 7662061,
+    "functioning_costs": 12755144
+  },
+  "com. Dîngeni|Ocnița": {
+    "total_revenues": 6315795,
+    "own_revenues": 2032307,
+    "total_expenditures": 6941878,
+    "personnel_costs": 3257325,
+    "functioning_costs": 4859315
+  },
+  "sat. Gîrbova|Ocnița": {
+    "total_revenues": 10733083,
+    "own_revenues": 2622619,
+    "total_expenditures": 10764900,
+    "personnel_costs": 4671030,
+    "functioning_costs": 7535430
+  },
+  "com. Grinăuți-Moldova|Ocnița": {
+    "total_revenues": 7749244,
+    "own_revenues": 1027188,
+    "total_expenditures": 8144880,
+    "personnel_costs": 4115353,
+    "functioning_costs": 5701416
+  },
+  "sat. Hădărăuți|Ocnița": {
+    "total_revenues": 4815431,
+    "own_revenues": 782363,
+    "total_expenditures": 4801374,
+    "personnel_costs": 1702767,
+    "functioning_costs": 3360962
+  },
+  "com. Lencăuți|Ocnița": {
+    "total_revenues": 14697119,
+    "own_revenues": 6341680,
+    "total_expenditures": 15468220,
+    "personnel_costs": 8159205,
+    "functioning_costs": 10827754
+  },
+  "or. Vatra|Chișinău": {
+    "total_revenues": 1715575232,
+    "own_revenues": 613146884,
+    "total_expenditures": 1854384782,
+    "personnel_costs": 652177222,
+    "functioning_costs": 1298069348
+  },
+  "com. Lipnic|Ocnița": {
+    "total_revenues": 10058971,
+    "own_revenues": 3950331,
+    "total_expenditures": 10093213,
+    "personnel_costs": 4993462,
+    "functioning_costs": 7065249
+  },
+  "sat. Mereșeuca|Ocnița": {
+    "total_revenues": 7663438,
+    "own_revenues": 2579009,
+    "total_expenditures": 8042883,
+    "personnel_costs": 3647099,
+    "functioning_costs": 5630018
+  },
+  "com. Tohatin|Chișinău": {
+    "total_revenues": 1327299494,
+    "own_revenues": 305171090,
+    "total_expenditures": 1323732424,
+    "personnel_costs": 694337766,
+    "functioning_costs": 926612697
+  },
+  "com. Mihălășeni|Ocnița": {
+    "total_revenues": 22970603,
+    "own_revenues": 6242994,
+    "total_expenditures": 25213894,
+    "personnel_costs": 13338193,
+    "functioning_costs": 17649726
+  },
+  "sat. Naslavcea|Ocnița": {
+    "total_revenues": 9268593,
+    "own_revenues": 3360414,
+    "total_expenditures": 8983462,
+    "personnel_costs": 3875770,
+    "functioning_costs": 6288423
+  },
+  "com. Ocnița|Ocnița": {
+    "total_revenues": 13633284,
+    "own_revenues": 3943683,
+    "total_expenditures": 13979177,
+    "personnel_costs": 5569713,
+    "functioning_costs": 9785424
+  },
+  "sat. Sauca|Ocnița": {
+    "total_revenues": 7012011,
+    "own_revenues": 996609,
+    "total_expenditures": 7206459,
+    "personnel_costs": 2730620,
+    "functioning_costs": 5044522
+  },
+  "sat. Unguri|Ocnița": {
+    "total_revenues": 1761649,
+    "own_revenues": 306110,
+    "total_expenditures": 1827097,
+    "personnel_costs": 696780,
+    "functioning_costs": 1278968
+  },
+  "com. Vălcineț|Ocnița": {
+    "total_revenues": 24175647,
+    "own_revenues": 4001151,
+    "total_expenditures": 23920046,
+    "personnel_costs": 8787078,
+    "functioning_costs": 16744032
+  },
+  "or. Sîngera|Chișinău": {
+    "total_revenues": 1209842392,
+    "own_revenues": 300500663,
+    "total_expenditures": 1225405734,
+    "personnel_costs": 598057970,
+    "functioning_costs": 857784014
+  },
+  "com. Băcioi|Chișinău": {
+    "total_revenues": 1376595130,
+    "own_revenues": 224331636,
+    "total_expenditures": 1334844204,
+    "personnel_costs": 592635029,
+    "functioning_costs": 934390943
+  },
+  "sat. Condrița|Chișinău": {
+    "total_revenues": 1339686338,
+    "own_revenues": 510997435,
+    "total_expenditures": 1384299242,
+    "personnel_costs": 711636657,
+    "functioning_costs": 969009470
+  },
+  "sat. Ghidighici|Chișinău": {
+    "total_revenues": 1505891254,
+    "own_revenues": 539846511,
+    "total_expenditures": 1537436745,
+    "personnel_costs": 464975563,
+    "functioning_costs": 1076205722
+  },
+  "or. Codru|Chișinău": {
+    "total_revenues": 1312776193,
+    "own_revenues": 541710064,
+    "total_expenditures": 1371323120,
+    "personnel_costs": 594462603,
+    "functioning_costs": 959926184
+  },
+  "com. Ciorescu|Chișinău": {
+    "total_revenues": 1526652189,
+    "own_revenues": 453031683,
+    "total_expenditures": 1580352451,
+    "personnel_costs": 631509591,
+    "functioning_costs": 1106246716
+  },
+  "or. Vadul lui Vodă|Chișinău": {
+    "total_revenues": 841507618,
+    "own_revenues": 159046109,
+    "total_expenditures": 905332399,
+    "personnel_costs": 293396024,
+    "functioning_costs": 633732679
+  },
+  "com. Bubuieci|Chișinău": {
+    "total_revenues": 1266008767,
+    "own_revenues": 374893697,
+    "total_expenditures": 1379666839,
+    "personnel_costs": 502790201,
+    "functioning_costs": 965766787
+  },
+  "sat. Budești|Chișinău": {
+    "total_revenues": 1188122293,
+    "own_revenues": 479501212,
+    "total_expenditures": 1300361217,
+    "personnel_costs": 454787718,
+    "functioning_costs": 910252852
+  },
+  "sat. Colonița|Chișinău": {
+    "total_revenues": 1741597041,
+    "own_revenues": 347645508,
+    "total_expenditures": 1739443632,
+    "personnel_costs": 743805459,
+    "functioning_costs": 1217610542
+  },
+  "com. Cruzești|Chișinău": {
+    "total_revenues": 1007181915,
+    "own_revenues": 201721669,
+    "total_expenditures": 1052260184,
+    "personnel_costs": 353782590,
+    "functioning_costs": 736582129
+  },
+  "com. Grătiești|Chișinău": {
+    "total_revenues": 2555659326,
+    "own_revenues": 557353286,
+    "total_expenditures": 2669874326,
+    "personnel_costs": 1182512418,
+    "functioning_costs": 1868912028
+  },
+  "or. Durlești|Chișinău": {
+    "total_revenues": 821251749,
+    "own_revenues": 147723709,
+    "total_expenditures": 819224683,
+    "personnel_costs": 305438984,
+    "functioning_costs": 573457278
+  },
+  "mun. Chișinău|Unknown": {
+    "total_revenues": 89695182,
+    "own_revenues": 21384171,
+    "total_expenditures": 97153675,
+    "personnel_costs": 48114727,
+    "functioning_costs": 68007573
+  },
+  "com. Trușeni|Chișinău": {
+    "total_revenues": 2399759546,
+    "own_revenues": 1050936564,
+    "total_expenditures": 2428792699,
+    "personnel_costs": 840293174,
+    "functioning_costs": 1700154889
+  },
+  "or. Cricova|Chișinău": {
+    "total_revenues": 1396215934,
+    "own_revenues": 463135844,
+    "total_expenditures": 1523363176,
+    "personnel_costs": 723862927,
+    "functioning_costs": 1066354223
+  },
+  "or. Stăuceni|Chișinău": {
+    "total_revenues": 992050137,
+    "own_revenues": 134971655,
+    "total_expenditures": 951940419,
+    "personnel_costs": 494697490,
+    "functioning_costs": 666358293
+  }
+}

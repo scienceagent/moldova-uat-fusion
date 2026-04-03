@@ -8,3 +8,5 @@ unidecode
 fastapi
 uvicorn
 python-dotenv
+openpyxl
+xlrd

@@ -1,0 +1,5372 @@
+{
+  "or. Briceni|Briceni": {
+    "name": "or. Briceni",
+    "raion": "Briceni",
+    "type": "oraș",
+    "population": 15296
+  },
+  "sat. Caracușenii Vechi|Briceni": {
+    "name": "sat. Caracușenii Vechi",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 5267
+  },
+  "or. Lipcani|Briceni": {
+    "name": "or. Lipcani",
+    "raion": "Briceni",
+    "type": "oraș",
+    "population": 41118
+  },
+  "sat. Balasinești|Briceni": {
+    "name": "sat. Balasinești",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 4236
+  },
+  "sat. Beleavinți|Briceni": {
+    "name": "sat. Beleavinți",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 2107
+  },
+  "com. Bălcăuți|Briceni": {
+    "name": "com. Bălcăuți",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 3557
+  },
+  "com. Berlinți|Briceni": {
+    "name": "com. Berlinți",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 2966
+  },
+  "com. Bogdănești|Briceni": {
+    "name": "com. Bogdănești",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 3900
+  },
+  "sat. Bulboaca|Briceni": {
+    "name": "sat. Bulboaca",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 3762
+  },
+  "com. Colicăuți|Briceni": {
+    "name": "com. Colicăuți",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 3170
+  },
+  "com. Halahora de Sus|Briceni": {
+    "name": "com. Halahora de Sus",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 4514
+  },
+  "sat. Corjeuți|Briceni": {
+    "name": "sat. Corjeuți",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 2987
+  },
+  "sat. Coteala|Briceni": {
+    "name": "sat. Coteala",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 5175
+  },
+  "sat. Cotiujeni|Briceni": {
+    "name": "sat. Cotiujeni",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 5362
+  },
+  "com. Medveja|Briceni": {
+    "name": "com. Medveja",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 1062
+  },
+  "sat. Criva|Briceni": {
+    "name": "sat. Criva",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 5446
+  },
+  "sat. Drepcăuți|Briceni": {
+    "name": "sat. Drepcăuți",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 4558
+  },
+  "sat. Grimăncăuți|Briceni": {
+    "name": "sat. Grimăncăuți",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 5588
+  },
+  "sat. Tîrgul Vertiujeni|Florești": {
+    "name": "sat. Tîrgul Vertiujeni",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 1933
+  },
+  "sat. Hlina|Briceni": {
+    "name": "sat. Hlina",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 5940
+  },
+  "com. Larga|Briceni": {
+    "name": "com. Larga",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 5681
+  },
+  "com. Mărcăuți|Briceni": {
+    "name": "com. Mărcăuți",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 894
+  },
+  "com. Mihăileni|Briceni": {
+    "name": "com. Mihăileni",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 3586
+  },
+  "sat. Pererîta|Briceni": {
+    "name": "sat. Pererîta",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 2957
+  },
+  "sat. Șirăuți|Briceni": {
+    "name": "sat. Șirăuți",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 5922
+  },
+  "sat. Trebisăuți|Briceni": {
+    "name": "sat. Trebisăuți",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 2123
+  },
+  "sat. Slobozia-Șirăuți|Briceni": {
+    "name": "sat. Slobozia-Șirăuți",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 3455
+  },
+  "sat. Tabani|Briceni": {
+    "name": "sat. Tabani",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 3319
+  },
+  "sat. Tețcani|Briceni": {
+    "name": "sat. Tețcani",
+    "raion": "Briceni",
+    "type": "comună",
+    "population": 4781
+  },
+  "mun. Cahul|Cahul": {
+    "name": "mun. Cahul",
+    "raion": "Cahul",
+    "type": "oraș",
+    "population": 39148
+  },
+  "sat. Alexandru Ioan Cuza|Cahul": {
+    "name": "sat. Alexandru Ioan Cuza",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 2535
+  },
+  "com. Burlacu|Cahul": {
+    "name": "com. Burlacu",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 4068
+  },
+  "sat. Alexanderfeld|Cahul": {
+    "name": "sat. Alexanderfeld",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 1791
+  },
+  "sat. Baurci-Moldoveni|Cahul": {
+    "name": "sat. Baurci-Moldoveni",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 5620
+  },
+  "sat. Andrușul de Jos|Cahul": {
+    "name": "sat. Andrușul de Jos",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 1057
+  },
+  "sat. Borceag|Cahul": {
+    "name": "sat. Borceag",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 2555
+  },
+  "sat. Andrușul de Sus|Cahul": {
+    "name": "sat. Andrușul de Sus",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 2790
+  },
+  "sat. Bucuria|Cahul": {
+    "name": "sat. Bucuria",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 4331
+  },
+  "sat. Badicul Moldovenesc|Cahul": {
+    "name": "sat. Badicul Moldovenesc",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 1606
+  },
+  "com. Greblești|Strășeni": {
+    "name": "com. Greblești",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 2369
+  },
+  "com. Burlăceni|Cahul": {
+    "name": "com. Burlăceni",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 2846
+  },
+  "com. Chioselia Mare|Cahul": {
+    "name": "com. Chioselia Mare",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 1602
+  },
+  "com. Lozova|Strășeni": {
+    "name": "com. Lozova",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 2736
+  },
+  "sat. Brînza|Cahul": {
+    "name": "sat. Brînza",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 1280
+  },
+  "sat. Colibași|Cahul": {
+    "name": "sat. Colibași",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 4527
+  },
+  "sat. Crihana Veche|Cahul": {
+    "name": "sat. Crihana Veche",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 4786
+  },
+  "com. Cucoara|Cahul": {
+    "name": "com. Cucoara",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 5241
+  },
+  "com. Micăuți|Strășeni": {
+    "name": "com. Micăuți",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 5150
+  },
+  "sat. Cîșlița-Prut|Cahul": {
+    "name": "sat. Cîșlița-Prut",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 5674
+  },
+  "sat. Huluboaia|Cahul": {
+    "name": "sat. Huluboaia",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 5466
+  },
+  "com. Micleușeni|Strășeni": {
+    "name": "com. Micleușeni",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 5581
+  },
+  "com. Doina|Cahul": {
+    "name": "com. Doina",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 3373
+  },
+  "sat. Iujnoe|Cahul": {
+    "name": "sat. Iujnoe",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 3390
+  },
+  "com. Găvănoasa|Cahul": {
+    "name": "com. Găvănoasa",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 5412
+  },
+  "sat. Giurgiulești|Cahul": {
+    "name": "sat. Giurgiulești",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 3659
+  },
+  "com. Larga Nouă|Cahul": {
+    "name": "com. Larga Nouă",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 5250
+  },
+  "sat. Lopățica|Cahul": {
+    "name": "sat. Lopățica",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 864
+  },
+  "com. Lebedenco|Cahul": {
+    "name": "com. Lebedenco",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 1900
+  },
+  "sat. Negrești|Strășeni": {
+    "name": "sat. Negrești",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 3108
+  },
+  "sat. Onești|Strășeni": {
+    "name": "sat. Onești",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 2962
+  },
+  "sat. Lucești|Cahul": {
+    "name": "sat. Lucești",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 5996
+  },
+  "com. Tartaul de Salcie|Cahul": {
+    "name": "com. Tartaul de Salcie",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 2945
+  },
+  "com. Manta|Cahul": {
+    "name": "com. Manta",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 1716
+  },
+  "sat. Romănești|Strășeni": {
+    "name": "sat. Romănești",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 3824
+  },
+  "com. Moscovei|Cahul": {
+    "name": "com. Moscovei",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 1126
+  },
+  "sat. Sireți|Strășeni": {
+    "name": "sat. Sireți",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 5386
+  },
+  "com. Pelinei|Cahul": {
+    "name": "com. Pelinei",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 2739
+  },
+  "sat. Roșu|Cahul": {
+    "name": "sat. Roșu",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 1003
+  },
+  "sat. Slobozia Mare|Cahul": {
+    "name": "sat. Slobozia Mare",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 2832
+  },
+  "sat. Taraclia de Salcie|Cahul": {
+    "name": "sat. Taraclia de Salcie",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 4655
+  },
+  "sat. Tătărești|Cahul": {
+    "name": "sat. Tătărești",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 2664
+  },
+  "sat. Gura Galbenei|Cimișlia": {
+    "name": "sat. Gura Galbenei",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 1368
+  },
+  "sat. Vadul lui Isac|Cahul": {
+    "name": "sat. Vadul lui Isac",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 5192
+  },
+  "sat. Văleni|Cahul": {
+    "name": "sat. Văleni",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 5556
+  },
+  "sat. Viișoara|Edineț": {
+    "name": "sat. Viișoara",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 3369
+  },
+  "com. Zîrnești|Cahul": {
+    "name": "com. Zîrnești",
+    "raion": "Cahul",
+    "type": "comună",
+    "population": 2357
+  },
+  "or. Cimișlia|Cimișlia": {
+    "name": "or. Cimișlia",
+    "raion": "Cimișlia",
+    "type": "oraș",
+    "population": 43287
+  },
+  "com. Albina|Cimișlia": {
+    "name": "com. Albina",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 4333
+  },
+  "sat. Batîr|Cimișlia": {
+    "name": "sat. Batîr",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 1820
+  },
+  "sat. Cenac|Cimișlia": {
+    "name": "sat. Cenac",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 4096
+  },
+  "sat. Ciucur-Mingir|Cimișlia": {
+    "name": "sat. Ciucur-Mingir",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 3905
+  },
+  "com. Codreni|Cimișlia": {
+    "name": "com. Codreni",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 5288
+  },
+  "com. Ecaterinovca|Cimișlia": {
+    "name": "com. Ecaterinovca",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 5769
+  },
+  "com. Gradiște|Cimișlia": {
+    "name": "com. Gradiște",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 4676
+  },
+  "com. Hîrtop|Cimișlia": {
+    "name": "com. Hîrtop",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 3124
+  },
+  "com. Ialpujeni|Cimișlia": {
+    "name": "com. Ialpujeni",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 2724
+  },
+  "sat. Ivanovca Nouă|Cimișlia": {
+    "name": "sat. Ivanovca Nouă",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 2805
+  },
+  "com. Javgur|Cimișlia": {
+    "name": "com. Javgur",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 5959
+  },
+  "com. Lipoveni|Cimișlia": {
+    "name": "com. Lipoveni",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 2008
+  },
+  "sat. Sagaidac|Cimișlia": {
+    "name": "sat. Sagaidac",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 1673
+  },
+  "sat. Mihailovca|Cimișlia": {
+    "name": "sat. Mihailovca",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 4605
+  },
+  "sat. Valea Perjei|Cimișlia": {
+    "name": "sat. Valea Perjei",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 4606
+  },
+  "com. Porumbrei|Cimișlia": {
+    "name": "com. Porumbrei",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 4425
+  },
+  "sat. Carabetovca|Basarabeasca": {
+    "name": "sat. Carabetovca",
+    "raion": "Basarabeasca",
+    "type": "comună",
+    "population": 5288
+  },
+  "sat. Satul Nou|Cimișlia": {
+    "name": "sat. Satul Nou",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 2825
+  },
+  "sat. Rădulenii Vechi|Florești": {
+    "name": "sat. Rădulenii Vechi",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 2759
+  },
+  "sat. Selemet|Cimișlia": {
+    "name": "sat. Selemet",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 3419
+  },
+  "sat. Suric|Cimișlia": {
+    "name": "sat. Suric",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 2051
+  },
+  "sat. Topala|Cimișlia": {
+    "name": "sat. Topala",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 4206
+  },
+  "sat. Bădragii Vechi|Edineț": {
+    "name": "sat. Bădragii Vechi",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 960
+  },
+  "sat. Troițcoe|Cimișlia": {
+    "name": "sat. Troițcoe",
+    "raion": "Cimișlia",
+    "type": "comună",
+    "population": 3681
+  },
+  "or. Basarabeasca|Basarabeasca": {
+    "name": "or. Basarabeasca",
+    "raion": "Basarabeasca",
+    "type": "oraș",
+    "population": 43272
+  },
+  "sat. Iordanovca|Basarabeasca": {
+    "name": "sat. Iordanovca",
+    "raion": "Basarabeasca",
+    "type": "comună",
+    "population": 2597
+  },
+  "sat. Visoca|Soroca": {
+    "name": "sat. Visoca",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 4112
+  },
+  "sat. Abaclia|Basarabeasca": {
+    "name": "sat. Abaclia",
+    "raion": "Basarabeasca",
+    "type": "comună",
+    "population": 5175
+  },
+  "sat. Bașcalia|Basarabeasca": {
+    "name": "sat. Bașcalia",
+    "raion": "Basarabeasca",
+    "type": "comună",
+    "population": 4311
+  },
+  "com. Iserlia|Basarabeasca": {
+    "name": "com. Iserlia",
+    "raion": "Basarabeasca",
+    "type": "comună",
+    "population": 2533
+  },
+  "sat. Chirianca|Strășeni": {
+    "name": "sat. Chirianca",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 4253
+  },
+  "com. Codreanca|Strășeni": {
+    "name": "com. Codreanca",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 3666
+  },
+  "sat. Sadaclia|Basarabeasca": {
+    "name": "sat. Sadaclia",
+    "raion": "Basarabeasca",
+    "type": "comună",
+    "population": 1054
+  },
+  "mun. Strășeni|Strășeni": {
+    "name": "mun. Strășeni",
+    "raion": "Strășeni",
+    "type": "oraș",
+    "population": 16272
+  },
+  "or. Bucovăț|Strășeni": {
+    "name": "or. Bucovăț",
+    "raion": "Strășeni",
+    "type": "oraș",
+    "population": 24793
+  },
+  "sat. Cojușna|Strășeni": {
+    "name": "sat. Cojușna",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 1738
+  },
+  "sat. Căpriana|Strășeni": {
+    "name": "sat. Căpriana",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 3355
+  },
+  "sat. Chetroșica Nouă|Edineț": {
+    "name": "sat. Chetroșica Nouă",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 2424
+  },
+  "sat. Dolna|Strășeni": {
+    "name": "sat. Dolna",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 3270
+  },
+  "com. Gălești|Strășeni": {
+    "name": "com. Gălești",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 1136
+  },
+  "com. Ghelăuza|Strășeni": {
+    "name": "com. Ghelăuza",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 3595
+  },
+  "com. Pănășești|Strășeni": {
+    "name": "com. Pănășești",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 3767
+  },
+  "com. Rădeni|Strășeni": {
+    "name": "com. Rădeni",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 5074
+  },
+  "sat. Recea|Strășeni": {
+    "name": "sat. Recea",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 4760
+  },
+  "sat. Roșcani|Strășeni": {
+    "name": "sat. Roșcani",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 2811
+  },
+  "sat. Scoreni|Strășeni": {
+    "name": "sat. Scoreni",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 4606
+  },
+  "sat. Tătărești|Strășeni": {
+    "name": "sat. Tătărești",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 3462
+  },
+  "sat. Țigănești|Strășeni": {
+    "name": "sat. Țigănești",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 5683
+  },
+  "sat. Corpaci|Edineț": {
+    "name": "sat. Corpaci",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 1501
+  },
+  "sat. Voinova|Strășeni": {
+    "name": "sat. Voinova",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 4700
+  },
+  "sat. Zubrești|Strășeni": {
+    "name": "sat. Zubrești",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 2615
+  },
+  "or. Șoldănești|Șoldănești": {
+    "name": "or. Șoldănești",
+    "raion": "Șoldănești",
+    "type": "oraș",
+    "population": 44272
+  },
+  "com. Alcedar|Șoldănești": {
+    "name": "com. Alcedar",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 4517
+  },
+  "sat. Chipeșca|Șoldănești": {
+    "name": "sat. Chipeșca",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 1779
+  },
+  "sat. Vorniceni|Strășeni": {
+    "name": "sat. Vorniceni",
+    "raion": "Strășeni",
+    "type": "comună",
+    "population": 4766
+  },
+  "sat. Mihuleni|Șoldănești": {
+    "name": "sat. Mihuleni",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 1623
+  },
+  "com. Climăuții de Jos|Șoldănești": {
+    "name": "com. Climăuții de Jos",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 5175
+  },
+  "sat. Răspopeni|Șoldănești": {
+    "name": "sat. Răspopeni",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 1834
+  },
+  "sat. Cobîlea|Șoldănești": {
+    "name": "sat. Cobîlea",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 3129
+  },
+  "com. Cotiujenii Mari|Șoldănești": {
+    "name": "com. Cotiujenii Mari",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 4713
+  },
+  "com. Botnărești|Anenii Noi": {
+    "name": "com. Botnărești",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 1239
+  },
+  "sat. Bulboaca|Anenii Noi": {
+    "name": "sat. Bulboaca",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 2833
+  },
+  "sat. Cușmirca|Șoldănești": {
+    "name": "sat. Cușmirca",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 2648
+  },
+  "com. Dobrușa|Șoldănești": {
+    "name": "com. Dobrușa",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 5621
+  },
+  "sat. Fuzăuca|Șoldănești": {
+    "name": "sat. Fuzăuca",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 1612
+  },
+  "sat. Găuzeni|Șoldănești": {
+    "name": "sat. Găuzeni",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 2086
+  },
+  "com. Cuconeștii Noi|Edineț": {
+    "name": "com. Cuconeștii Noi",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 5664
+  },
+  "sat. Glinjeni|Șoldănești": {
+    "name": "sat. Glinjeni",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 4519
+  },
+  "sat. Olișcani|Șoldănești": {
+    "name": "sat. Olișcani",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 5631
+  },
+  "sat. Parcani|Șoldănești": {
+    "name": "sat. Parcani",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 2020
+  },
+  "sat. Pohoarna|Șoldănești": {
+    "name": "sat. Pohoarna",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 3319
+  },
+  "sat. Poiana|Șoldănești": {
+    "name": "sat. Poiana",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 4639
+  },
+  "com. Rogojeni|Șoldănești": {
+    "name": "com. Rogojeni",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 4845
+  },
+  "com. Calfa|Anenii Noi": {
+    "name": "com. Calfa",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 5745
+  },
+  "com. Chetrosu|Anenii Noi": {
+    "name": "com. Chetrosu",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 5512
+  },
+  "com. Salcia|Șoldănești": {
+    "name": "com. Salcia",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 5520
+  },
+  "sat. Sămășcani|Șoldănești": {
+    "name": "sat. Sămășcani",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 3078
+  },
+  "sat. Delacău|Anenii Noi": {
+    "name": "sat. Delacău",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 1547
+  },
+  "sat. Șestaci|Șoldănești": {
+    "name": "sat. Șestaci",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 2117
+  },
+  "sat. Șipca|Șoldănești": {
+    "name": "sat. Șipca",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 5306
+  },
+  "com. Vadul-Rașcov|Șoldănești": {
+    "name": "com. Vadul-Rașcov",
+    "raion": "Șoldănești",
+    "type": "comună",
+    "population": 4111
+  },
+  "sat. Floreni|Anenii Noi": {
+    "name": "sat. Floreni",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 4584
+  },
+  "com. Geamăna|Anenii Noi": {
+    "name": "com. Geamăna",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 5923
+  },
+  "or. Anenii Noi|Anenii Noi": {
+    "name": "or. Anenii Noi",
+    "raion": "Anenii Noi",
+    "type": "oraș",
+    "population": 26876
+  },
+  "mun. Edineț|Edineț": {
+    "name": "mun. Edineț",
+    "raion": "Edineț",
+    "type": "oraș",
+    "population": 23682
+  },
+  "com. Chirca|Anenii Noi": {
+    "name": "com. Chirca",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 2640
+  },
+  "or. Cupcini|Edineț": {
+    "name": "or. Cupcini",
+    "raion": "Edineț",
+    "type": "oraș",
+    "population": 18090
+  },
+  "sat. Alexeevca|Edineț": {
+    "name": "sat. Alexeevca",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 4752
+  },
+  "com. Ciobanovca|Anenii Noi": {
+    "name": "com. Ciobanovca",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 5710
+  },
+  "sat. Cobusca Nouă|Anenii Noi": {
+    "name": "sat. Cobusca Nouă",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 4199
+  },
+  "com. Cobusca Veche|Anenii Noi": {
+    "name": "com. Cobusca Veche",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 3245
+  },
+  "com. Bleșteni|Edineț": {
+    "name": "com. Bleșteni",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 4458
+  },
+  "com. Brătușeni|Edineț": {
+    "name": "com. Brătușeni",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 4530
+  },
+  "sat. Bădragii Noi|Edineț": {
+    "name": "sat. Bădragii Noi",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 3937
+  },
+  "sat. Brînzeni|Edineț": {
+    "name": "sat. Brînzeni",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 3923
+  },
+  "com. Burlănești|Edineț": {
+    "name": "com. Burlănești",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 4857
+  },
+  "com. Cepeleuți|Edineț": {
+    "name": "com. Cepeleuți",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 1622
+  },
+  "sat. Fetești|Edineț": {
+    "name": "sat. Fetești",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 1980
+  },
+  "sat. Gașpar|Edineț": {
+    "name": "sat. Gașpar",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 2971
+  },
+  "sat. Goleni|Edineț": {
+    "name": "sat. Goleni",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 5171
+  },
+  "com. Hincăuți|Edineț": {
+    "name": "com. Hincăuți",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 5232
+  },
+  "sat. Gordinești|Edineț": {
+    "name": "sat. Gordinești",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 2663
+  },
+  "sat. Hancăuți|Edineț": {
+    "name": "sat. Hancăuți",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 1623
+  },
+  "sat. Hlinaia|Edineț": {
+    "name": "sat. Hlinaia",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 1259
+  },
+  "sat. Lopatnic|Edineț": {
+    "name": "sat. Lopatnic",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 5436
+  },
+  "com. Parcova|Edineț": {
+    "name": "com. Parcova",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 3933
+  },
+  "com. Rotunda|Edineț": {
+    "name": "com. Rotunda",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 4577
+  },
+  "com. Ruseni|Edineț": {
+    "name": "com. Ruseni",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 4611
+  },
+  "sat. Terebna|Edineț": {
+    "name": "sat. Terebna",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 3630
+  },
+  "sat. Stolniceni|Edineț": {
+    "name": "sat. Stolniceni",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 4542
+  },
+  "sat. Șofrîncani|Edineț": {
+    "name": "sat. Șofrîncani",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 2743
+  },
+  "sat. Gura Bîcului|Anenii Noi": {
+    "name": "sat. Gura Bîcului",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 979
+  },
+  "sat. Tîrnova|Edineț": {
+    "name": "sat. Tîrnova",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 1201
+  },
+  "sat. Hîrbovăț|Anenii Noi": {
+    "name": "sat. Hîrbovăț",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 2685
+  },
+  "sat. Trinca|Edineț": {
+    "name": "sat. Trinca",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 1920
+  },
+  "com. Constantinovca|Edineț": {
+    "name": "com. Constantinovca",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 4411
+  },
+  "sat. Maximovca|Anenii Noi": {
+    "name": "sat. Maximovca",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 3476
+  },
+  "sat. Mereni|Anenii Noi": {
+    "name": "sat. Mereni",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 3797
+  },
+  "com. Cotova|Drochia": {
+    "name": "com. Cotova",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 4747
+  },
+  "sat. Merenii Noi|Anenii Noi": {
+    "name": "sat. Merenii Noi",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 4636
+  },
+  "com. Ochiul Roș|Anenii Noi": {
+    "name": "com. Ochiul Roș",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 4055
+  },
+  "sat. Puhăceni|Anenii Noi": {
+    "name": "sat. Puhăceni",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 914
+  },
+  "sat. Musteața|Fălești": {
+    "name": "sat. Musteața",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 2947
+  },
+  "sat. Roșcani|Anenii Noi": {
+    "name": "sat. Roșcani",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 2715
+  },
+  "sat. Speia|Anenii Noi": {
+    "name": "sat. Speia",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 5797
+  },
+  "com. Văscăuți|Florești": {
+    "name": "com. Văscăuți",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 3275
+  },
+  "sat. Șerpeni|Anenii Noi": {
+    "name": "sat. Șerpeni",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 4835
+  },
+  "sat. Varnița|Anenii Noi": {
+    "name": "sat. Varnița",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 3839
+  },
+  "com. Zăbriceni|Edineț": {
+    "name": "com. Zăbriceni",
+    "raion": "Edineț",
+    "type": "comună",
+    "population": 2065
+  },
+  "com. Telița|Anenii Noi": {
+    "name": "com. Telița",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 3091
+  },
+  "com. Țînțăreni|Anenii Noi": {
+    "name": "com. Țînțăreni",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 3771
+  },
+  "or. Florești|Florești": {
+    "name": "or. Florești",
+    "raion": "Florești",
+    "type": "oraș",
+    "population": 31506
+  },
+  "com. Zolotievca|Anenii Noi": {
+    "name": "com. Zolotievca",
+    "raion": "Anenii Noi",
+    "type": "comună",
+    "population": 4525
+  },
+  "sat. Băhrinești|Florești": {
+    "name": "sat. Băhrinești",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 1214
+  },
+  "or. Ghindești|Florești": {
+    "name": "or. Ghindești",
+    "raion": "Florești",
+    "type": "oraș",
+    "population": 12496
+  },
+  "or. Mărculești|Florești": {
+    "name": "or. Mărculești",
+    "raion": "Florești",
+    "type": "oraș",
+    "population": 23269
+  },
+  "com. Alexeevca|Florești": {
+    "name": "com. Alexeevca",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 1985
+  },
+  "sat. Cașunca|Florești": {
+    "name": "sat. Cașunca",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 1011
+  },
+  "sat. Cernița|Florești": {
+    "name": "sat. Cernița",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 929
+  },
+  "sat. Ciripcău|Florești": {
+    "name": "sat. Ciripcău",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 1320
+  },
+  "com. Ciutulești|Florești": {
+    "name": "com. Ciutulești",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 4927
+  },
+  "sat. Coșernița|Florești": {
+    "name": "sat. Coșernița",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 5071
+  },
+  "com. Cuhureștii de Sus|Florești": {
+    "name": "com. Cuhureștii de Sus",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 4090
+  },
+  "com. Cuhureștii de Jos|Florești": {
+    "name": "com. Cuhureștii de Jos",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 1461
+  },
+  "sat. Cunicea|Florești": {
+    "name": "sat. Cunicea",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 5595
+  },
+  "sat. Domulgeni|Florești": {
+    "name": "sat. Domulgeni",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 4516
+  },
+  "com. Frumușica|Florești": {
+    "name": "com. Frumușica",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 5316
+  },
+  "com. Gura Camencii|Florești": {
+    "name": "com. Gura Camencii",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 3576
+  },
+  "sat. Mărculești|Florești": {
+    "name": "sat. Mărculești",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 3360
+  },
+  "com. Ghindești|Florești": {
+    "name": "com. Ghindești",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 1349
+  },
+  "com. Gura Căinarului|Florești": {
+    "name": "com. Gura Căinarului",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 3852
+  },
+  "com. Iliciovca|Florești": {
+    "name": "com. Iliciovca",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 3500
+  },
+  "com. Izvoare|Florești": {
+    "name": "com. Izvoare",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 4264
+  },
+  "com. Japca|Florești": {
+    "name": "com. Japca",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 3680
+  },
+  "sat. Lunga|Florești": {
+    "name": "sat. Lunga",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 1686
+  },
+  "or. Glodeni|Glodeni": {
+    "name": "or. Glodeni",
+    "raion": "Glodeni",
+    "type": "oraș",
+    "population": 22821
+  },
+  "com. Nicolaevca|Florești": {
+    "name": "com. Nicolaevca",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 5826
+  },
+  "com. Prodănești|Florești": {
+    "name": "com. Prodănești",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 2990
+  },
+  "com. Balatina|Glodeni": {
+    "name": "com. Balatina",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 3675
+  },
+  "com. Prajila|Florești": {
+    "name": "com. Prajila",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 1962
+  },
+  "sat. Cajba|Glodeni": {
+    "name": "sat. Cajba",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 3881
+  },
+  "com. Camenca|Glodeni": {
+    "name": "com. Camenca",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 5449
+  },
+  "sat. Ciuciulea|Glodeni": {
+    "name": "sat. Ciuciulea",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 1207
+  },
+  "sat. Dușmani|Glodeni": {
+    "name": "sat. Dușmani",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 4421
+  },
+  "sat. Cobani|Glodeni": {
+    "name": "sat. Cobani",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 1708
+  },
+  "sat. Vertiujeni|Florești": {
+    "name": "sat. Vertiujeni",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 1172
+  },
+  "com. Cuhnești|Glodeni": {
+    "name": "com. Cuhnești",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 2530
+  },
+  "com. Danu|Glodeni": {
+    "name": "com. Danu",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 4874
+  },
+  "sat. Fundurii Noi|Glodeni": {
+    "name": "sat. Fundurii Noi",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 4898
+  },
+  "sat. Bocani|Fălești": {
+    "name": "sat. Bocani",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 1146
+  },
+  "sat. Fundurii Vechi|Glodeni": {
+    "name": "sat. Fundurii Vechi",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 4316
+  },
+  "sat. Ustia|Glodeni": {
+    "name": "sat. Ustia",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 970
+  },
+  "sat. Hîjdieni|Glodeni": {
+    "name": "sat. Hîjdieni",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 3764
+  },
+  "com. Iabloana|Glodeni": {
+    "name": "com. Iabloana",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 5092
+  },
+  "sat. Limbenii Noi|Glodeni": {
+    "name": "sat. Limbenii Noi",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 2177
+  },
+  "sat. Limbenii Vechi|Glodeni": {
+    "name": "sat. Limbenii Vechi",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 3662
+  },
+  "sat. Petrunea|Glodeni": {
+    "name": "sat. Petrunea",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 1642
+  },
+  "sat. Putinești|Florești": {
+    "name": "sat. Putinești",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 1417
+  },
+  "com. Viișoara|Glodeni": {
+    "name": "com. Viișoara",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 5547
+  },
+  "sat. Sturzovca|Glodeni": {
+    "name": "sat. Sturzovca",
+    "raion": "Glodeni",
+    "type": "comună",
+    "population": 5916
+  },
+  "sat. Napadova|Florești": {
+    "name": "sat. Napadova",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 4641
+  },
+  "com. Roșietici|Florești": {
+    "name": "com. Roșietici",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 4956
+  },
+  "com. Ștefănești|Florești": {
+    "name": "com. Ștefănești",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 3151
+  },
+  "sat. Sănătăuca|Florești": {
+    "name": "sat. Sănătăuca",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 4953
+  },
+  "or. Fălești|Fălești": {
+    "name": "or. Fălești",
+    "raion": "Fălești",
+    "type": "oraș",
+    "population": 10688
+  },
+  "com. Sevirova|Florești": {
+    "name": "com. Sevirova",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 4696
+  },
+  "com. Albinețul Vechi|Fălești": {
+    "name": "com. Albinețul Vechi",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 3613
+  },
+  "sat. Catranîc|Fălești": {
+    "name": "sat. Catranîc",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 4386
+  },
+  "com. Călinești|Fălești": {
+    "name": "com. Călinești",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 3117
+  },
+  "sat. Temeleuți|Florești": {
+    "name": "sat. Temeleuți",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 5968
+  },
+  "com. Trifănești|Florești": {
+    "name": "com. Trifănești",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 3127
+  },
+  "com. Vărvăreuca|Florești": {
+    "name": "com. Vărvăreuca",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 2031
+  },
+  "com. Călugăr|Fălești": {
+    "name": "com. Călugăr",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 4010
+  },
+  "com. Ciolacu Nou|Fălești": {
+    "name": "com. Ciolacu Nou",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 3490
+  },
+  "com. Egorovca|Fălești": {
+    "name": "com. Egorovca",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 5112
+  },
+  "sat. Pocrovca|Dondușeni": {
+    "name": "sat. Pocrovca",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 3330
+  },
+  "com. Făleștii Noi|Fălești": {
+    "name": "com. Făleștii Noi",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 2655
+  },
+  "sat. Zăluceni|Florești": {
+    "name": "sat. Zăluceni",
+    "raion": "Florești",
+    "type": "comună",
+    "population": 4958
+  },
+  "sat. Glinjeni|Fălești": {
+    "name": "sat. Glinjeni",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 3558
+  },
+  "com. Hiliuți|Fălești": {
+    "name": "com. Hiliuți",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 2281
+  },
+  "com. Horești|Fălești": {
+    "name": "com. Horești",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 4385
+  },
+  "sat. Ilenuța|Fălești": {
+    "name": "sat. Ilenuța",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 5801
+  },
+  "com. Ișcălău|Fălești": {
+    "name": "com. Ișcălău",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 3335
+  },
+  "or. Dondușeni|Dondușeni": {
+    "name": "or. Dondușeni",
+    "raion": "Dondușeni",
+    "type": "oraș",
+    "population": 36874
+  },
+  "sat. Izvoare|Fălești": {
+    "name": "sat. Izvoare",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 2127
+  },
+  "com. Teleșeuca|Dondușeni": {
+    "name": "com. Teleșeuca",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 4736
+  },
+  "com. Logofteni|Fălești": {
+    "name": "com. Logofteni",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 1821
+  },
+  "sat. Arionești|Dondușeni": {
+    "name": "sat. Arionești",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 2007
+  },
+  "sat. Baraboi|Dondușeni": {
+    "name": "sat. Baraboi",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 3663
+  },
+  "sat. Briceni|Dondușeni": {
+    "name": "sat. Briceni",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 3963
+  },
+  "sat. Cernoleuca|Dondușeni": {
+    "name": "sat. Cernoleuca",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 3546
+  },
+  "sat. Climăuți|Dondușeni": {
+    "name": "sat. Climăuți",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 1936
+  },
+  "sat. Corbu|Dondușeni": {
+    "name": "sat. Corbu",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 955
+  },
+  "sat. Crișcăuți|Dondușeni": {
+    "name": "sat. Crișcăuți",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 5123
+  },
+  "sat. Dondușeni|Dondușeni": {
+    "name": "sat. Dondușeni",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 2753
+  },
+  "com. Elizavetovca|Dondușeni": {
+    "name": "com. Elizavetovca",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 4894
+  },
+  "com. Frasin|Dondușeni": {
+    "name": "com. Frasin",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 1976
+  },
+  "sat. Horodiște|Dondușeni": {
+    "name": "sat. Horodiște",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 2334
+  },
+  "com. Moșana|Dondușeni": {
+    "name": "com. Moșana",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 5109
+  },
+  "com. Baroncea|Drochia": {
+    "name": "com. Baroncea",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 4651
+  },
+  "sat. Pivniceni|Dondușeni": {
+    "name": "sat. Pivniceni",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 3725
+  },
+  "sat. Plop|Dondușeni": {
+    "name": "sat. Plop",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 5566
+  },
+  "sat. Rediul Mare|Dondușeni": {
+    "name": "sat. Rediul Mare",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 2234
+  },
+  "sat. Scăieni|Dondușeni": {
+    "name": "sat. Scăieni",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 2293
+  },
+  "com. Sudarca|Dondușeni": {
+    "name": "com. Sudarca",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 3203
+  },
+  "com. Tîrnova|Dondușeni": {
+    "name": "com. Tîrnova",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 3340
+  },
+  "sat. Țaul|Dondușeni": {
+    "name": "sat. Țaul",
+    "raion": "Dondușeni",
+    "type": "comună",
+    "population": 2365
+  },
+  "or. Drochia|Drochia": {
+    "name": "or. Drochia",
+    "raion": "Drochia",
+    "type": "oraș",
+    "population": 25905
+  },
+  "sat. Antoneuca|Drochia": {
+    "name": "sat. Antoneuca",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 3967
+  },
+  "sat. Chetrosu|Drochia": {
+    "name": "sat. Chetrosu",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 5053
+  },
+  "sat. Mărăndeni|Fălești": {
+    "name": "sat. Mărăndeni",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 2278
+  },
+  "com. Natalievca|Fălești": {
+    "name": "com. Natalievca",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 3310
+  },
+  "com. Pietrosu|Fălești": {
+    "name": "com. Pietrosu",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 4462
+  },
+  "sat. Năvîrneț|Fălești": {
+    "name": "sat. Năvîrneț",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 3049
+  },
+  "sat. Dominteni|Drochia": {
+    "name": "sat. Dominteni",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 4127
+  },
+  "com. Pînzăreni|Fălești": {
+    "name": "com. Pînzăreni",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 1969
+  },
+  "com. Obreja Veche|Fălești": {
+    "name": "com. Obreja Veche",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 2733
+  },
+  "sat. Drochia|Drochia": {
+    "name": "sat. Drochia",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 5756
+  },
+  "sat. Pîrlița|Fălești": {
+    "name": "sat. Pîrlița",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 1429
+  },
+  "sat. Gribova|Drochia": {
+    "name": "sat. Gribova",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 2844
+  },
+  "com. Pompa|Fălești": {
+    "name": "com. Pompa",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 5401
+  },
+  "com. Pruteni|Fălești": {
+    "name": "com. Pruteni",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 5812
+  },
+  "sat. Răuțel|Fălești": {
+    "name": "sat. Răuțel",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 1406
+  },
+  "com. Risipeni|Fălești": {
+    "name": "com. Risipeni",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 3418
+  },
+  "com. Fîntînița|Drochia": {
+    "name": "com. Fîntînița",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 3257
+  },
+  "com. Sărata Veche|Fălești": {
+    "name": "com. Sărata Veche",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 3761
+  },
+  "com. Scumpia|Fălești": {
+    "name": "com. Scumpia",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 4847
+  },
+  "com. Taxobeni|Fălești": {
+    "name": "com. Taxobeni",
+    "raion": "Fălești",
+    "type": "comună",
+    "population": 5319
+  },
+  "sat. Hăsnășenii Mari|Drochia": {
+    "name": "sat. Hăsnășenii Mari",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 4721
+  },
+  "com. Hăsnășenii Noi|Drochia": {
+    "name": "com. Hăsnășenii Noi",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 3397
+  },
+  "sat. Maramonovca|Drochia": {
+    "name": "sat. Maramonovca",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 5316
+  },
+  "sat. Miciurin|Drochia": {
+    "name": "sat. Miciurin",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 1253
+  },
+  "sat. Moara de Piatră|Drochia": {
+    "name": "sat. Moara de Piatră",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 2647
+  },
+  "sat. Mîndîc|Drochia": {
+    "name": "sat. Mîndîc",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 2852
+  },
+  "sat. Nicoreni|Drochia": {
+    "name": "sat. Nicoreni",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 5833
+  },
+  "sat. Sofia|Drochia": {
+    "name": "sat. Sofia",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 2063
+  },
+  "sat. Ochiul Alb|Drochia": {
+    "name": "sat. Ochiul Alb",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 5417
+  },
+  "com. Palanca|Drochia": {
+    "name": "com. Palanca",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 5524
+  },
+  "com. Pelinia|Drochia": {
+    "name": "com. Pelinia",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 1048
+  },
+  "com. Pervomaiscoe|Drochia": {
+    "name": "com. Pervomaiscoe",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 4756
+  },
+  "com. Petreni|Drochia": {
+    "name": "com. Petreni",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 1290
+  },
+  "sat. Popeștii de Jos|Drochia": {
+    "name": "sat. Popeștii de Jos",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 1976
+  },
+  "sat. Băxani|Soroca": {
+    "name": "sat. Băxani",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 4066
+  },
+  "sat. Popeștii de Sus|Drochia": {
+    "name": "sat. Popeștii de Sus",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 4621
+  },
+  "or. Ocnița|Ocnița": {
+    "name": "or. Ocnița",
+    "raion": "Ocnița",
+    "type": "oraș",
+    "population": 33175
+  },
+  "mun. Soroca|Soroca": {
+    "name": "mun. Soroca",
+    "raion": "Soroca",
+    "type": "oraș",
+    "population": 29458
+  },
+  "com. Șalvirii Vechi|Drochia": {
+    "name": "com. Șalvirii Vechi",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 5016
+  },
+  "sat. Zgurița|Drochia": {
+    "name": "sat. Zgurița",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 4021
+  },
+  "com. Bădiceni|Soroca": {
+    "name": "com. Bădiceni",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 1214
+  },
+  "com. Șuri|Drochia": {
+    "name": "com. Șuri",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 3140
+  },
+  "com. Dărcăuți|Soroca": {
+    "name": "com. Dărcăuți",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 3796
+  },
+  "sat. Țarigrad|Drochia": {
+    "name": "sat. Țarigrad",
+    "raion": "Drochia",
+    "type": "comună",
+    "population": 2394
+  },
+  "or. Rîșcani|Rîșcani": {
+    "name": "or. Rîșcani",
+    "raion": "Rîșcani",
+    "type": "oraș",
+    "population": 44035
+  },
+  "com. Bulboci|Soroca": {
+    "name": "com. Bulboci",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 1592
+  },
+  "com. Căinarii Vechi|Soroca": {
+    "name": "com. Căinarii Vechi",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 1981
+  },
+  "com. Cosăuți|Soroca": {
+    "name": "com. Cosăuți",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 1922
+  },
+  "com. Cremenciug|Soroca": {
+    "name": "com. Cremenciug",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 5023
+  },
+  "or. Costești|Rîșcani": {
+    "name": "or. Costești",
+    "raion": "Rîșcani",
+    "type": "oraș",
+    "population": 27610
+  },
+  "sat. Dubna|Soroca": {
+    "name": "sat. Dubna",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 5411
+  },
+  "com. Alexăndrești|Rîșcani": {
+    "name": "com. Alexăndrești",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 4212
+  },
+  "sat. Egoreni|Soroca": {
+    "name": "sat. Egoreni",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 1018
+  },
+  "sat. Hristici|Soroca": {
+    "name": "sat. Hristici",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 5538
+  },
+  "com. Holoșnița|Soroca": {
+    "name": "com. Holoșnița",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 5952
+  },
+  "sat. Aluniș|Rîșcani": {
+    "name": "sat. Aluniș",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 2784
+  },
+  "sat. Oclanda|Soroca": {
+    "name": "sat. Oclanda",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 3369
+  },
+  "com. Iarova|Soroca": {
+    "name": "com. Iarova",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 5809
+  },
+  "com. Nimereuca|Soroca": {
+    "name": "com. Nimereuca",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 1931
+  },
+  "com. Șolcani|Soroca": {
+    "name": "com. Șolcani",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 3886
+  },
+  "sat. Corlăteni|Rîșcani": {
+    "name": "sat. Corlăteni",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 3702
+  },
+  "com. Ocolina|Soroca": {
+    "name": "com. Ocolina",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 2965
+  },
+  "com. Parcani|Soroca": {
+    "name": "com. Parcani",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 2642
+  },
+  "com. Pîrlița|Soroca": {
+    "name": "com. Pîrlița",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 4805
+  },
+  "sat. Racovăț|Soroca": {
+    "name": "sat. Racovăț",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 3040
+  },
+  "com. Pogănești|Hîncești": {
+    "name": "com. Pogănești",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 4032
+  },
+  "sat. Redi-Cereșnovăț|Soroca": {
+    "name": "sat. Redi-Cereșnovăț",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 3156
+  },
+  "com. Regina Maria|Soroca": {
+    "name": "com. Regina Maria",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 4724
+  },
+  "com. Rublenița|Soroca": {
+    "name": "com. Rublenița",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 3025
+  },
+  "sat. Rudi|Soroca": {
+    "name": "sat. Rudi",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 5150
+  },
+  "sat. Borosenii Noi|Rîșcani": {
+    "name": "sat. Borosenii Noi",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 4669
+  },
+  "com. Schineni|Soroca": {
+    "name": "com. Schineni",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 2093
+  },
+  "com. Stoicani|Soroca": {
+    "name": "com. Stoicani",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 2433
+  },
+  "com. Duruitoarea Nouă|Rîșcani": {
+    "name": "com. Duruitoarea Nouă",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 1532
+  },
+  "com. Braniște|Rîșcani": {
+    "name": "com. Braniște",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 1105
+  },
+  "sat. Șeptelici|Soroca": {
+    "name": "sat. Șeptelici",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 1097
+  },
+  "com. Tătărăuca Veche|Soroca": {
+    "name": "com. Tătărăuca Veche",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 3171
+  },
+  "sat. Corten|Taraclia": {
+    "name": "sat. Corten",
+    "raion": "Taraclia",
+    "type": "comună",
+    "population": 3544
+  },
+  "com. Gălășeni|Rîșcani": {
+    "name": "com. Gălășeni",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 1899
+  },
+  "sat. Valea Perjei|Taraclia": {
+    "name": "sat. Valea Perjei",
+    "raion": "Taraclia",
+    "type": "comună",
+    "population": 2131
+  },
+  "com. Grinăuți|Rîșcani": {
+    "name": "com. Grinăuți",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 3561
+  },
+  "com. Răcăria|Rîșcani": {
+    "name": "com. Răcăria",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 4121
+  },
+  "sat. Hiliuți|Rîșcani": {
+    "name": "sat. Hiliuți",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 2313
+  },
+  "or. Ștefan Vodă|Ștefan Vodă": {
+    "name": "or. Ștefan Vodă",
+    "raion": "Ștefan Vodă",
+    "type": "oraș",
+    "population": 33137
+  },
+  "com. Alava|Ștefan Vodă": {
+    "name": "com. Alava",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 5493
+  },
+  "sat. Horodiște|Rîșcani": {
+    "name": "sat. Horodiște",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 1768
+  },
+  "sat. Trifăuți|Soroca": {
+    "name": "sat. Trifăuți",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 3347
+  },
+  "com. Vasilcău|Soroca": {
+    "name": "com. Vasilcău",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 2609
+  },
+  "com. Malinovscoe|Rîșcani": {
+    "name": "com. Malinovscoe",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 5762
+  },
+  "sat. Beșghioz|UTA Găgăuzia": {
+    "name": "sat. Beșghioz",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 2589
+  },
+  "sat. Bugeac|UTA Găgăuzia": {
+    "name": "sat. Bugeac",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 5104
+  },
+  "com. Vărăncău|Soroca": {
+    "name": "com. Vărăncău",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 1305
+  },
+  "com. Cubolta|Sîngerei": {
+    "name": "com. Cubolta",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 2147
+  },
+  "sat. Mihăileni|Rîșcani": {
+    "name": "sat. Mihăileni",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 5577
+  },
+  "sat. Petrușeni|Rîșcani": {
+    "name": "sat. Petrușeni",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 1880
+  },
+  "sat. Nihoreni|Rîșcani": {
+    "name": "sat. Nihoreni",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 3324
+  },
+  "com. Vădeni|Soroca": {
+    "name": "com. Vădeni",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 5537
+  },
+  "com. Volovița|Soroca": {
+    "name": "com. Volovița",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 1293
+  },
+  "sat. Pîrjota|Rîșcani": {
+    "name": "sat. Pîrjota",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 4149
+  },
+  "sat. Zastînca|Soroca": {
+    "name": "sat. Zastînca",
+    "raion": "Soroca",
+    "type": "comună",
+    "population": 4243
+  },
+  "sat. Antonești|Ștefan Vodă": {
+    "name": "sat. Antonești",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 3892
+  },
+  "sat. Pociumbăuți|Rîșcani": {
+    "name": "sat. Pociumbăuți",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 3648
+  },
+  "com. Pociumbeni|Rîșcani": {
+    "name": "com. Pociumbeni",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 2624
+  },
+  "sat. Stolniceni|Hîncești": {
+    "name": "sat. Stolniceni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 5260
+  },
+  "com. Recea|Rîșcani": {
+    "name": "com. Recea",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 2070
+  },
+  "mun. Comrat|UTA Găgăuzia": {
+    "name": "mun. Comrat",
+    "raion": "UTA Găgăuzia",
+    "type": "oraș",
+    "population": 35475
+  },
+  "com. Sculeni|Ungheni": {
+    "name": "com. Sculeni",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 1351
+  },
+  "sat. Singureni|Rîșcani": {
+    "name": "sat. Singureni",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 1198
+  },
+  "sat. Chioselia Rusă|UTA Găgăuzia": {
+    "name": "sat. Chioselia Rusă",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 1262
+  },
+  "sat. Congaz|UTA Găgăuzia": {
+    "name": "sat. Congaz",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 5519
+  },
+  "mun. Ceadîr-Lunga|UTA Găgăuzia": {
+    "name": "mun. Ceadîr-Lunga",
+    "raion": "UTA Găgăuzia",
+    "type": "oraș",
+    "population": 27776
+  },
+  "or. Vulcănești|UTA Găgăuzia": {
+    "name": "or. Vulcănești",
+    "raion": "UTA Găgăuzia",
+    "type": "oraș",
+    "population": 26032
+  },
+  "sat. Sturzeni|Rîșcani": {
+    "name": "sat. Sturzeni",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 5928
+  },
+  "sat. Șaptebani|Rîșcani": {
+    "name": "sat. Șaptebani",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 3922
+  },
+  "sat. Avdarma|UTA Găgăuzia": {
+    "name": "sat. Avdarma",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 3883
+  },
+  "com. Dobrogea Veche|Sîngerei": {
+    "name": "com. Dobrogea Veche",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 1982
+  },
+  "sat. Baurci|UTA Găgăuzia": {
+    "name": "sat. Baurci",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 5365
+  },
+  "sat. Brezoaia|Ștefan Vodă": {
+    "name": "sat. Brezoaia",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 1447
+  },
+  "sat. Beșalma|UTA Găgăuzia": {
+    "name": "sat. Beșalma",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 2360
+  },
+  "sat. Carbalia|UTA Găgăuzia": {
+    "name": "sat. Carbalia",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 1396
+  },
+  "com. Drăgănești|Sîngerei": {
+    "name": "com. Drăgănești",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 4727
+  },
+  "com. Șumna|Rîșcani": {
+    "name": "com. Șumna",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 2535
+  },
+  "sat. Joltai|UTA Găgăuzia": {
+    "name": "sat. Joltai",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 4723
+  },
+  "sat. Cazaclia|UTA Găgăuzia": {
+    "name": "sat. Cazaclia",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 2760
+  },
+  "com. Dumbrăvița|Sîngerei": {
+    "name": "com. Dumbrăvița",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 3743
+  },
+  "sat. Chiriet-Lunga|UTA Găgăuzia": {
+    "name": "sat. Chiriet-Lunga",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 4646
+  },
+  "sat. Chirsova|UTA Găgăuzia": {
+    "name": "sat. Chirsova",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 1174
+  },
+  "com. Bursuceni|Sîngerei": {
+    "name": "com. Bursuceni",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 5584
+  },
+  "com. Vasileuți|Rîșcani": {
+    "name": "com. Vasileuți",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 3911
+  },
+  "sat. Voinescu|Hîncești": {
+    "name": "sat. Voinescu",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 3565
+  },
+  "sat. Cioc-Maidan|UTA Găgăuzia": {
+    "name": "sat. Cioc-Maidan",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 4818
+  },
+  "sat. Cișmichioi|UTA Găgăuzia": {
+    "name": "sat. Cișmichioi",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 5277
+  },
+  "com. Congazcicul de Sus|UTA Găgăuzia": {
+    "name": "com. Congazcicul de Sus",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 1281
+  },
+  "sat. Văratic|Rîșcani": {
+    "name": "sat. Văratic",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 1197
+  },
+  "sat. Meșeni|Rezina": {
+    "name": "sat. Meșeni",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 2037
+  },
+  "sat. Copceac|UTA Găgăuzia": {
+    "name": "sat. Copceac",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 5850
+  },
+  "sat. Cotovscoe|UTA Găgăuzia": {
+    "name": "sat. Cotovscoe",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 4169
+  },
+  "or. Sîngerei|Sîngerei": {
+    "name": "or. Sîngerei",
+    "raion": "Sîngerei",
+    "type": "oraș",
+    "population": 9123
+  },
+  "sat. Dezghingea|UTA Găgăuzia": {
+    "name": "sat. Dezghingea",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 2268
+  },
+  "com. Svetlîi|UTA Găgăuzia": {
+    "name": "com. Svetlîi",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 5112
+  },
+  "com. Etulia|UTA Găgăuzia": {
+    "name": "com. Etulia",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 4126
+  },
+  "sat. Crocmaz|Ștefan Vodă": {
+    "name": "sat. Crocmaz",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 1460
+  },
+  "sat. Zăicani|Rîșcani": {
+    "name": "sat. Zăicani",
+    "raion": "Rîșcani",
+    "type": "comună",
+    "population": 3906
+  },
+  "sat. Ermoclia|Ștefan Vodă": {
+    "name": "sat. Ermoclia",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 1477
+  },
+  "sat. Ferapontievca|UTA Găgăuzia": {
+    "name": "sat. Ferapontievca",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 1581
+  },
+  "com. Bilicenii Vechi|Sîngerei": {
+    "name": "com. Bilicenii Vechi",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 5443
+  },
+  "sat. Gaidar|UTA Găgăuzia": {
+    "name": "sat. Gaidar",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 5248
+  },
+  "sat. Volintiri|Ștefan Vodă": {
+    "name": "sat. Volintiri",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 2497
+  },
+  "sat. Tomai|UTA Găgăuzia": {
+    "name": "sat. Tomai",
+    "raion": "UTA Găgăuzia",
+    "type": "comună",
+    "population": 1430
+  },
+  "or. Biruința|Sîngerei": {
+    "name": "or. Biruința",
+    "raion": "Sîngerei",
+    "type": "oraș",
+    "population": 43426
+  },
+  "com. Alexăndreni|Sîngerei": {
+    "name": "com. Alexăndreni",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 1442
+  },
+  "com. Bălășești|Sîngerei": {
+    "name": "com. Bălășești",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 1422
+  },
+  "or. Taraclia|Taraclia": {
+    "name": "or. Taraclia",
+    "raion": "Taraclia",
+    "type": "oraș",
+    "population": 29389
+  },
+  "com. Bilicenii Noi|Sîngerei": {
+    "name": "com. Bilicenii Noi",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 3714
+  },
+  "com. Țambula|Sîngerei": {
+    "name": "com. Țambula",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 3913
+  },
+  "com. Chișcăreni|Sîngerei": {
+    "name": "com. Chișcăreni",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 1472
+  },
+  "com. Corestăuți|Ocnița": {
+    "name": "com. Corestăuți",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 3991
+  },
+  "com. Albota de Jos|Taraclia": {
+    "name": "com. Albota de Jos",
+    "raion": "Taraclia",
+    "type": "comună",
+    "population": 3748
+  },
+  "com. Ciuciuieni|Sîngerei": {
+    "name": "com. Ciuciuieni",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 5362
+  },
+  "com. Albota de Sus|Taraclia": {
+    "name": "com. Albota de Sus",
+    "raion": "Taraclia",
+    "type": "comună",
+    "population": 1562
+  },
+  "sat. Aluatu|Taraclia": {
+    "name": "sat. Aluatu",
+    "raion": "Taraclia",
+    "type": "comună",
+    "population": 4189
+  },
+  "sat. Balabanu|Taraclia": {
+    "name": "sat. Balabanu",
+    "raion": "Taraclia",
+    "type": "comună",
+    "population": 2788
+  },
+  "sat. Cairaclia|Taraclia": {
+    "name": "sat. Cairaclia",
+    "raion": "Taraclia",
+    "type": "comună",
+    "population": 3266
+  },
+  "com. Budăi|Taraclia": {
+    "name": "com. Budăi",
+    "raion": "Taraclia",
+    "type": "comună",
+    "population": 3255
+  },
+  "com. Cealîc|Taraclia": {
+    "name": "com. Cealîc",
+    "raion": "Taraclia",
+    "type": "comună",
+    "population": 5920
+  },
+  "com. Copăceni|Sîngerei": {
+    "name": "com. Copăceni",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 855
+  },
+  "sat. Musaitu|Taraclia": {
+    "name": "sat. Musaitu",
+    "raion": "Taraclia",
+    "type": "comună",
+    "population": 3499
+  },
+  "com. Coșcodeni|Sîngerei": {
+    "name": "com. Coșcodeni",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 5669
+  },
+  "sat. Novosiolovca|Taraclia": {
+    "name": "sat. Novosiolovca",
+    "raion": "Taraclia",
+    "type": "comună",
+    "population": 3373
+  },
+  "com. Cotiujenii Mici|Sîngerei": {
+    "name": "com. Cotiujenii Mici",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 5984
+  },
+  "or. Tvardița|Taraclia": {
+    "name": "or. Tvardița",
+    "raion": "Taraclia",
+    "type": "oraș",
+    "population": 33751
+  },
+  "com. Vinogradovca|Taraclia": {
+    "name": "com. Vinogradovca",
+    "raion": "Taraclia",
+    "type": "comună",
+    "population": 2273
+  },
+  "com. Salcia|Taraclia": {
+    "name": "com. Salcia",
+    "raion": "Taraclia",
+    "type": "comună",
+    "population": 2517
+  },
+  "sat. Carahasani|Ștefan Vodă": {
+    "name": "sat. Carahasani",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 4151
+  },
+  "sat. Căplani|Ștefan Vodă": {
+    "name": "sat. Căplani",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 2062
+  },
+  "sat. Cioburciu|Ștefan Vodă": {
+    "name": "sat. Cioburciu",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 4725
+  },
+  "com. Grigorăuca|Sîngerei": {
+    "name": "com. Grigorăuca",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 4226
+  },
+  "sat. Copceac|Ștefan Vodă": {
+    "name": "sat. Copceac",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 5198
+  },
+  "com. Heciul Nou|Sîngerei": {
+    "name": "com. Heciul Nou",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 3708
+  },
+  "com. Iezărenii Vechi|Sîngerei": {
+    "name": "com. Iezărenii Vechi",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 4073
+  },
+  "sat. Feștelița|Ștefan Vodă": {
+    "name": "sat. Feștelița",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 1607
+  },
+  "sat. Marianca de Jos|Ștefan Vodă": {
+    "name": "sat. Marianca de Jos",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 5512
+  },
+  "com. Izvoare|Sîngerei": {
+    "name": "com. Izvoare",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 4899
+  },
+  "sat. Olănești|Ștefan Vodă": {
+    "name": "sat. Olănești",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 1503
+  },
+  "sat. Palanca|Ștefan Vodă": {
+    "name": "sat. Palanca",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 4530
+  },
+  "sat. Popeasca|Ștefan Vodă": {
+    "name": "sat. Popeasca",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 4506
+  },
+  "com. Zaim|Căușeni": {
+    "name": "com. Zaim",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 3610
+  },
+  "com. Purcari|Ștefan Vodă": {
+    "name": "com. Purcari",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 2798
+  },
+  "com. Pepeni|Sîngerei": {
+    "name": "com. Pepeni",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 4585
+  },
+  "com. Prepelița|Sîngerei": {
+    "name": "com. Prepelița",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 4340
+  },
+  "com. Răscăieți|Ștefan Vodă": {
+    "name": "com. Răscăieți",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 4318
+  },
+  "com. Baccealia|Căușeni": {
+    "name": "com. Baccealia",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 1312
+  },
+  "com. Baimaclia|Căușeni": {
+    "name": "com. Baimaclia",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 2414
+  },
+  "sat. Rădoaia|Sîngerei": {
+    "name": "sat. Rădoaia",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 3367
+  },
+  "sat. Semionovca|Ștefan Vodă": {
+    "name": "sat. Semionovca",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 4550
+  },
+  "sat. Chircăiești|Căușeni": {
+    "name": "sat. Chircăiești",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 5833
+  },
+  "sat. Slobozia|Ștefan Vodă": {
+    "name": "sat. Slobozia",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 1758
+  },
+  "sat. Ștefănești|Ștefan Vodă": {
+    "name": "sat. Ștefănești",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 1929
+  },
+  "sat. Caracui|Hîncești": {
+    "name": "sat. Caracui",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 2219
+  },
+  "com. Tăura Veche|Sîngerei": {
+    "name": "com. Tăura Veche",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 4494
+  },
+  "or. Căinari|Căușeni": {
+    "name": "or. Căinari",
+    "raion": "Căușeni",
+    "type": "oraș",
+    "population": 20787
+  },
+  "sat. Talmaza|Ștefan Vodă": {
+    "name": "sat. Talmaza",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 4828
+  },
+  "sat. Tudora|Ștefan Vodă": {
+    "name": "sat. Tudora",
+    "raion": "Ștefan Vodă",
+    "type": "comună",
+    "population": 1052
+  },
+  "com. Sîngereii Noi|Sîngerei": {
+    "name": "com. Sîngereii Noi",
+    "raion": "Sîngerei",
+    "type": "comună",
+    "population": 3164
+  },
+  "or. Căușeni|Căușeni": {
+    "name": "or. Căușeni",
+    "raion": "Căușeni",
+    "type": "oraș",
+    "population": 44026
+  },
+  "com. Chircăieștii Noi|Căușeni": {
+    "name": "com. Chircăieștii Noi",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 3805
+  },
+  "com. Chițcani|Căușeni": {
+    "name": "com. Chițcani",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 2590
+  },
+  "com. Grădinița|Căușeni": {
+    "name": "com. Grădinița",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 3238
+  },
+  "sat. Ciuflești|Căușeni": {
+    "name": "sat. Ciuflești",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 1512
+  },
+  "sat. Cîrnățeni|Căușeni": {
+    "name": "sat. Cîrnățeni",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 5616
+  },
+  "com. Cîrnățenii Noi|Căușeni": {
+    "name": "com. Cîrnățenii Noi",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 5847
+  },
+  "sat. Grigorievca|Căușeni": {
+    "name": "sat. Grigorievca",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 3673
+  },
+  "sat. Copanca|Căușeni": {
+    "name": "sat. Copanca",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 3197
+  },
+  "sat. Coșcalia|Căușeni": {
+    "name": "sat. Coșcalia",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 1580
+  },
+  "sat. Cremenciug|Căușeni": {
+    "name": "sat. Cremenciug",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 3071
+  },
+  "com. Fîrlădeni|Căușeni": {
+    "name": "com. Fîrlădeni",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 3438
+  },
+  "sat. Gîsca|Căușeni": {
+    "name": "sat. Gîsca",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 5530
+  },
+  "com. Tănătarii Noi|Căușeni": {
+    "name": "com. Tănătarii Noi",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 1562
+  },
+  "sat. Hagimus|Căușeni": {
+    "name": "sat. Hagimus",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 4524
+  },
+  "sat. Opaci|Căușeni": {
+    "name": "sat. Opaci",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 1563
+  },
+  "com. Pervomaisc|Căușeni": {
+    "name": "com. Pervomaisc",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 1318
+  },
+  "sat. Tocuz|Căușeni": {
+    "name": "sat. Tocuz",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 4852
+  },
+  "sat. Plop-Știubei|Căușeni": {
+    "name": "sat. Plop-Știubei",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 5437
+  },
+  "sat. Săiți|Căușeni": {
+    "name": "sat. Săiți",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 1176
+  },
+  "sat. Sălcuța|Căușeni": {
+    "name": "sat. Sălcuța",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 2094
+  },
+  "com. Ucrainca|Căușeni": {
+    "name": "com. Ucrainca",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 1880
+  },
+  "sat. Taraclia|Căușeni": {
+    "name": "sat. Taraclia",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 1564
+  },
+  "sat. Tănătari|Căușeni": {
+    "name": "sat. Tănătari",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 2155
+  },
+  "sat. Ursoaia|Căușeni": {
+    "name": "sat. Ursoaia",
+    "raion": "Căușeni",
+    "type": "comună",
+    "population": 4316
+  },
+  "or. Cantemir|Cantemir": {
+    "name": "or. Cantemir",
+    "raion": "Cantemir",
+    "type": "oraș",
+    "population": 16696
+  },
+  "com. Antonești|Cantemir": {
+    "name": "com. Antonești",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 3614
+  },
+  "sat. Capaclia|Cantemir": {
+    "name": "sat. Capaclia",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 1380
+  },
+  "com. Baimaclia|Cantemir": {
+    "name": "com. Baimaclia",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 3811
+  },
+  "com. Cîietu|Cantemir": {
+    "name": "com. Cîietu",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 1890
+  },
+  "com. Cania|Cantemir": {
+    "name": "com. Cania",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 5799
+  },
+  "sat. Căbăiești|Călărași": {
+    "name": "sat. Căbăiești",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 2040
+  },
+  "com. Chioselia|Cantemir": {
+    "name": "com. Chioselia",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 1623
+  },
+  "com. Ciobalaccia|Cantemir": {
+    "name": "com. Ciobalaccia",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 4317
+  },
+  "sat. Cîrpești|Cantemir": {
+    "name": "sat. Cîrpești",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 5333
+  },
+  "com. Cîșla|Cantemir": {
+    "name": "com. Cîșla",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 1019
+  },
+  "sat. Cociulia|Cantemir": {
+    "name": "sat. Cociulia",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 4974
+  },
+  "sat. Coștangalia|Cantemir": {
+    "name": "sat. Coștangalia",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 2760
+  },
+  "com. Enichioi|Cantemir": {
+    "name": "com. Enichioi",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 5127
+  },
+  "com. Gotești|Cantemir": {
+    "name": "com. Gotești",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 3968
+  },
+  "sat. Haragîș|Cantemir": {
+    "name": "sat. Haragîș",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 4658
+  },
+  "com. Lingura|Cantemir": {
+    "name": "com. Lingura",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 2947
+  },
+  "sat. Lărguța|Cantemir": {
+    "name": "sat. Lărguța",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 3146
+  },
+  "com. Pleșeni|Cantemir": {
+    "name": "com. Pleșeni",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 1475
+  },
+  "com. Plopi|Cantemir": {
+    "name": "com. Plopi",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 1447
+  },
+  "sat. Porumbești|Cantemir": {
+    "name": "sat. Porumbești",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 4000
+  },
+  "com. Sadîc|Cantemir": {
+    "name": "com. Sadîc",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 3340
+  },
+  "sat. Stoianovca|Cantemir": {
+    "name": "sat. Stoianovca",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 1506
+  },
+  "sat. Șamalia|Cantemir": {
+    "name": "sat. Șamalia",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 2238
+  },
+  "sat. Tartaul|Cantemir": {
+    "name": "sat. Tartaul",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 3640
+  },
+  "sat. Vișniovca|Cantemir": {
+    "name": "sat. Vișniovca",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 1839
+  },
+  "or. Leova|Leova": {
+    "name": "or. Leova",
+    "raion": "Leova",
+    "type": "oraș",
+    "population": 9923
+  },
+  "com. Toceni|Cantemir": {
+    "name": "com. Toceni",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 5523
+  },
+  "com. Țiganca|Cantemir": {
+    "name": "com. Țiganca",
+    "raion": "Cantemir",
+    "type": "comună",
+    "population": 5443
+  },
+  "sat. Orac|Leova": {
+    "name": "sat. Orac",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 1744
+  },
+  "or. Iargara|Leova": {
+    "name": "or. Iargara",
+    "raion": "Leova",
+    "type": "oraș",
+    "population": 24026
+  },
+  "com. Băiuș|Leova": {
+    "name": "com. Băiuș",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 1089
+  },
+  "com. Beștemac|Leova": {
+    "name": "com. Beștemac",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 3436
+  },
+  "sat. Borogani|Leova": {
+    "name": "sat. Borogani",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 5482
+  },
+  "com. Dereneu|Călărași": {
+    "name": "com. Dereneu",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 5025
+  },
+  "com. Cazangic|Leova": {
+    "name": "com. Cazangic",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 3112
+  },
+  "sat. Ceadîr|Leova": {
+    "name": "sat. Ceadîr",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 3822
+  },
+  "sat. Frumoasa|Călărași": {
+    "name": "sat. Frumoasa",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 4600
+  },
+  "com. Cneazevca|Leova": {
+    "name": "com. Cneazevca",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 5277
+  },
+  "sat. Colibabovca|Leova": {
+    "name": "sat. Colibabovca",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 2708
+  },
+  "sat. Covurlui|Leova": {
+    "name": "sat. Covurlui",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 3544
+  },
+  "sat. Cupcui|Leova": {
+    "name": "sat. Cupcui",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 1651
+  },
+  "sat. Filipeni|Leova": {
+    "name": "sat. Filipeni",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 1966
+  },
+  "com. Hănăsenii Noi|Leova": {
+    "name": "com. Hănăsenii Noi",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 5057
+  },
+  "sat. Romanovca|Leova": {
+    "name": "sat. Romanovca",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 5557
+  },
+  "com. Sărata Nouă|Leova": {
+    "name": "com. Sărata Nouă",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 5451
+  },
+  "com. Sărăteni|Leova": {
+    "name": "com. Sărăteni",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 3380
+  },
+  "com. Vozneseni|Leova": {
+    "name": "com. Vozneseni",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 4508
+  },
+  "or. Nisporeni|Nisporeni": {
+    "name": "or. Nisporeni",
+    "raion": "Nisporeni",
+    "type": "oraș",
+    "population": 15141
+  },
+  "com. Sărățica Nouă|Leova": {
+    "name": "com. Sărățica Nouă",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 5190
+  },
+  "com. Bălănești|Nisporeni": {
+    "name": "com. Bălănești",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 1782
+  },
+  "com. Tigheci|Leova": {
+    "name": "com. Tigheci",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 5742
+  },
+  "sat. Tomai|Leova": {
+    "name": "sat. Tomai",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 2833
+  },
+  "sat. Călimănești|Nisporeni": {
+    "name": "sat. Călimănești",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 2224
+  },
+  "com. Tomaiul Nou|Leova": {
+    "name": "com. Tomaiul Nou",
+    "raion": "Leova",
+    "type": "comună",
+    "population": 2846
+  },
+  "sat. Grozești|Nisporeni": {
+    "name": "sat. Grozești",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 1305
+  },
+  "sat. Bălăurești|Nisporeni": {
+    "name": "sat. Bălăurești",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 3849
+  },
+  "sat. Bărboieni|Nisporeni": {
+    "name": "sat. Bărboieni",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 1414
+  },
+  "com. Boldurești|Nisporeni": {
+    "name": "com. Boldurești",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 1855
+  },
+  "sat. Bolțun|Nisporeni": {
+    "name": "sat. Bolțun",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 4576
+  },
+  "com. Brătuleni|Nisporeni": {
+    "name": "com. Brătuleni",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 4864
+  },
+  "sat. Bursuc|Nisporeni": {
+    "name": "sat. Bursuc",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 2333
+  },
+  "com. Ciorești|Nisporeni": {
+    "name": "com. Ciorești",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 5854
+  },
+  "sat. Milești|Nisporeni": {
+    "name": "sat. Milești",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 1299
+  },
+  "com. Ciutești|Nisporeni": {
+    "name": "com. Ciutești",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 5107
+  },
+  "sat. Cristești|Nisporeni": {
+    "name": "sat. Cristești",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 3933
+  },
+  "com. Iurceni|Nisporeni": {
+    "name": "com. Iurceni",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 5433
+  },
+  "com. Marinici|Nisporeni": {
+    "name": "com. Marinici",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 2594
+  },
+  "sat. Vînători|Nisporeni": {
+    "name": "sat. Vînători",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 4664
+  },
+  "com. Seliște|Nisporeni": {
+    "name": "com. Seliște",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 1620
+  },
+  "sat. Soltănești|Nisporeni": {
+    "name": "sat. Soltănești",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 1258
+  },
+  "com. Șișcani|Nisporeni": {
+    "name": "com. Șișcani",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 3981
+  },
+  "sat. Zberoaia|Nisporeni": {
+    "name": "sat. Zberoaia",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 5653
+  },
+  "com. Valea-Trestieni|Nisporeni": {
+    "name": "com. Valea-Trestieni",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 3680
+  },
+  "com. Vărzărești|Nisporeni": {
+    "name": "com. Vărzărești",
+    "raion": "Nisporeni",
+    "type": "comună",
+    "population": 4832
+  },
+  "com. Cocieri|Dubăsari": {
+    "name": "com. Cocieri",
+    "raion": "Dubăsari",
+    "type": "comună",
+    "population": 5728
+  },
+  "com. Bălăbănești|Criuleni": {
+    "name": "com. Bălăbănești",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 2450
+  },
+  "com. Coșnița|Dubăsari": {
+    "name": "com. Coșnița",
+    "raion": "Dubăsari",
+    "type": "comună",
+    "population": 3450
+  },
+  "com. Bălțata|Criuleni": {
+    "name": "com. Bălțata",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 1708
+  },
+  "sat. Doroțcaia|Dubăsari": {
+    "name": "sat. Doroțcaia",
+    "raion": "Dubăsari",
+    "type": "comună",
+    "population": 4040
+  },
+  "com. Boșcana|Criuleni": {
+    "name": "com. Boșcana",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 4378
+  },
+  "sat. Holercani|Dubăsari": {
+    "name": "sat. Holercani",
+    "raion": "Dubăsari",
+    "type": "comună",
+    "population": 5403
+  },
+  "sat. Coșernița|Criuleni": {
+    "name": "sat. Coșernița",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 5624
+  },
+  "sat. Marcăuți|Dubăsari": {
+    "name": "sat. Marcăuți",
+    "raion": "Dubăsari",
+    "type": "comună",
+    "population": 2255
+  },
+  "com. Dolinnoe|Criuleni": {
+    "name": "com. Dolinnoe",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 5448
+  },
+  "sat. Molovata|Dubăsari": {
+    "name": "sat. Molovata",
+    "raion": "Dubăsari",
+    "type": "comună",
+    "population": 2609
+  },
+  "mun. Orhei|Orhei": {
+    "name": "mun. Orhei",
+    "raion": "Orhei",
+    "type": "oraș",
+    "population": 13099
+  },
+  "com. Molovata Nouă|Dubăsari": {
+    "name": "com. Molovata Nouă",
+    "raion": "Dubăsari",
+    "type": "comună",
+    "population": 1526
+  },
+  "sat. Brăviceni|Orhei": {
+    "name": "sat. Brăviceni",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 893
+  },
+  "sat. Oxentea|Dubăsari": {
+    "name": "sat. Oxentea",
+    "raion": "Dubăsari",
+    "type": "comună",
+    "population": 1685
+  },
+  "com. Alexeevca|Ungheni": {
+    "name": "com. Alexeevca",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 2162
+  },
+  "sat. Pîrîta|Dubăsari": {
+    "name": "sat. Pîrîta",
+    "raion": "Dubăsari",
+    "type": "comună",
+    "population": 1630
+  },
+  "sat. Păulești|Călărași": {
+    "name": "sat. Păulești",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 2647
+  },
+  "sat. Ustia|Dubăsari": {
+    "name": "sat. Ustia",
+    "raion": "Dubăsari",
+    "type": "comună",
+    "population": 3410
+  },
+  "or. Criuleni|Criuleni": {
+    "name": "or. Criuleni",
+    "raion": "Criuleni",
+    "type": "oraș",
+    "population": 18545
+  },
+  "com. Buciumeni|Ungheni": {
+    "name": "com. Buciumeni",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 5666
+  },
+  "sat. Cimișeni|Criuleni": {
+    "name": "sat. Cimișeni",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 2151
+  },
+  "sat. Corjova|Criuleni": {
+    "name": "sat. Corjova",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 2356
+  },
+  "sat. Cruglic|Criuleni": {
+    "name": "sat. Cruglic",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 3106
+  },
+  "com. Drăsliceni|Criuleni": {
+    "name": "com. Drăsliceni",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 4821
+  },
+  "com. Hrușova|Criuleni": {
+    "name": "com. Hrușova",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 5920
+  },
+  "sat. Dubăsarii Vechi|Criuleni": {
+    "name": "sat. Dubăsarii Vechi",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 3190
+  },
+  "sat. Ișnovăț|Criuleni": {
+    "name": "sat. Ișnovăț",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 4657
+  },
+  "com. Hîrtopul Mare|Criuleni": {
+    "name": "com. Hîrtopul Mare",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 2314
+  },
+  "sat. Pîrjolteni|Călărași": {
+    "name": "sat. Pîrjolteni",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 4402
+  },
+  "sat. Izbiște|Criuleni": {
+    "name": "sat. Izbiște",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 1592
+  },
+  "sat. Peticeni|Călărași": {
+    "name": "sat. Peticeni",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 5631
+  },
+  "sat. Jevreni|Criuleni": {
+    "name": "sat. Jevreni",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 5186
+  },
+  "sat. Mașcăuți|Criuleni": {
+    "name": "sat. Mașcăuți",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 3248
+  },
+  "sat. Măgdăcești|Criuleni": {
+    "name": "sat. Măgdăcești",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 5033
+  },
+  "com. Ciocîlteni|Orhei": {
+    "name": "com. Ciocîlteni",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 4478
+  },
+  "com. Miclești|Criuleni": {
+    "name": "com. Miclești",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 1833
+  },
+  "sat. Onițcani|Criuleni": {
+    "name": "sat. Onițcani",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 5938
+  },
+  "sat. Pohorniceni|Orhei": {
+    "name": "sat. Pohorniceni",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 1348
+  },
+  "com. Pohrebeni|Orhei": {
+    "name": "com. Pohrebeni",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 5057
+  },
+  "com. Pașcani|Criuleni": {
+    "name": "com. Pașcani",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 5080
+  },
+  "com. Puțintei|Orhei": {
+    "name": "com. Puțintei",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 5573
+  },
+  "com. Răculești|Criuleni": {
+    "name": "com. Răculești",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 1627
+  },
+  "sat. Zăicana|Criuleni": {
+    "name": "sat. Zăicana",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 2963
+  },
+  "sat. Rîșcova|Criuleni": {
+    "name": "sat. Rîșcova",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 3056
+  },
+  "sat. Slobozia-Dușca|Criuleni": {
+    "name": "sat. Slobozia-Dușca",
+    "raion": "Criuleni",
+    "type": "comună",
+    "population": 4042
+  },
+  "com. Berezlogi|Orhei": {
+    "name": "com. Berezlogi",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 3000
+  },
+  "com. Biești|Orhei": {
+    "name": "com. Biești",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 3096
+  },
+  "sat. Bolohan|Orhei": {
+    "name": "sat. Bolohan",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 2667
+  },
+  "sat. Bulăiești|Orhei": {
+    "name": "sat. Bulăiești",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 3007
+  },
+  "com. Chiperceni|Orhei": {
+    "name": "com. Chiperceni",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 4135
+  },
+  "sat. Sămănanca|Orhei": {
+    "name": "sat. Sămănanca",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 5021
+  },
+  "sat. Clișova|Orhei": {
+    "name": "sat. Clișova",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 5094
+  },
+  "com. Crihana|Orhei": {
+    "name": "com. Crihana",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 1272
+  },
+  "com. Cucuruzeni|Orhei": {
+    "name": "com. Cucuruzeni",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 3044
+  },
+  "sat. Fîrlădeni|Hîncești": {
+    "name": "sat. Fîrlădeni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 1050
+  },
+  "com. Donici|Orhei": {
+    "name": "com. Donici",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 4687
+  },
+  "com. Ghetlova|Orhei": {
+    "name": "com. Ghetlova",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 1540
+  },
+  "com. Step-Soci|Orhei": {
+    "name": "com. Step-Soci",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 2555
+  },
+  "sat. Isacova|Orhei": {
+    "name": "sat. Isacova",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 4154
+  },
+  "com. Ivancea|Orhei": {
+    "name": "com. Ivancea",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 4683
+  },
+  "com. Jora de Mijloc|Orhei": {
+    "name": "com. Jora de Mijloc",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 2867
+  },
+  "com. Mălăiești|Orhei": {
+    "name": "com. Mălăiești",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 3055
+  },
+  "sat. Mitoc|Orhei": {
+    "name": "sat. Mitoc",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 4623
+  },
+  "com. Mîrzești|Orhei": {
+    "name": "com. Mîrzești",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 860
+  },
+  "com. Morozeni|Orhei": {
+    "name": "com. Morozeni",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 5664
+  },
+  "sat. Neculăieuca|Orhei": {
+    "name": "sat. Neculăieuca",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 3064
+  },
+  "com. Pelivan|Orhei": {
+    "name": "com. Pelivan",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 3247
+  },
+  "sat. Zahoreni|Orhei": {
+    "name": "sat. Zahoreni",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 5715
+  },
+  "sat. Peresecina|Orhei": {
+    "name": "sat. Peresecina",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 4874
+  },
+  "com. Piatra|Orhei": {
+    "name": "com. Piatra",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 1089
+  },
+  "com. Țibirica|Călărași": {
+    "name": "com. Țibirica",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 2621
+  },
+  "sat. Podgoreni|Orhei": {
+    "name": "sat. Podgoreni",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 3736
+  },
+  "sat. Bușila|Ungheni": {
+    "name": "sat. Bușila",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 2283
+  },
+  "sat. Puhoi|Ialoveni": {
+    "name": "sat. Puhoi",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 5379
+  },
+  "com. Seliște|Orhei": {
+    "name": "com. Seliște",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 1531
+  },
+  "sat. Susleni|Orhei": {
+    "name": "sat. Susleni",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 3514
+  },
+  "sat. Teleșeu|Orhei": {
+    "name": "sat. Teleșeu",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 1239
+  },
+  "com. Trebujeni|Orhei": {
+    "name": "com. Trebujeni",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 2393
+  },
+  "com. Vatici|Orhei": {
+    "name": "com. Vatici",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 1242
+  },
+  "com. Bahmut|Călărași": {
+    "name": "com. Bahmut",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 5464
+  },
+  "sat. Bravicea|Călărași": {
+    "name": "sat. Bravicea",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 2277
+  },
+  "sat. Vîșcăuți|Orhei": {
+    "name": "sat. Vîșcăuți",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 5997
+  },
+  "com. Zorile|Orhei": {
+    "name": "com. Zorile",
+    "raion": "Orhei",
+    "type": "comună",
+    "population": 5520
+  },
+  "or. Călărași|Călărași": {
+    "name": "or. Călărași",
+    "raion": "Călărași",
+    "type": "oraș",
+    "population": 36423
+  },
+  "com. Buda|Călărași": {
+    "name": "com. Buda",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 1109
+  },
+  "sat. Hirova|Călărași": {
+    "name": "sat. Hirova",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 5150
+  },
+  "sat. Hoginești|Călărași": {
+    "name": "sat. Hoginești",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 3620
+  },
+  "com. Hîrjauca|Călărași": {
+    "name": "com. Hîrjauca",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 1334
+  },
+  "sat. Horodiște|Călărași": {
+    "name": "sat. Horodiște",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 5685
+  },
+  "sat. Meleșeni|Călărași": {
+    "name": "sat. Meleșeni",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 4815
+  },
+  "sat. Nișcani|Călărași": {
+    "name": "sat. Nișcani",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 4104
+  },
+  "com. Onișcani|Călărași": {
+    "name": "com. Onișcani",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 979
+  },
+  "sat. Pitușca|Călărași": {
+    "name": "sat. Pitușca",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 1106
+  },
+  "com. Răciula|Călărași": {
+    "name": "com. Răciula",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 5665
+  },
+  "sat. Rădeni|Călărași": {
+    "name": "sat. Rădeni",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 1748
+  },
+  "sat. Sadova|Călărași": {
+    "name": "sat. Sadova",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 2054
+  },
+  "com. Săseni|Călărași": {
+    "name": "com. Săseni",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 1627
+  },
+  "com. Sipoteni|Călărași": {
+    "name": "com. Sipoteni",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 1659
+  },
+  "sat. Vărzăreștii Noi|Călărași": {
+    "name": "sat. Vărzăreștii Noi",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 4877
+  },
+  "sat. Temeleuți|Călărași": {
+    "name": "sat. Temeleuți",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 2452
+  },
+  "sat. Boghiceni|Hîncești": {
+    "name": "sat. Boghiceni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 2501
+  },
+  "com. Tuzara|Călărași": {
+    "name": "com. Tuzara",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 1529
+  },
+  "sat. Vălcineț|Călărași": {
+    "name": "sat. Vălcineț",
+    "raion": "Călărași",
+    "type": "comună",
+    "population": 1537
+  },
+  "mun. Hîncești|Hîncești": {
+    "name": "mun. Hîncești",
+    "raion": "Hîncești",
+    "type": "oraș",
+    "population": 23149
+  },
+  "sat. Bălceana|Hîncești": {
+    "name": "sat. Bălceana",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 2231
+  },
+  "or. Ialoveni|Ialoveni": {
+    "name": "or. Ialoveni",
+    "raion": "Ialoveni",
+    "type": "oraș",
+    "population": 35918
+  },
+  "sat. Dănceni|Ialoveni": {
+    "name": "sat. Dănceni",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 1933
+  },
+  "sat. Bardar|Ialoveni": {
+    "name": "sat. Bardar",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 5893
+  },
+  "com. Bozieni|Hîncești": {
+    "name": "com. Bozieni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 1732
+  },
+  "com. Bobeica|Hîncești": {
+    "name": "com. Bobeica",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 4717
+  },
+  "sat. Călmățui|Hîncești": {
+    "name": "sat. Călmățui",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 1280
+  },
+  "sat. Cărbuna|Ialoveni": {
+    "name": "sat. Cărbuna",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 4754
+  },
+  "sat. Costești|Ialoveni": {
+    "name": "sat. Costești",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 3737
+  },
+  "or. Cornești|Ungheni": {
+    "name": "or. Cornești",
+    "raion": "Ungheni",
+    "type": "oraș",
+    "population": 16562
+  },
+  "sat. Cigîrleni|Ialoveni": {
+    "name": "sat. Cigîrleni",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 1318
+  },
+  "com. Gangura|Ialoveni": {
+    "name": "com. Gangura",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 5523
+  },
+  "sat. Bujor|Hîncești": {
+    "name": "sat. Bujor",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 5052
+  },
+  "sat. Hansca|Ialoveni": {
+    "name": "sat. Hansca",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 2836
+  },
+  "sat. Horești|Ialoveni": {
+    "name": "sat. Horești",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 5373
+  },
+  "sat. Horodca|Ialoveni": {
+    "name": "sat. Horodca",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 4941
+  },
+  "sat. Malcoci|Ialoveni": {
+    "name": "sat. Malcoci",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 4827
+  },
+  "com. Mileștii Mici|Ialoveni": {
+    "name": "com. Mileștii Mici",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 5309
+  },
+  "sat. Buțeni|Hîncești": {
+    "name": "sat. Buțeni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 5494
+  },
+  "sat. Molești|Ialoveni": {
+    "name": "sat. Molești",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 4874
+  },
+  "sat. Nimoreni|Ialoveni": {
+    "name": "sat. Nimoreni",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 5298
+  },
+  "mun. Ungheni|Ungheni": {
+    "name": "mun. Ungheni",
+    "raion": "Ungheni",
+    "type": "oraș",
+    "population": 27962
+  },
+  "com. Cărpineni|Hîncești": {
+    "name": "com. Cărpineni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 3592
+  },
+  "sat. Cățeleni|Hîncești": {
+    "name": "sat. Cățeleni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 5388
+  },
+  "sat. Cioara|Hîncești": {
+    "name": "sat. Cioara",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 4507
+  },
+  "sat. Ciuciuleni|Hîncești": {
+    "name": "sat. Ciuciuleni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 5990
+  },
+  "com. Cotul Morii|Hîncești": {
+    "name": "com. Cotul Morii",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 1175
+  },
+  "com. Agronomovca|Ungheni": {
+    "name": "com. Agronomovca",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 4152
+  },
+  "com. Crasnoarmeiscoe|Hîncești": {
+    "name": "com. Crasnoarmeiscoe",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 4018
+  },
+  "sat. Dancu|Hîncești": {
+    "name": "sat. Dancu",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 4195
+  },
+  "com. Boghenii Noi|Ungheni": {
+    "name": "com. Boghenii Noi",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 4490
+  },
+  "com. Drăgușenii Noi|Hîncești": {
+    "name": "com. Drăgușenii Noi",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 835
+  },
+  "sat. Bumbăta|Ungheni": {
+    "name": "sat. Bumbăta",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 4756
+  },
+  "sat. Pojăreni|Ialoveni": {
+    "name": "sat. Pojăreni",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 2222
+  },
+  "sat. Fundul Galbenei|Hîncești": {
+    "name": "sat. Fundul Galbenei",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 3436
+  },
+  "com. Ivanovca|Hîncești": {
+    "name": "com. Ivanovca",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 2833
+  },
+  "sat. Cetireni|Ungheni": {
+    "name": "sat. Cetireni",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 1892
+  },
+  "com. Lăpușna|Hîncești": {
+    "name": "com. Lăpușna",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 5287
+  },
+  "sat. Chirileni|Ungheni": {
+    "name": "sat. Chirileni",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 2445
+  },
+  "com. Leușeni|Hîncești": {
+    "name": "com. Leușeni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 1886
+  },
+  "com. Răzeni|Ialoveni": {
+    "name": "com. Răzeni",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 3440
+  },
+  "com. Cioropcani|Ungheni": {
+    "name": "com. Cioropcani",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 4219
+  },
+  "com. Ruseștii Noi|Ialoveni": {
+    "name": "com. Ruseștii Noi",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 4260
+  },
+  "sat. Sociteni|Ialoveni": {
+    "name": "sat. Sociteni",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 1263
+  },
+  "com. Mingir|Hîncești": {
+    "name": "com. Mingir",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 2852
+  },
+  "sat. Suruceni|Ialoveni": {
+    "name": "sat. Suruceni",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 5233
+  },
+  "com. Țipala|Ialoveni": {
+    "name": "com. Țipala",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 5402
+  },
+  "com. Condrătești|Ungheni": {
+    "name": "com. Condrătești",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 3156
+  },
+  "sat. Cornești|Ungheni": {
+    "name": "sat. Cornești",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 3361
+  },
+  "sat. Ulmu|Ialoveni": {
+    "name": "sat. Ulmu",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 4429
+  },
+  "com. Mirești|Hîncești": {
+    "name": "com. Mirești",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 5620
+  },
+  "sat. Văratic|Ialoveni": {
+    "name": "sat. Văratic",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 3209
+  },
+  "sat. Cornova|Ungheni": {
+    "name": "sat. Cornova",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 5009
+  },
+  "sat. Văsieni|Ialoveni": {
+    "name": "sat. Văsieni",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 2118
+  },
+  "sat. Logănești|Hîncești": {
+    "name": "sat. Logănești",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 2068
+  },
+  "com. Zîmbreni|Ialoveni": {
+    "name": "com. Zîmbreni",
+    "raion": "Ialoveni",
+    "type": "comună",
+    "population": 5923
+  },
+  "com. Mereșeni|Hîncești": {
+    "name": "com. Mereșeni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 3733
+  },
+  "mun. Bălți|Unknown": {
+    "name": "mun. Bălți",
+    "raion": "Unknown",
+    "type": "oraș",
+    "population": 42118
+  },
+  "sat. Negrea|Hîncești": {
+    "name": "sat. Negrea",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 1553
+  },
+  "com. Onești|Hîncești": {
+    "name": "com. Onești",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 3204
+  },
+  "sat. Nemțeni|Hîncești": {
+    "name": "sat. Nemțeni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 872
+  },
+  "sat. Obileni|Hîncești": {
+    "name": "sat. Obileni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 5888
+  },
+  "sat. Costuleni|Ungheni": {
+    "name": "sat. Costuleni",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 1728
+  },
+  "com. Florițoaia Veche|Ungheni": {
+    "name": "com. Florițoaia Veche",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 3871
+  },
+  "com. Pașcani|Hîncești": {
+    "name": "com. Pașcani",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 2377
+  },
+  "com. Hîrcești|Ungheni": {
+    "name": "com. Hîrcești",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 5207
+  },
+  "sat. Măgurele|Ungheni": {
+    "name": "sat. Măgurele",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 2546
+  },
+  "com. Măcărești|Ungheni": {
+    "name": "com. Măcărești",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 4365
+  },
+  "sat. Pervomaiscoe|Hîncești": {
+    "name": "sat. Pervomaiscoe",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 4561
+  },
+  "com. Mănoilești|Ungheni": {
+    "name": "com. Mănoilești",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 2863
+  },
+  "com. Secăreni|Hîncești": {
+    "name": "com. Secăreni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 3978
+  },
+  "com. Morenii Noi|Ungheni": {
+    "name": "com. Morenii Noi",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 1769
+  },
+  "sat. Sofia|Hîncești": {
+    "name": "sat. Sofia",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 5597
+  },
+  "com. Sărata-Galbenă|Hîncești": {
+    "name": "com. Sărata-Galbenă",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 3174
+  },
+  "sat. Năpădeni|Ungheni": {
+    "name": "sat. Năpădeni",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 4385
+  },
+  "sat. Rădenii Vechi|Ungheni": {
+    "name": "sat. Rădenii Vechi",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 2601
+  },
+  "com. Negurenii Vechi|Ungheni": {
+    "name": "com. Negurenii Vechi",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 5994
+  },
+  "com. Petrești|Ungheni": {
+    "name": "com. Petrești",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 3856
+  },
+  "com. Pîrlița|Ungheni": {
+    "name": "com. Pîrlița",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 1142
+  },
+  "com. Sinești|Ungheni": {
+    "name": "com. Sinești",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 3296
+  },
+  "sat. Șipoteni|Hîncești": {
+    "name": "sat. Șipoteni",
+    "raion": "Hîncești",
+    "type": "comună",
+    "population": 4998
+  },
+  "sat. Teșcureni|Ungheni": {
+    "name": "sat. Teșcureni",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 1738
+  },
+  "com. Todirești|Ungheni": {
+    "name": "com. Todirești",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 5296
+  },
+  "sat. Unțești|Ungheni": {
+    "name": "sat. Unțești",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 1604
+  },
+  "com. Valea Mare|Ungheni": {
+    "name": "com. Valea Mare",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 2721
+  },
+  "or. Rezina|Rezina": {
+    "name": "or. Rezina",
+    "raion": "Rezina",
+    "type": "oraș",
+    "population": 37533
+  },
+  "com. Zagarancea|Ungheni": {
+    "name": "com. Zagarancea",
+    "raion": "Ungheni",
+    "type": "comună",
+    "population": 5443
+  },
+  "sat. Bușăuca|Rezina": {
+    "name": "sat. Bușăuca",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 2816
+  },
+  "sat. Cinișeuți|Rezina": {
+    "name": "sat. Cinișeuți",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 3744
+  },
+  "sat. Cogîlniceni|Rezina": {
+    "name": "sat. Cogîlniceni",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 3738
+  },
+  "sat. Cuizăuca|Rezina": {
+    "name": "sat. Cuizăuca",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 1471
+  },
+  "sat. Echimăuți|Rezina": {
+    "name": "sat. Echimăuți",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 2956
+  },
+  "com. Ghiduleni|Rezina": {
+    "name": "com. Ghiduleni",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 4954
+  },
+  "sat. Gordinești|Rezina": {
+    "name": "sat. Gordinești",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 2542
+  },
+  "com. Horodiște|Rezina": {
+    "name": "com. Horodiște",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 4667
+  },
+  "sat. Ignăței|Rezina": {
+    "name": "sat. Ignăței",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 5630
+  },
+  "com. Lalova|Rezina": {
+    "name": "com. Lalova",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 4050
+  },
+  "sat. Lipceni|Rezina": {
+    "name": "sat. Lipceni",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 5830
+  },
+  "sat. Mateuți|Rezina": {
+    "name": "sat. Mateuți",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 5439
+  },
+  "com. Mincenii de Jos|Rezina": {
+    "name": "com. Mincenii de Jos",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 4760
+  },
+  "com. Zgărdești|Telenești": {
+    "name": "com. Zgărdești",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 2965
+  },
+  "sat. Otac|Rezina": {
+    "name": "sat. Otac",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 3759
+  },
+  "sat. Elizaveta|Bălți": {
+    "name": "sat. Elizaveta",
+    "raion": "Bălți",
+    "type": "oraș",
+    "population": 106764
+  },
+  "sat. Păpăuți|Rezina": {
+    "name": "sat. Păpăuți",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 2957
+  },
+  "sat. Peciște|Rezina": {
+    "name": "sat. Peciște",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 5614
+  },
+  "com. Pereni|Rezina": {
+    "name": "com. Pereni",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 2625
+  },
+  "sat. Sadovoe|Bălți": {
+    "name": "sat. Sadovoe",
+    "raion": "Bălți",
+    "type": "oraș",
+    "population": 139597
+  },
+  "com. Pripiceni-Răzeși|Rezina": {
+    "name": "com. Pripiceni-Răzeși",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 5015
+  },
+  "sat. Trifești|Rezina": {
+    "name": "sat. Trifești",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 1769
+  },
+  "com. Saharna Nouă|Rezina": {
+    "name": "com. Saharna Nouă",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 4722
+  },
+  "com. Sîrcova|Rezina": {
+    "name": "com. Sîrcova",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 2796
+  },
+  "com. Solonceni|Rezina": {
+    "name": "com. Solonceni",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 1121
+  },
+  "com. Țareuca|Rezina": {
+    "name": "com. Țareuca",
+    "raion": "Rezina",
+    "type": "comună",
+    "population": 5032
+  },
+  "or. Telenești|Telenești": {
+    "name": "or. Telenești",
+    "raion": "Telenești",
+    "type": "oraș",
+    "population": 26576
+  },
+  "com. Bănești|Telenești": {
+    "name": "com. Bănești",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 4745
+  },
+  "sat. Bogzești|Telenești": {
+    "name": "sat. Bogzești",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 2289
+  },
+  "com. Brînzenii Noi|Telenești": {
+    "name": "com. Brînzenii Noi",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 4514
+  },
+  "sat. Cîșla|Telenești": {
+    "name": "sat. Cîșla",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 935
+  },
+  "sat. Budăi|Telenești": {
+    "name": "sat. Budăi",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 2025
+  },
+  "com. Căzănești|Telenești": {
+    "name": "com. Căzănești",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 5153
+  },
+  "sat. Codrul Nou|Telenești": {
+    "name": "sat. Codrul Nou",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 5743
+  },
+  "sat. Chiștelnița|Telenești": {
+    "name": "sat. Chiștelnița",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 4334
+  },
+  "sat. Nucăreni|Telenești": {
+    "name": "sat. Nucăreni",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 2679
+  },
+  "com. Chițcanii Vechi|Telenești": {
+    "name": "com. Chițcanii Vechi",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 5519
+  },
+  "sat. Ordășei|Telenești": {
+    "name": "sat. Ordășei",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 1486
+  },
+  "sat. Ciulucani|Telenești": {
+    "name": "sat. Ciulucani",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 858
+  },
+  "com. Pistruieni|Telenești": {
+    "name": "com. Pistruieni",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 3387
+  },
+  "sat. Coropceni|Telenești": {
+    "name": "sat. Coropceni",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 2940
+  },
+  "com. Ratuș|Telenești": {
+    "name": "com. Ratuș",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 4055
+  },
+  "sat. Crăsnășeni|Telenești": {
+    "name": "sat. Crăsnășeni",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 3832
+  },
+  "com. Ghiliceni|Telenești": {
+    "name": "com. Ghiliceni",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 4061
+  },
+  "sat. Hirișeni|Telenești": {
+    "name": "sat. Hirișeni",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 4458
+  },
+  "sat. Inești|Telenești": {
+    "name": "sat. Inești",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 3572
+  },
+  "or. Frunză|Ocnița": {
+    "name": "or. Frunză",
+    "raion": "Ocnița",
+    "type": "oraș",
+    "population": 33500
+  },
+  "sat. Leușeni|Telenești": {
+    "name": "sat. Leușeni",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 5717
+  },
+  "com. Mîndrești|Telenești": {
+    "name": "com. Mîndrești",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 1109
+  },
+  "com. Negureni|Telenești": {
+    "name": "com. Negureni",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 3146
+  },
+  "com. Sărătenii Vechi|Telenești": {
+    "name": "com. Sărătenii Vechi",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 4849
+  },
+  "com. Tîrșiței|Telenești": {
+    "name": "com. Tîrșiței",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 3142
+  },
+  "sat. Scorțeni|Telenești": {
+    "name": "sat. Scorțeni",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 5839
+  },
+  "sat. Țînțăreni|Telenești": {
+    "name": "sat. Țînțăreni",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 2089
+  },
+  "com. Suhuluceni|Telenești": {
+    "name": "com. Suhuluceni",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 4121
+  },
+  "sat. Văsieni|Telenești": {
+    "name": "sat. Văsieni",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 1538
+  },
+  "sat. Verejeni|Telenești": {
+    "name": "sat. Verejeni",
+    "raion": "Telenești",
+    "type": "comună",
+    "population": 3646
+  },
+  "or. Otaci|Ocnița": {
+    "name": "or. Otaci",
+    "raion": "Ocnița",
+    "type": "oraș",
+    "population": 34473
+  },
+  "com. Bîrlădeni|Ocnița": {
+    "name": "com. Bîrlădeni",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 1392
+  },
+  "sat. Clocușna|Ocnița": {
+    "name": "sat. Clocușna",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 2911
+  },
+  "sat. Bîrnova|Ocnița": {
+    "name": "sat. Bîrnova",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 3889
+  },
+  "com. Calarașovca|Ocnița": {
+    "name": "com. Calarașovca",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 4558
+  },
+  "com. Dîngeni|Ocnița": {
+    "name": "com. Dîngeni",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 2912
+  },
+  "sat. Gîrbova|Ocnița": {
+    "name": "sat. Gîrbova",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 2683
+  },
+  "com. Grinăuți-Moldova|Ocnița": {
+    "name": "com. Grinăuți-Moldova",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 2957
+  },
+  "sat. Hădărăuți|Ocnița": {
+    "name": "sat. Hădărăuți",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 1422
+  },
+  "com. Lencăuți|Ocnița": {
+    "name": "com. Lencăuți",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 5499
+  },
+  "or. Vatra|Chișinău": {
+    "name": "or. Vatra",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 686459
+  },
+  "com. Lipnic|Ocnița": {
+    "name": "com. Lipnic",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 2461
+  },
+  "sat. Mereșeuca|Ocnița": {
+    "name": "sat. Mereșeuca",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 1782
+  },
+  "com. Tohatin|Chișinău": {
+    "name": "com. Tohatin",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 322158
+  },
+  "com. Mihălășeni|Ocnița": {
+    "name": "com. Mihălășeni",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 5506
+  },
+  "sat. Naslavcea|Ocnița": {
+    "name": "sat. Naslavcea",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 3095
+  },
+  "com. Ocnița|Ocnița": {
+    "name": "com. Ocnița",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 4266
+  },
+  "sat. Sauca|Ocnița": {
+    "name": "sat. Sauca",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 2231
+  },
+  "sat. Unguri|Ocnița": {
+    "name": "sat. Unguri",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 868
+  },
+  "com. Vălcineț|Ocnița": {
+    "name": "com. Vălcineț",
+    "raion": "Ocnița",
+    "type": "comună",
+    "population": 5819
+  },
+  "or. Sîngera|Chișinău": {
+    "name": "or. Sîngera",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 491849
+  },
+  "com. Băcioi|Chișinău": {
+    "name": "com. Băcioi",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 510025
+  },
+  "sat. Condrița|Chișinău": {
+    "name": "sat. Condrița",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 352360
+  },
+  "sat. Ghidighici|Chișinău": {
+    "name": "sat. Ghidighici",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 376464
+  },
+  "or. Codru|Chișinău": {
+    "name": "or. Codru",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 561933
+  },
+  "com. Ciorescu|Chișinău": {
+    "name": "com. Ciorescu",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 555129
+  },
+  "or. Vadul lui Vodă|Chișinău": {
+    "name": "or. Vadul lui Vodă",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 331476
+  },
+  "com. Bubuieci|Chișinău": {
+    "name": "com. Bubuieci",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 436193
+  },
+  "sat. Budești|Chișinău": {
+    "name": "sat. Budești",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 515881
+  },
+  "sat. Colonița|Chișinău": {
+    "name": "sat. Colonița",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 391508
+  },
+  "com. Cruzești|Chișinău": {
+    "name": "com. Cruzești",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 341108
+  },
+  "com. Grătiești|Chișinău": {
+    "name": "com. Grătiești",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 635848
+  },
+  "or. Durlești|Chișinău": {
+    "name": "or. Durlești",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 341477
+  },
+  "mun. Chișinău|Unknown": {
+    "name": "mun. Chișinău",
+    "raion": "Unknown",
+    "type": "oraș",
+    "population": 25529
+  },
+  "com. Trușeni|Chișinău": {
+    "name": "com. Trușeni",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 692112
+  },
+  "or. Cricova|Chișinău": {
+    "name": "or. Cricova",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 365556
+  },
+  "or. Stăuceni|Chișinău": {
+    "name": "or. Stăuceni",
+    "raion": "Chișinău",
+    "type": "oraș",
+    "population": 410400
+  }
+}
