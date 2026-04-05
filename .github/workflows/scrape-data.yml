@@ -23,4 +23,5 @@ jobs:
           git config user.email "actions@github.com"
           git add data/
           git diff --cached --quiet || git commit -m "chore(data): refresh scraped data"
+          git pull --rebase origin main || true
           git push
