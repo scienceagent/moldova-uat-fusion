@@ -91,6 +91,13 @@ def uat_polygons():
     return data or {"type": "FeatureCollection", "features": []}
 
 
+@app.get("/uat/boundaries/raioane")
+def raioane_polygons():
+    """Raion border polygons."""
+    data = _load("raioane_polygons.geojson")
+    return data or {"type": "FeatureCollection", "features": []}
+
+
 @app.get("/uat/boundaries/points")
 def uat_points():
     """UAT point locations (centroids) fallback."""

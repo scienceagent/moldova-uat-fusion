@@ -34,6 +34,20 @@ const getColor = (p) => {
                       '#f7fcfd';
 };
 
+const getRaionColor = (raion) => {
+  const colors = [
+    '#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', 
+    '#911eb4', '#46f0f0', '#f032e6', '#bcf60c', '#fabebe', 
+    '#008080', '#e6beff', '#9a6324', '#fffac8', '#800000', 
+    '#aaffc3', '#808000', '#ffd8b1', '#000075', '#808080'
+  ];
+  let hash = 0;
+  for (let i = 0; i < raion.length; i++) {
+    hash = raion.charCodeAt(i) + ((hash << 5) - hash);
+  }
+  return colors[Math.abs(hash) % colors.length];
+};
+
 /* ─── Components ─── */
 function BudgetBar({ label, amount, maxAmount, className }) {
   const pct = maxAmount > 0 ? Math.min((amount / maxAmount) * 100, 100) : 0;
@@ -151,16 +165,19 @@ function MapEvents({ onMapClick }) {
 export default function App() {
   const [stats, setStats] = useState(null);
   const [boundaries, setBoundaries] = useState(null);
+  const [raionBoundaries, setRaionBoundaries] = useState(null);
   const [scenario, setScenario] = useState("current");
+  const [colorMode, setColorMode] = useState("population");
   const [selected, setSelected] = useState(null);
   const [loading, setLoading] = useState(true);
   const [selectedRaion, setSelectedRaion] = useState("");
   const geoJsonRef = useRef(null);
   const mapRef = useRef(null);
 
-  // Load Initial Stats
+  // Load Initial Stats and Raions
   useEffect(() => {
     axios.get(`${API}/uat/stats`).then(r => setStats(r.data)).catch(e => console.error(e));
+    axios.get(`${API}/uat/boundaries/raioane`).then(r => setRaionBoundaries(r.data)).catch(e => console.error(e));
   }, []);
 
   const loadScenario = useCallback(async (type) => {
@@ -236,14 +253,32 @@ export default function App() {
   const getStyle = useCallback((feature) => {
     const p = feature.properties;
     const isSelected = selected?.id === p.id;
+    
+    // Default styles for Comune/Sate (Dashe lines, subtle)
+    let bColor = "rgba(255,255,255, 0.4)";
+    let weight = 1.2;
+    let dash = "4, 4";
+    
+    // Orașe (Cities) have more prominent solid borders
+    if (p.type === "oraș") {
+       bColor = "#f6ad55"; 
+       weight = 2;
+       dash = "";
+    }
+    
+    const fill = colorMode === "population" 
+         ? getColor(p.population) 
+         : getRaionColor(p.raion || "Unknown");
+
     return {
-      fillColor: isSelected ? "#ffff00" : getColor(p.population),
-      weight: isSelected ? 4 : 1,
+      fillColor: isSelected ? "#ffff00" : fill,
+      weight: isSelected ? 4 : weight,
       opacity: 1,
-      color: isSelected ? "#ffffff" : "rgba(255,255,255,0.2)",
-      fillOpacity: isSelected ? 1.0 : 0.7,
+      dashArray: isSelected ? "" : dash,
+      color: isSelected ? "#ffffff" : bColor,
+      fillOpacity: isSelected ? 1.0 : (colorMode === "raion" ? 0.35 : 0.75),
     };
-  }, [selected]);
+  }, [selected, colorMode]);
 
   // Effect to update styles when 'selected' changes without re-rendering whole GeoJSON
   useEffect(() => {
@@ -262,7 +297,7 @@ export default function App() {
           <div className="subtitle">Vizualizare Poligoane Comune & Orașe</div>
         </div>
 
-        <div className="scenario-toggle">
+        <div className="scenario-toggle" style={{ borderBottom: "none", paddingBottom: "8px" }}>
           {["current", "3000", "5000"].map(s => (
             <button key={s} 
               className={`scenario-btn ${scenario === s ? "active" : ""}`}
@@ -271,6 +306,19 @@ export default function App() {
               {s === "current" ? "Actual" : `Prag ${s}`}
             </button>
           ))}
+        </div>
+
+        <div className="scenario-toggle">
+          <button 
+             className={`scenario-btn ${colorMode === "population" ? "active" : ""}`}
+             onClick={() => setColorMode("population")}>
+               🗺️ Model: Populație
+           </button>
+           <button 
+             className={`scenario-btn ${colorMode === "raion" ? "active" : ""}`}
+             onClick={() => setColorMode("raion")}>
+               🎨 Model: Raioane
+           </button>
         </div>
 
         {/* ── Selection Lists ── */}
@@ -355,16 +403,40 @@ export default function App() {
               onEachFeature={onEachFeature}
             />
           )}
+
+          {raionBoundaries && (
+            <GeoJSON 
+              key="raion-borders"
+              data={raionBoundaries} 
+              style={{
+                fillColor: 'transparent',
+                fillOpacity: 0,
+                color: '#ffffff',
+                weight: 2.5,
+                opacity: 0.9,
+                interactive: false
+              }}
+            />
+          )}
         </MapContainer>
 
         <div className="map-legend">
-          <h4>Populație</h4>
-          <div className="legend-item"><div className="legend-dot" style={{background:'#00441b'}}/> &gt; 100k</div>
-          <div className="legend-item"><div className="legend-dot" style={{background:'#238b45'}}/> 20k - 50k</div>
-          <div className="legend-item"><div className="legend-dot" style={{background:'#41ae76'}}/> 10k - 20k</div>
-          <div className="legend-item"><div className="legend-dot" style={{background:'#66c2a4'}}/> 5k - 10k</div>
-          <div className="legend-item"><div className="legend-dot" style={{background:'#99d8c9'}}/> 3k - 5k</div>
-          <div className="legend-item"><div className="legend-dot" style={{background:'#ccece6'}}/> &lt; 3k</div>
+          <h4>{colorMode === "population" ? "Populație" : "Raioane (Culoare Aleatorie)"}</h4>
+          {colorMode === "population" && (
+            <>
+              <div className="legend-item"><div className="legend-dot" style={{background:'#00441b'}}/> &gt; 100k</div>
+              <div className="legend-item"><div className="legend-dot" style={{background:'#238b45'}}/> 20k - 50k</div>
+              <div className="legend-item"><div className="legend-dot" style={{background:'#41ae76'}}/> 10k - 20k</div>
+              <div className="legend-item"><div className="legend-dot" style={{background:'#66c2a4'}}/> 5k - 10k</div>
+              <div className="legend-item"><div className="legend-dot" style={{background:'#99d8c9'}}/> 3k - 5k</div>
+              <div className="legend-item"><div className="legend-dot" style={{background:'#ccece6'}}/> &lt; 3k</div>
+            </>
+          )}
+          <div style={{marginTop: 10, borderTop: "1px solid var(--border)", paddingTop: 8}}>
+             <h4>Tip Hotare (UAT)</h4>
+             <div className="legend-item"><div style={{width: 16, borderBottom: "2px solid #f6ad55"}}/> Orașe</div>
+             <div className="legend-item"><div style={{width: 16, borderBottom: "1.5px dashed rgba(255,255,255,0.7)"}}/> Comune / Sate</div>
+          </div>
         </div>
       </div>
     </>
